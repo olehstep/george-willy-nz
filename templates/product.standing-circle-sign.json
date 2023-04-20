@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Standing Height: 101.7cm<br>Stand Base: 54.4mm<br>Sign Face: 25cm (W) x 25cm (H)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Standing_Circle_Sign_Spec_Doc.pdf?v=1657579523\" target=\"_blank\">View Specifications PDF<\/a><\/p><p>The Standing Circle Sign also comes with a pack of useful stickers to apply to your sign as needed.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Vinyl_Sticker_Pack_Sign_Spec_Standing_Flag_and_Circle_Signs.pdf?v=1659411909\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Vinyl_Sticker_Pack_Sign_Spec_Standing_Flag_and_Circle_Signs.pdf?v=1659411909\">View Sticker Pack<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$20 AUD Australia via DHL<br>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "785f483e-f5d8-4086-a04a-1689e08b71d8": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "Installation Instructions",
+            "icon": "check_mark",
+            "content": "<p>The Menu Stand comes with everything you need to get going, with handy installation instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Menu_Stand_Instructions_web.pdf?v=1642368167\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "1b9b58b2-87c1-4dff-8868-d0c00275f01f": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Can I use a marker pen to write on the Standing Circle Sign?<\/h3><p>We would not recommend using any kind of pen on the lollipop sign. To add a decal, get in touch with your local signwriter who will be able to help.<\/p><h3>What material is the Standing Circle Sign made from?<\/h3><p>The Circle Sign is made from 100% aluminium, which means it is suitable for exterior spaces. We made the sign from aluminium as this material can not rust and lasts better outside than other storefront signage materials such as wood and steel.<\/p><h3>Does logo printing come with the sign?<\/h3><p>All our Signs arrive blank, but we offer advice on powder-coating and decal printing for creating custom signs tailored to your needs.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "You might also like",
+            "product_list": [
+              "circle-sidewalk-sign",
+              "standing-curve-sign",
+              "standing-round-sign",
+              "stake-circle-sign"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "785f483e-f5d8-4086-a04a-1689e08b71d8",
+        "1b9b58b2-87c1-4dff-8868-d0c00275f01f",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "166026852622f50b44": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Standing-Sign_7_9d206f09-b479-4881-ba41-f6b890b6599e.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Need Something Bigger?",
+        "use_h1": false,
+        "text": "<p>You've got options.<\/p><p>Meet the Standing Sign.<\/p>",
+        "button_label": "Shop Standing Sign",
+        "button_link": "shopify:\/\/products\/standing-round-sign",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1660268723e494d032": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/1S9A3497.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Rain, Hail or Shine",
+        "use_h1": false,
+        "text": "<p>100% rust resistant.<br\/>Designed to last you a lifetime.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "sidewalk-signs",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166026852622f50b44",
+    "1660268723e494d032",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

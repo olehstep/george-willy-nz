@@ -1,0 +1,211 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": true,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Frame: 17.24\"\/43.8cm (H) x 12\"\/30.5cm (W) 1.22\"\/3.1cm (D).<br\/>Paper: 2 x 210GSM A3 pads, each containing 50 pages. Refills sold separately.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/3464\/2627\/files\/Paper_Frame_Spec_Doc.pdf?v=1626057699\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$25 AUD Australia<br\/>$25 NZD New Zealand<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George & Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "fb5904a4-2299-4af1-869a-a70c13c8aecb": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>What material is the Paper Frame made from?<\/em><\/p><p>The Paper Frame is a glassless frame made from powder-coated aluminium, a durable, long-lasting material. The Paper Frame also comes with two paper pads to keep you stocked up for a while.<\/p><p><em>Can I order a refill Paper Pad?<\/em><\/p><p>Yes! You'll find Paper Pad refills <a href=\"https:\/\/george-willy-nz.myshopify.com\/products\/extra-paper-pad\">here<\/a>.<\/p><p><em>How big is the Paper Frame?<\/em><\/p><p>The open-face Paper Frame is 438mm (H) x 305mm (W) x 31mm (D).<\/p><p><em>What size of paper pad fits into the Paper Frame?<\/em><\/p><p>The sketchbooks supplied with the Paper Frame are 420mm (H) x 297mm (W) (standard A3).<\/p><p><em>What can I use the Paper Frame for?<\/em><\/p><p>The Paper Frame can be used for a whole number of purposes, from displaying painted artwork, collages, and scribbles, to showcasing handwritten notes, messages, and quotes.<\/p><p><em>What orientation is the Paper Frame?<\/em><\/p><p>We designed the Paper Frame to be installed in portrait orientation.<\/p><p><em>What can I use to write or draw on the paper pad?<\/em><\/p><p>The Paper Frame comes with two pads of high-quality, watercolour-grade paper, which is a beautifully textured surface for painting, drawing, and writing on. Being 210GSM, the paper is a great thickness to use any variety of inks, paints, pens, and pencils without the ink seeping through too.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "Stock up on extra paper",
+            "product_list": [
+              "extra-paper-pad"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "fb5904a4-2299-4af1-869a-a70c13c8aecb",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "for-home",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

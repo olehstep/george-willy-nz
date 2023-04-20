@@ -1,0 +1,333 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "bf4933b3-77ff-464d-87f6-18664eb659cb": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Board: 27.6\"\/70cm (H) x 17.7\"\/45cm (W) x 0.47\"\/12mm (D)<br>552 x Regular Letters: 0.6\"\/1.5cm (H) x 0.55\"\/1.4cm (W)<br>552 x Large Letters: 0.78\"\/2cm (H) x 0.70\"\/1.85cm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Park_Letter_Board_Spec_Doc.pdf?v=1626662396\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$20 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Park Letter Board comes with all the necessary hardware to get going, but take a look at our handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Park_Letter_Board_Instructions_Web.pdf?v=1632109592\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "de6817dd-5a8e-4b2e-84e1-8daf0914472f": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>What is used to install the Park Letter Board?<\/h3>\n<p>Each peg letter board comes with its own set of stainless screws and all hardware required for easy installation of your peg letterboard.<\/p>\n<h3>Can the Park Letter Board be drilled into a tile?<\/h3>\n<p>Yes, you can mount the peg menu display to tile or brick. You will need to source the correct screws from the hardware store though as ours aren’t designed for tile or brick.<\/p>\n<h3>Are there enough peg letters with one board for a cafe menu?<\/h3>\n<p>Each Park Letter Board comes with a set of 552 font-sized peg letters in two different sizes (1,104 in total), but if you find that you are short, you can purchase more from us using the link below.<\/p>\n<h3>What are the changeable letters made out of?<\/h3>\n<p>The Park Letter Board letters are made of plastic which means they will last a lifetime.<\/p>\n<h3>Can I order extra letters if I run out?<\/h3>\n<p>Yes, you sure can. If you have ordered and find that you’re short on letters, we sell extra sets of the <a href=\"\/products\/peg-letters\" rel=\"noopener noreferrer\" target=\"_blank\">changeable display letters<\/a>.<\/p>\n<h3>Can I change the orientation of the peg letter menu board?<\/h3>\n<p>Absolutely yes! The Park Menu Board can be installed in landscape\/horizontal or portrait\/vertical orientation on your wall.<\/p>\n<h3>Is there a bigger size of the Park Letter Board?<\/h3>\n<p>At this stage, we only offer one size of the Park Letter Board. However, if you join multiple boards together, you can make as big or small as your desire. Otherwise, the <a href=\"\/products\/wall-mounted-paper-roller\" target=\"_blank\">Studio Roller<\/a> is a customisable menu board that is as big as 48\"\/120cm wide, and the <a href=\"\/products\/atelier-letter-board\" target=\"_blank\">Atelier Letter Board<\/a> is another example of a <a href=\"\/collections\/letter-menu-boards\" rel=\"noopener noreferrer\" target=\"_blank\">changeable Letter Board<\/a> that can be stacked side-by-side.<\/p>\n<p>For other Letter Board products, check out our <a href=\"\/products\/small-wooden-letter-board\" target=\"_blank\">Small Wooden Letter Board<\/a> and the <a href=\"\/products\/hanging-menu-board\" target=\"_blank\" title=\"Hanging Menu Board\">Hanging Menu Board<\/a>.<\/p>\n<h3>Are there smaller options of the peg letter menu?<\/h3>\n<p>We sell a range of menu displays and letterboards for all types of businesses and spaces, including the <a href=\"\/products\/peg-letter-board-mini\" rel=\"noopener noreferrer\" target=\"_blank\">Specials Board<\/a> and <a href=\"\/products\/table-talkers\" rel=\"noopener noreferrer\" target=\"_blank\">Table Talkers<\/a>. For more table signs, take a look at our <a href=\"\/collections\/tabletop\" rel=\"noopener noreferrer\" target=\"_blank\">range of countertop signage<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "Need some extra letters?",
+            "product_list": [
+              "peg-letters"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "bf4933b3-77ff-464d-87f6-18664eb659cb",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "de6817dd-5a8e-4b2e-84e1-8daf0914472f",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/PARK-LETTER-BOARD-LETTER-STORAGE.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Letter Storage, Sorted",
+        "use_h1": false,
+        "text": "<p>Wooden keepboxes keep your letters organised so you can enjoy the process, as you should.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Park-Display-19.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Join Them Up",
+        "use_h1": false,
+        "text": "<p>Combine the Park Boards to create a canvas which suits your menu.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433236359d8bea": {
+      "type": "gallery",
+      "blocks": {
+        "1655433236f8245331-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Park-Display-2-copy.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Park-Display-34.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1655433236f8245331-0",
+        "1655433236f8245331-1"
+      ],
+      "settings": {
+        "gallery_title": "Park Letter Boards Out & About",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 36,
+        "title_size_mobile": 40,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "secondary"
+      }
+    },
+    "165584739720ac4449": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Architectural Grade Plywood",
+        "use_h1": false,
+        "text": "<p>Birch plywood cut carefully with more than 1000 holes and over 1000 letters, both large & small, so you won't get caught short.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1656391115b770abb2": {
+      "type": "apps",
+      "blocks": {
+        "82856014-0af5-4bd5-8b20-64b6370b49ec": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "82856014-0af5-4bd5-8b20-64b6370b49ec"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655433236359d8bea",
+    "165584739720ac4449",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1656391115b770abb2"
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Sign Face: 11.6cm x 6.02cm <br>Small Magnet Letters: 7mm x 5mm <br>Large Magnet Letters: 9.72mm x 6.9mm <\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Medium_Counter_Signs_Specifications.pdf?v=1661816765\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Medium_Counter_Signs_Specifications.pdf?v=1661816765\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "8db9b940-5e45-44c0-84a9-44713c43e8ef": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>How big is the faceplate on the custom Counter Sign?<\/h3>\n<p>The faceplate on the metal Counter Sign display measures 11.6cm\/4.5\" (W) x 6cm\/2.3\" (H).<\/p>\n<h3>How many letters and numbers come with the Counter Signs?<\/h3>\n<p>Each order of Counter Signs comes with eight sheets of magnet letters and numbers, with 2,489 symbols in total. Take a look at the Specifications PDF for exact quantities of each letter, number and character.<\/p>\n<h3>Can I buy extra magnets if I run out?<\/h3>\n<p>We do not sell extra magnet letters or numbers, but we've included more than enough in each pack to have your displays up and running in no time.<\/p>\n<h3>How many Counter Signs will come in each pack?<\/h3>\n<p>Each pack comes with 12 Counter Signs and eight sheets of magnetic characters.<\/p>\n<h3>Do you also brand the Counter Signs or do you only sell them as blanks?<\/h3>\n<p>We only supply the Counter Signs blank. However, the Counter Signs are really easy to get branded. Simply take it to your local signwriter or printer and they will be able to apply a vinyl decal of your artwork to the sign. Just tell them it is going on a 11.6cm\/4.5\" (W) x 6cm\/2.3\" (H) faceplate.<\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>We also sell a Collection of <a href=\"\/collections\/counter-signs\" target=\"_blank\" title=\"Counter Signs\">Counter Signs<\/a> in a range of shapes and sizes, along with the <a href=\"\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a>, the <a href=\"\/products\/pricing-signs\" target=\"_blank\">Pricing Signs<\/a>, and the <a href=\"\/products\/table-talkers\" target=\"_blank\" title=\"Table Talkers - Set of 6\">Table Talkers <\/a>for something a little different. Have a look at our complete <a href=\"\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>\n<h3>Can the small magnetic signs be used outside?<\/h3>\n<p>The counter display signs should not be used outdoors, as they are not considered weatherproof.<\/p>\n<h3>What other small menu displays does George &amp; Willy sell?<\/h3>\n<p>We have a range of <a href=\"\/collections\/counter-signs\" target=\"_blank\" title=\"custom counter signs\">custom Counter Signs<\/a> in different shapes, sizes, and colors designed to suit your space, including the <a href=\"\/products\/large-counter-signs\" target=\"_blank\" title=\"customisable counter signs\">Large Counter Signs<\/a>, <a href=\"\/products\/medium-counter-signs\" target=\"_blank\" title=\"countertop pricing displays\">Medium Counter Signs<\/a>, the <a href=\"\/products\/standing-counter-signs\" target=\"_blank\" title=\"standing price displays\">Standing Counter Signs<\/a>. For something a little different, take a look at the <a href=\"\/products\/large-pricing-signs\" target=\"_blank\" title=\"customisable pricing signs\">Large Pricing Signs<\/a>, and for the full range, check out our <a href=\"\/collections\/tabletop\" target=\"_blank\" title=\"countertop signs for pricing and letter displays\">Tabletop Collection<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "8db9b940-5e45-44c0-84a9-44713c43e8ef",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Counter_Signs_Colour.gif",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Choice of Colour",
+        "use_h1": false,
+        "text": "<p>Available in six different colours, which one suits your space?<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "adf54c4c-37d2-4d82-87f5-8d903a246642": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Counter_Sign_Range_Blue_b20bc711-edb8-4f31-9806-2b9e63129143.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "You've Got Options",
+        "use_h1": false,
+        "text": "<p>Available in a range of shapes and sizes, we designed the Counter Sign range to look great on any table or countertop.<\/p>",
+        "button_label": "EXPLORE COUNTER SIGNS",
+        "button_link": "shopify:\/\/collections\/counter-signs",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "4b2cc63d-b7a1-4b51-b950-c0bffa08514f": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/CustomizableCounterSigns_d0089f32-66e9-41a7-8465-91f2d1266380.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Packaging Worth Keeping",
+        "use_h1": false,
+        "text": "<p>No plastic in sight. Your Counter Signs are packaged in a wooden box, designed for keeping.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "2,400+ Numbers & Symbols",
+        "use_h1": false,
+        "text": "<p>You won't get caught short when it comes to labeling your goods.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "e8cff7db-9058-4051-b4cf-891272403868": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Two Ways to Display",
+        "use_h1": false,
+        "text": "<p>Choose your preferred angle for easy viewing<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p><\/p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "tabletop",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "adf54c4c-37d2-4d82-87f5-8d903a246642",
+    "4b2cc63d-b7a1-4b51-b950-c0bffa08514f",
+    "16557738973d9ad62e",
+    "e8cff7db-9058-4051-b4cf-891272403868",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

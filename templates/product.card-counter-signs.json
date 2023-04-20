@@ -1,0 +1,333 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Counter Sign: 9.cm (L) x 5.5cm (H) x 2.8cm (D)<br>Card: 9cm (L) x 5.5cm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Card_Counter_Sign_Spec_Doc.pdf?v=1639340557\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "96e8934d-9744-428f-9291-bc56b3e1aebc": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>How big are the Card Counter Signs?<\/h3>\n<p>The Card Counter Signs measure 91mm\/3.58 (W) x 55mm\/2.16\" (H) x 28mm\/1.16\" (D).<\/p>\n<h3>How many signs will come in each pack?<\/h3>\n<p>Each pack comes with 12 card holders, with a pad of 100 white cards and a set of stamps.<\/p>\n<h3>If I run out of card, can I purchase an extra pack?<\/h3>\n<p>We don't sell extra card pads, but if you need some more, larger pieces of card are easy to find at your local supplies store, and can be cut to size - 90mm\/3.54” (L) x 55mm\/2.16” (W).<\/p>\n<h3>What material is the metal price sign made from?<\/h3>\n<p>The Card Counter Sign stand is made from aluminum.<\/p>\n<h3>How can I display messages on the Card Counter Signs?<\/h3>\n<p>The small cards can be stamped on using the stamp letters and numbers provided, or handwritten on using your favourite pen.  <\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>Take a look at the <a href=\"https:\/\/www.georgeandwilly.com\/products\/counter-signs?\" target=\"_blank\" title=\"“Counter\">Counter Signs<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/products\/peg-letter-board-mini?\" target=\"_blank\" title=\"Specials Board\">Specials Board<\/a>, and <a href=\"https:\/\/www.georgeandwilly.com\/collections\/tabletop\/products\/table-talkers\" rel=\"noopener noreferrer\" target=\"_blank\">Table Talkers<\/a> for smaller signs designed to fit on your till, counter, or tables. Alternatively, take a look at our full range of <a href=\"https:\/\/www.georgeandwilly.com\/collections\/tabletop\" rel=\"noopener noreferrer\" target=\"_blank\">Tabletop Signage and Menu Boards<\/a>.<\/p>\n<h3>What other menu board options does George &amp; Willy sell?<\/h3>\n<p>We have a wide range of <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\" rel=\"noopener noreferrer\" target=\"_blank\">Menu Boards<\/a> available, including rail menus, counter signs, and wall letterboards. Some of our favorites include the <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/hanging-menu-board\" rel=\"noopener noreferrer\" target=\"_blank\">Hanging Menu Board<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/changeable-letter-board\" rel=\"noopener noreferrer\" target=\"_blank\">Scout Letter Board<\/a>, and <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/market-felt-board\" rel=\"noopener noreferrer\" target=\"_blank\">Market Felt Board<\/a>. For smaller options, take a look at our <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/pricing-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Price Signs<\/a> and <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/table-top-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Countertop Sign<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "You might also like",
+            "product_list": [
+              "large-pricing-signs-set-of-12",
+              "large-round-counter-signs",
+              "medium-round-counter-signs",
+              "counter-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "96e8934d-9744-428f-9291-bc56b3e1aebc",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/sign-holder-stand.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Stamp It",
+        "use_h1": false,
+        "text": "<p>Handwriting a bit average? We've included a stamp set to make writing your message easy.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/counter-signage.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Sold Out?",
+        "use_h1": false,
+        "text": "<p>Slide the old card out, slide a new one in. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433090c7499e59": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Card-Counter-Sign_-10.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A little bit Fancy",
+        "use_h1": false,
+        "text": "<p>Bronze detailing adds something extra.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16566251389520fe0e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/GEORGE-AND-WILLY-CARD-COUNTER-SIGNS.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Packaging Worth Keeping",
+        "use_h1": false,
+        "text": "<p>No plastic in sight. Your Card Counter Signs are packaged in a wooden box, designed for keeping.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16577438329df7428a": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Card-Counter-Signs.gif",
+        "image_width": 700,
+        "subheading": "",
+        "title": "One Sign, Two Ways",
+        "use_h1": false,
+        "text": "<p>Choose the angle of your Card Counter Sign that suits your display.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1656625199434189ac": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Counter-Signs_-11.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Prefer Magnets?",
+        "use_h1": false,
+        "text": "<p>Explore the Counter Signs<\/p>",
+        "button_label": "Explore",
+        "button_link": "shopify:\/\/collections\/counter-signs",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "tabletop",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655433090c7499e59",
+    "16566251389520fe0e",
+    "16577438329df7428a",
+    "1656625199434189ac",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

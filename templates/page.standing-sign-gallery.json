@@ -1,0 +1,277 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "16566320477e0d5023": {
+      "type": "rich-text",
+      "blocks": {
+        "16566320470fdf659d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Get Inspired",
+            "use_h1": false
+          }
+        },
+        "73131d11-bd0f-470f-8e67-e50ef193eae1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16566320470fdf659d-0",
+        "73131d11-bd0f-470f-8e67-e50ef193eae1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16563870001c42937e": {
+      "type": "gallery",
+      "blocks": {
+        "cf73627a-2bbc-4ff8-a82a-6cdfca3bdf29": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/marcella.l_2_31a5fb49-12c3-4a0e-a5d7-879ad2dfcae8.jpg",
+            "alignment": "top left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "33cb0d19-d058-4765-ae11-6c890e88558e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/urbanebuild_24c0ee9e-3eb2-483c-936e-2df8f76ef3ca.jpg",
+            "alignment": "top right",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16563870001a3123ea-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/barrjoinery_1_2.jpg",
+            "alignment": "top right",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "87be2f23-a4a1-45fb-a1c3-24c91ccd949f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01-2.jpg",
+            "alignment": "bottom center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "07e87958-22d2-4013-bf4e-329a3efc9295": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/barrjoinery_2.jpg",
+            "alignment": "top left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "a03dd2a0-3b41-4c40-bef3-a37f52916f74": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hanging_Drying_Rack.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "032e048c-26db-4a7a-8b68-537cc48df2c3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/creekwoodhill.png",
+            "alignment": "top left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "b32590bb-5b78-4922-aad1-b91511602be9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jesshunterinteriors.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "a9536371-67a9-42af-806c-f5d24b011729": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thedesignory_2ebe8c8c-b09c-417a-9428-bbb3c6404452.png",
+            "alignment": "top right",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "7bca3653-ac2c-468e-8740-4373e396c680": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hanging_Drying_Rack_18.jpg",
+            "alignment": "bottom left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "2b5f5911-d54d-40bf-864f-09b143760237": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lucid-Interiors.jpg",
+            "alignment": "top right",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "9d1d066d-40ee-409f-8df2-520a5724a4fd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LucidInteriors.jpg",
+            "alignment": "top right",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "6cb9024d-a76f-4944-9d7c-840fbe26de30": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mini_by_luna-1_d16b5f01-e9df-4dc7-959b-99433c953e16.jpg",
+            "alignment": "top right",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "66f75d70-0180-46d9-b90d-43a820df28e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yourbeautifulhome.com.au-pc-_simonwhitbreadphoto-4.jpg",
+            "alignment": "top left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "38b09cdf-ad4e-4bd8-8b86-826d13d21380": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1653631602444_modern-country-bungalow-southern-highlands-laundry_a5ab1a19-a034-4c9c-a3cb-85d406213215.jpg",
+            "alignment": "top left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "cf73627a-2bbc-4ff8-a82a-6cdfca3bdf29",
+        "33cb0d19-d058-4765-ae11-6c890e88558e",
+        "16563870001a3123ea-2",
+        "87be2f23-a4a1-45fb-a1c3-24c91ccd949f",
+        "07e87958-22d2-4013-bf4e-329a3efc9295",
+        "a03dd2a0-3b41-4c40-bef3-a37f52916f74",
+        "032e048c-26db-4a7a-8b68-537cc48df2c3",
+        "b32590bb-5b78-4922-aad1-b91511602be9",
+        "a9536371-67a9-42af-806c-f5d24b011729",
+        "7bca3653-ac2c-468e-8740-4373e396c680",
+        "2b5f5911-d54d-40bf-864f-09b143760237",
+        "9d1d066d-40ee-409f-8df2-520a5724a4fd",
+        "6cb9024d-a76f-4944-9d7c-840fbe26de30",
+        "66f75d70-0180-46d9-b90d-43a820df28e5",
+        "38b09cdf-ad4e-4bd8-8b86-826d13d21380"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 3,
+        "desktop_image_height": 500,
+        "mobile_image_height": 380,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "link"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16566320477e0d5023",
+    "16563870001c42937e"
+  ]
+}

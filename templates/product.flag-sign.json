@@ -1,0 +1,231 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Rod from wall: 48cm<br>Sign face: 29.8cm x 29.8cm<br>Mounting plate: 8cm diameter<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Flag_Sign_Spec_Doc_2022.pdf?v=1669084893\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Flag_Sign_Spec_Doc_2022.pdf?v=1669084893\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$20 AUD Australia via DHL<br>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "faedaf51-b7f4-4bb1-9276-292991ac1d9c": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>Does the storefront Flag Sign come with screws for mounting?<\/em><\/p><p>Yes, the Flag Sign comes with screws for mounting into both a wooden\/drywall and concrete surface.<\/p><p><em>How big is the faceplate on the metal sign?<\/em><\/p><p>The faceplate on the Flag Sign is 28.9cm (H) x 30cm (W).<\/p><p><em>How do I install the Flag Sign?<\/em><\/p><p>The Flag Sign is very easy to install, with handy instructions included with each order. We've also put together a helpful guide on the assembly process in the Instructions tab below.<\/p><p><em>Can I use a marker pen to write on the Flag Sign?<\/em><\/p><p>We would not recommend using any kind of pen on the Flag Sign. To add a decal, get in touch with your local signwriter who will be able to help.<\/p><p><em>What material is the round storefront Flag Sign made from?<\/em><\/p><p>The Flag Sign is made from 100% aluminium, which means it is suitable for exterior spaces. We made the sign from aluminium as this material can not rust and lasts better outside than other storefront signage materials such as wood and steel. <\/p><p><em>Does logo printing come with the sign?<\/em><\/p><p>We sell our Flag Signs as blanks and don't provide a signwriting service. This is because each customer has such different requirements in terms of printing and branding. We recommend getting in touch with a local signwriter who will be able to help you.<\/p><p><em>What other shop sign or blade sign options does George &amp; Willy sell?<\/em><\/p><p>We sell a range of <a href=\"https:\/\/eu.georgeandwilly.com\/collections\/signage\" target=\"_blank\" title=\"Signage\">Signs<\/a> in all kinds of shapes and sizes, and for all kinds of purposes. Check out our <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/round-outdoor-shop-sign\" target=\"_blank\">Round Sign,<\/a> <a href=\"https:\/\/eu.georgeandwilly.com\/products\/a-frame-sign-sandwich-board\" target=\"_blank\" title=\"A-Frame Sign\">A-Frame Sign<\/a>, <a href=\"https:\/\/eu.georgeandwilly.com\/products\/table-top-sign\" target=\"_blank\" title=\"Countertop Sign\">Countertop Sign<\/a>, and one of our favourites, the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/standing-round-sign\" target=\"_blank\">Standing Sign<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "57402b2c-c7a8-4d77-937d-3bf917ed38cc": {
+          "type": "accordion",
+          "settings": {
+            "title": "Installation Instructions",
+            "icon": "check_mark",
+            "content": "<p>The Flag Sign is very easy to install, with handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Flag_Sign_Instructions_Web.pdf?v=1632357886\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Flag_Sign_Instructions_Web.pdf?v=1632357886\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "faedaf51-b7f4-4bb1-9276-292991ac1d9c",
+        "57402b2c-c7a8-4d77-937d-3bf917ed38cc",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Appkying-vinyl-stickers_f41e5273-e918-4c28-bdf4-3215be664519.jpg",
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1655845241a550a64f": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1655845241a550a64f"
+  ]
+}

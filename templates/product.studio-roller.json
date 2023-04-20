@@ -1,0 +1,414 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0e8176be-5842-461c-960d-3120c5068f76": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>45cm<br>Paper Roll: 45cm<br>Paper Holder Bracket: 47.5cm<\/p><p>60cm<br>Paper Roll: 60cm<br>Paper Holder Bracket: 62.5cm<\/p><p>90cm<br>Paper Roll: 90cm <br>Paper Holder Bracket: 36.4”\/925mm<\/p><p>120cm <br>Paper Roll: 120cm <br>Paper Holder Bracket: 122.5cm<\/p><p>The George &amp; Willy Studio Roller kraft paper dispenser holds paper rolls that are 75m long and 14cm in diameter, though the bracket is designed to fit universal paper rolls (up to 22cm).<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Studio_Roller_Spec_Doc.pdf?v=1626656045\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Studio Roller comes with all the necessary hardware to get going, with handy installation instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Studio_Roller_Instructions_Web.pdf?v=1632259544\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "43f84231-84c0-4507-8ce4-fe18018a1066": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>Can the Paper Holder bracket be mounted vertically on the wall?<\/em><\/p><p>Unfortunately not, no. Due to the way that the paper holder brackets are made, the round bar is held in place by gravity. This means it has to be mounted horizontally to work.<\/p><p><em>What size paper rolls fit the brackets?<\/em><\/p><p>Our Studio Roller kraft paper dispenser holds 70m, however, the paper dispensing brackets are designed to fit universal kraft paper rolls up to 22cm in diameter. Aim for paper rolls that have 50m -150m length of kraft paper on them.<\/p><p><em>Can I order extra butcher's paper rolls when I run out of paper?<\/em><\/p><p>Yes, you can order extra drawing paper for your butcher's paper dispenser <a href=\"https:\/\/george-willy-nz.myshopify.com\/products\/kraft-paper-roll\">here<\/a>.<\/p><p><em>Can the wall-mounted Paper Roller be mounted outdoors?<\/em><\/p><p>The paper roll holder is designed as an interior menu display. Although the bracket is made from aluminium, so it isn't susceptible to rust, the paper should be used indoors only.<\/p><p><em>Do you make a smaller Studio Roller or wall pad?<\/em><\/p><p>Yes, our smallest butcher's paper dispenser is the Daily Roller which is 8\" in width and you can order it <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/daily-roller\" target=\"_blank\">here<\/a>. We also have the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/wall-pad\" target=\"_blank\">Wall Pad<\/a>,and will be launching some new paper products very soon! Keep up to date by signing up for our emails below.<\/p><p><em>What kind of pens can I use on the Studio Roller?<\/em><\/p><p>Chalk pens, ballpoint pens, and felt tip pens are fine to use on the Studio Roller. We wouldn't recommend using inks and permanent markers on the butcher's paper roll if it's mounted on the wall, as it may seep through and mark the surface behind.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0e8176be-5842-461c-960d-3120c5068f76",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "43f84231-84c0-4507-8ce4-fe18018a1066"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Black-Roller-16b.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Roll Down, Tear Off",
+        "use_h1": false,
+        "text": "<p>Fresh ideas? The metal bar is designed to tear the paper neatly so you can keep your canvas clean.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/170511_0073-1-_Georges-iMac-2.lan_s-conflicted-copy-2019-10-07.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Draw, Plan, Paint",
+        "use_h1": false,
+        "text": "<p>No more boring walls. Use the Studio Roller to plan your day or get creative.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433236359d8bea": {
+      "type": "gallery",
+      "blocks": {
+        "1655433236f8245331-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FusilloLab---G_W---3.jpg",
+            "alignment": "center right",
+            "enlarge_image": true,
+            "subheading": "@fusillolab",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/raisingthreekind_---2_13b1e264-aa79-4456-bd4d-d4c7afdfc321.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@raisingthreekind",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0269.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@erenatepaa",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AHL_TGMbread_0006_creditDavidChristensenPhotography.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@tgmbread",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1655433236f8245331-0",
+        "1655433236f8245331-1",
+        "1655433236f8245331-2",
+        "1655433236f8245331-3"
+      ],
+      "settings": {
+        "gallery_title": "See How They Are Used",
+        "grid": 2,
+        "desktop_image_height": 380,
+        "mobile_image_height": 380,
+        "title_size": 34,
+        "title_size_mobile": 32,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "primary"
+      }
+    },
+    "d32f279e-1998-40e7-a64f-c536252998e9": {
+      "type": "rich-text",
+      "blocks": {
+        "5c8865c9-ecd7-429f-9c42-0b24d05862f8": {
+          "type": "button",
+          "settings": {
+            "button_label": "View More customer photos",
+            "button_link": "shopify:\/\/pages\/studio-roller-gallery",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "5c8865c9-ecd7-429f-9c42-0b24d05862f8"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1655433090c7499e59": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Studio-Roller.15_new_1.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Everything You Need, Nothing You Don't",
+        "use_h1": false,
+        "text": "<p>The Studio Roller includes all the necessary screws for easy installation.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655772436403e149e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Studio_Roller_Sizes_inc_daily_new_3390c9e9-f225-4d2f-a68c-2d3864689d9f.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Range of Sizes",
+        "use_h1": false,
+        "text": "<p>Designed in four different sizes, there's a Studio Roller to suit your space.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "165578728190694448": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Studio-Roller.3-_1.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Make it a Menu",
+        "use_h1": false,
+        "text": "<p>For those who change their menu often. Pull the paper down, write your new menu up.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "165586365183108eb4": {
+      "type": "apps",
+      "blocks": {
+        "6e6963b7-eea8-4f45-a629-e06211051a71": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "6e6963b7-eea8-4f45-a629-e06211051a71"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655433236359d8bea",
+    "d32f279e-1998-40e7-a64f-c536252998e9",
+    "1655433090c7499e59",
+    "1655772436403e149e",
+    "165578728190694448",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "165586365183108eb4"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "show_date": false,
+        "show_author": false,
+        "show_article_tags": false,
+        "show_sharing_icons": true,
+        "show_featured_image": true,
+        "full_width_image": true,
+        "featured_image_height": "huge",
+        "enable_title_overlay": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "bbaa81f1-004d-4eea-9656-7d61eb1baddc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop the Scroggin Range",
+        "collection": "scroggin-wanaka-collection",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bbaa81f1-004d-4eea-9656-7d61eb1baddc"
+  ]
+}

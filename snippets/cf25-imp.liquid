@@ -1,0 +1,208 @@
+{% if settings.cf25_imp %}
+<style>
+ html body .product-form div.quantity-wrapper {
+  visibility: hidden;
+  height: 0;
+}
+
+ html body div.quantity-wrapper input#quantity {
+  background-color: #2e4737;
+  color: #fff;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+ html body div.quantity-wrapper.cf25-reveal-original input#quantity {
+  background-color: #fefbf4;
+  color: #3e5843;
+}
+
+ html body .product-form div.quantity-wrapper.cf25-reveal-original {
+  visibility: initial;
+  height: initial;
+}
+
+ html body .product-form div.quantity-wrapper > div.ships-from-eu {
+  display: none;
+}
+
+ html body div.cf25-container {
+  margin-bottom: 8px;
+  display: flex;
+}
+
+ html body div.cf25-dropdown {
+  position: relative;
+  width: 100px;
+  border: 1px solid #fefbf4;
+}
+
+ html body div.cf25-dropdown.cf25-dropdown-hidden {
+  border: 1px solid #e2e2e2;
+}
+
+ html body div.cf25-dropdown-selected {
+  position: relative;
+  height: 60px;
+}
+
+ html body div.cf25-dropdown-caret {
+  position: absolute;
+  right: 8px;
+  top: 0;
+  height: 100%;
+  z-index: 20;
+  pointer-events: none;
+}
+
+ html body div.cf25-dropdown-caret svg {
+  width: 12px;
+  height: 100%;
+  vertical-align: middle;
+}
+
+ html body div.cf25-dropdown-options {
+  position: absolute;
+  width: 100%;
+  height: 300px;
+  top: 0;
+  background-color: #fefbf4;
+  border: 1px solid #e2e2e2;
+  z-index: 10;
+}
+
+ html body div.cf25-dropdown-hidden .cf25-dropdown-options {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+ html body div.cf25-quantity {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+ html body div.cf25-dropdown-selected-item {
+  height: 100%;
+}
+
+ html body div.cf25-quantity-item {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  height: 100%;
+  padding: 4px 0;
+  text-align: center;
+  cursor: pointer;
+  border-bottom: 1px solid #e2e2e2;
+  text-transform: uppercase;
+}
+
+ html body div.cf25-dropdown-options .cf25-quantity-item {
+  height: 20%;
+}
+
+ html body div.cf25-quantity-item:last-child {
+  border-bottom: none;
+}
+
+ html body div.cf25-quantity-item.cf25-quantity-other {
+  justify-content: center;
+}
+
+ html body div.cf25-dropdown-options div.cf25-quantity-item:hover {
+  color: #fff;
+  background-color: #2e4737;
+  border-color: #2e4737;
+}
+
+ html body div.cf25-quantity-num {
+  font-size: 18px;
+}
+
+ html body div.cf25-savings {
+  font-size: 14px;
+}
+</style>
+
+
+<script>
+  (function () {
+   function cf25addContent() {
+    let target = $("div.quantity-submit-row div.quantity-wrapper");
+    let form = $("form.form.product-purchase-form");
+   
+    form.append(`<input id="discount_trigger" type="hidden" name="properties[_cf25]" value="true">`);
+
+
+    // Initial load - Select appropriate quantity
+    let currentVal = target.find("input#quantity").val();
+
+    if (parseInt(currentVal) >= 5) {
+      $(".cf25-quantity-other").addClass("cf25-quantity-selected");
+      target.addClass("cf25-reveal-original");
+    } else {
+      $(".cf25-quantity-item").each(function () {
+        let curr = $(this);
+
+        if (curr.children(".cf25-quantity-num").attr("data-val") === currentVal) {
+          curr.addClass("cf25-quantity-selected");
+        }
+      });
+    }
+
+    function populateSelected(item) {
+      let box = $(".cf25-dropdown-selected-item");
+      box.empty().append(item);
+    }
+
+    populateSelected($(".cf25-quantity-selected").clone());
+
+    // Click quantity item
+    $(".cf25-quantity-item").click(function () {
+      let item = $(this);
+
+      if (item.hasClass("cf25-quantity-selected")) {
+        $(".cf25-dropdown").addClass("cf25-dropdown-hidden");
+        return;
+      }
+
+      populateSelected(item.clone());
+
+      let quantity = item.children(".cf25-quantity-num").attr("data-val");
+
+      target.find("input#quantity").val(quantity);
+      $(".cf25-dropdown").addClass("cf25-dropdown-hidden");
+    });
+
+    // Remove/add class for highlighting selected quantity
+    $(".cf25-quantity-item").click(function () {
+      let item = $(this);
+
+      $(".cf25-quantity-item").removeClass("cf25-quantity-selected");
+      item.addClass("cf25-quantity-selected");
+
+      // Show/hide Original selector when selecting/deselecting "Other"
+      if (item.hasClass("cf25-quantity-other")) {
+        target.addClass("cf25-reveal-original");
+      } else {
+        
+        target.removeClass("cf25-reveal-original");
+      }
+    });
+
+    $(".cf25-dropdown-selected").click(function () {
+      $(this).parent().removeClass("cf25-dropdown-hidden");
+    });
+
+     //show the container
+    $('.product-form div.quantity-wrapper > div.ships-from-eu').appendTo($('.cf25-container'))
+    
+    }
+      $(document).ready(function() {
+        cf25addContent();
+      });
+    })();
+</script>
+{% endif %}

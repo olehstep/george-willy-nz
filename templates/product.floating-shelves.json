@@ -1,0 +1,252 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Small Shelf: 30cm x 15.14cm x 2.92cm (holds 4kg)\n<br>Medium Shelf: 65cm x 15.14cm x 2.92cm (holds 6kg)\n<br>Large Shelf: 90cm x 15.14cm x 2.92cm (holds 8kg)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Shelf_Range_Spec_Sheet.pdf?v=1677034333\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Shelf_Range_Spec_Sheet.pdf?v=1677034333\">View Specifications PDF<\/a><\/p>\n<br>\nThe magnet letters, numbers &amp; symbols available with the Floating Shelves include over 2,000 characters.<p><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Counter_Sign_Magnets_Spec_Doc.pdf?v=1677034334\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Counter_Sign_Magnets_Spec_Doc.pdf?v=1677034334\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$20 AUD Australia via DHL<br>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "faedaf51-b7f4-4bb1-9276-292991ac1d9c": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>How many wall shelves come in each pack?<\/h3><p>The floating wall shelves come in packs of three.<\/p><h3>Can I mix and match colours and sizes of the shelves?<\/h3><p>We sell the wall shelves in packs of three, which are all the same size and colour. To mix and match, you will need to purchase multiple packs of the shelves.<\/p><h3>How do I install the Floating Shelves?<\/h3><p>The Floating Shelves are very easy to install, with handy instructions included with each order.<\/p><h3>How much weight can the wall shelves hold?<\/h3><p>The Floating Shelves are able to hold different weights depending on the size you choose. Once installed, the small shelves can hold 4kg, medium 6kg, and large 8kg. We would not recommend loading any more weight than this onto the shelves as we cannot guarantee they will be secure.<\/p><h3>What other products for Business does George and Willy sell?<\/h3><p>George and Willy sell a range of business products, including <a href=\"https:\/\/nz.georgeandwilly.com\/collections\/signage\" target=\"_blank\">Signage<\/a>, <a href=\"https:\/\/nz.georgeandwilly.com\/collections\/tabletop\" target=\"_blank\">Pricing and Counter Signs<\/a>, and <a href=\"https:\/\/nz.georgeandwilly.com\/collections\/letter-menu-boards\" target=\"_blank\">Changeable Menu Displays<\/a>.<\/p><h3>What Home products does George &amp; Willy sell?<\/h3><p>We sell a range of products for your home, including our <a href=\"https:\/\/nz.georgeandwilly.com\/collections\/for-home\/products\/ceiling-hanging-drying-rack\">Ceiling Hanging Drying Rack<\/a>, the <a href=\"https:\/\/nz.georgeandwilly.com\/collections\/for-home\/products\/wooden-pegboard-with-wooden-pegs\/\">Wooden Pegboard Shelves<\/a>, and our <a href=\"https:\/\/nz.georgeandwilly.com\/collections\/for-home\/products\/wall-mounted-paper-roller\">Kraft Paper Studio Roller<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "57402b2c-c7a8-4d77-937d-3bf917ed38cc": {
+          "type": "accordion",
+          "settings": {
+            "title": "Installation Instructions",
+            "icon": "check_mark",
+            "content": "<p>The Wall Shelves are very easy to install, with handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Fold_Shelf_Insructions_Web_f990f2f4-2faf-4158-a8f7-5023495e9f6a.pdf?v=1677548676\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Fold_Shelf_Insructions_Web_f990f2f4-2faf-4158-a8f7-5023495e9f6a.pdf?v=1677548676\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "faedaf51-b7f4-4bb1-9276-292991ac1d9c",
+        "57402b2c-c7a8-4d77-937d-3bf917ed38cc",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "8ea0e1c8-5562-438c-a8dd-d19470b57621": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Floating-metal-shelves-white.gif",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Designed to Suit Your Space",
+        "use_h1": false,
+        "text": "<p>The wall shelves are available in three different colours and sizes, with the option to install in two different ways.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1b065763-4a91-417c-9396-144b4fd48bd1": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Metal-White-Floating-Shelves.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Label Your Goods",
+        "use_h1": false,
+        "text": "<p>Add the magnet letters to display products and prices in your store or business.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1655845241a550a64f": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8ea0e1c8-5562-438c-a8dd-d19470b57621",
+    "1b065763-4a91-417c-9396-144b4fd48bd1",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1655845241a550a64f"
+  ]
+}

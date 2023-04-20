@@ -1,0 +1,280 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Standing Height: 115.5cm<br>Menu Size: 29.7cm x 42cm<br>Stand Base: 40cm diameter <br>Stand Face: 42.4cm x 30cm<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Menu_Stand_-_Spec_Doc_c46bfe87-3d98-4443-bd6f-05ccfe091007.pdf?v=1645484756\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$30 AUD Australia via DHL<br>$15 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "785f483e-f5d8-4086-a04a-1689e08b71d8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Installation Instructions",
+            "icon": "check_mark",
+            "content": "<p>The Menu Stand comes with everything you need to get going, with handy installation instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Menu_Stand_Instructions_web.pdf?v=1642368167\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "1b9b58b2-87c1-4dff-8868-d0c00275f01f": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Can the Menu Stand be used outdoors?<\/h3>\n<p>Yes, the Menu Stand can be used in undercover spaces outdoors, but we wouldn't recommend placing it anywhere exposed to heavy rain or wind, as it is not considered 100% weather-proof.<\/p>\n<h3>What size menu fits in the Menu Stand?<\/h3>\n<p>The outdoor menu frame fits an A3-sized menu (11.75\"\/29.7cm x 16.5\"\/42cm) or two A4 menus placed side-by-side.<\/p>\n<h3>What other sidewalk signs does George &amp; Willy sell?<\/h3>\n<p>We also have the <a href=\"https:\/\/www.georgeandwilly.com\/products\/a-frame-sign-sandwich-board\" target=\"_blank\">A-Frame Sign<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/products\/large-sidewalk-sign\" target=\"_blank\">Large Sidewalk Sign<\/a>, and <a href=\"https:\/\/www.georgeandwilly.com\/products\/chalk-sandwich-board\" target=\"_blank\">Chalk Sandwich Board<\/a>. For something a little different, take a look at the lollipop-style <a href=\"https:\/\/www.georgeandwilly.com\/products\/standing-round-sign\" target=\"_blank\">Standing Sign<\/a> too.<\/p>\n<h3>What other menu display options do you sell?<\/h3>\n<p>We have a range of menu displays in all kinds of shapes and sizes, including the <a href=\"https:\/\/www.georgeandwilly.com\/products\/menu-board\">Menu Board<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/products\/baker-menu\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Baker Menu\">Magnetic Menu Board<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/products\/ceiling-menu-board\" target=\"_blank\" title=\"Ceiling Menu Board\">Ceiling Menu Board<\/a>, and <a href=\"https:\/\/eu.georgeandwilly.com\/products\/atelier-letter-board\" target=\"_blank\" title=\"Atelier Letter Board\">Atelier Letter Board<\/a>. For more options, take a look at our full <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\" rel=\"noopener noreferrer\" target=\"_blank\">range of Letter Boards<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "Related Products",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "785f483e-f5d8-4086-a04a-1689e08b71d8",
+        "1b9b58b2-87c1-4dff-8868-d0c00275f01f",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Menu-Stand-10.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Goodbye Laminate",
+        "use_h1": false,
+        "text": "<p>The waterproof case eliminates the need for laminated menus & makes it easy to change on the daily.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Menu-Stand-23.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Prefer Portrait?",
+        "use_h1": false,
+        "text": "<p>Spin it around in minutes to change the orientation<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655772436403e149e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Menu-Stand-24_c7508bd9-1ade-45d7-b3da-e152bbe776cc.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Fill it up",
+        "use_h1": false,
+        "text": "<p>The base is a watertank to help your sign keep a good foothold on the pavement.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "sidewalk-signs",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655772436403e149e",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

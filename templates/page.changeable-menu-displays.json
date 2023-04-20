@@ -1,0 +1,152 @@
+{
+  "sections": {
+    "58e25222-6e77-4077-a479-ac34b41d74fa": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "full",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "Display your menu\nin a whole new way",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": true,
+        "text": "<p>Our range of letter boards is designed to change as you do. Find small menu displays and large wallboard menus that you can edit daily. <\/p>",
+        "enlarge_text": true,
+        "button_label_1": "Shop Displays",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "bottom left",
+        "full_width": true,
+        "mobile_overlay_under": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "2b3309e2-d176-47ea-bf7d-c8c0b92686c3": {
+      "type": "compact-messages",
+      "blocks": {
+        "template--15743902580931__2b3309e2-d176-47ea-bf7d-c8c0b92686c3-1673484343e0c8a49c-0": {
+          "type": "message",
+          "settings": {
+            "heading": "Message",
+            "subheading": "Add important information here",
+            "link_url": ""
+          }
+        },
+        "template--15743902580931__2b3309e2-d176-47ea-bf7d-c8c0b92686c3-1673484343e0c8a49c-1": {
+          "type": "message",
+          "settings": {
+            "heading": "Message",
+            "subheading": "Add important information here",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15743902580931__2b3309e2-d176-47ea-bf7d-c8c0b92686c3-1673484343e0c8a49c-0",
+        "template--15743902580931__2b3309e2-d176-47ea-bf7d-c8c0b92686c3-1673484343e0c8a49c-1"
+      ],
+      "settings": {
+        "head_not_col_bg": "#3e5843",
+        "head_not_col_txt1": "#fefbf4",
+        "head_not_col_txt2": "#fefbf4",
+        "head_not_mob_show": true,
+        "head_not_mob_text": "OVER 95% OF OUR CUSTOMERS HAVE GIVEN OUR PRODUCTS",
+        "head_not_mob_url": ""
+      }
+    },
+    "1c494292-7a38-46a5-9388-31ea99e5609a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Displays that people love",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 3,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "0fe36090-de2c-475b-8f1b-e15e11b1cd52": {
+      "type": "logo-list",
+      "blocks": {
+        "75b434cf-6e21-478f-b44d-70fbcb81c779": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nike.png",
+            "image_width": 120,
+            "link": "",
+            "title": ""
+          }
+        },
+        "6857992f-fdcf-40e9-8591-dda66a522622": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NYT.png",
+            "image_width": 120,
+            "link": "",
+            "title": ""
+          }
+        },
+        "a32bcc60-1209-4617-a391-b5a31af1064c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ace-Hotel.png",
+            "image_width": 120,
+            "link": "",
+            "title": ""
+          }
+        },
+        "689c1bc7-75bd-458f-8b89-9e73dd38d856": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/APPLE.png",
+            "image_width": 120,
+            "link": "",
+            "title": ""
+          }
+        },
+        "db850834-de5e-4b65-aa23-35367b498324": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/le-labo-logo-allvectorlogo.com-01.png",
+            "image_width": 120,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "75b434cf-6e21-478f-b44d-70fbcb81c779",
+        "6857992f-fdcf-40e9-8591-dda66a522622",
+        "a32bcc60-1209-4617-a391-b5a31af1064c",
+        "689c1bc7-75bd-458f-8b89-9e73dd38d856",
+        "db850834-de5e-4b65-aa23-35367b498324"
+      ],
+      "settings": {
+        "title": "",
+        "image_opacity": 100,
+        "use_alt_bg": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "58e25222-6e77-4077-a479-ac34b41d74fa",
+    "2b3309e2-d176-47ea-bf7d-c8c0b92686c3",
+    "1c494292-7a38-46a5-9388-31ea99e5609a",
+    "0fe36090-de2c-475b-8f1b-e15e11b1cd52",
+    "main"
+  ]
+}

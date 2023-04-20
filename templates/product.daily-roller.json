@@ -1,0 +1,402 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Bracket: 22.4cm (L) x 5.5cm (W) x 5.5cm (H)<br>Roll: 21cm (W) x 7.5cm (Diameter) x 25m (Length) x 120gsm<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/3464\/2627\/files\/Daily_Roller_Spec_Doc.pdf?v=1626057699\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$10 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Daily Roller comes with all the necessary hardware to get going, with handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Daily_Roller_Instructions_Web.pdf?v=1634075386\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "7cde0978-2948-4fc7-aadc-ac6fdafd9d45": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>Can the Paper Holder bracket be mounted vertically on the wall?<\/em><\/p><p>No. Due to the way that the paper holder brackets are made, the round bar is held in place by gravity, which means that it has to be mounted horizontally to work.<\/p><p><em>Does paper come with the Daily Roller?<\/em><\/p><p>Yes! The Daily Roller comes with one roll of kraft paper, but you can stock up on extra paper for your butcher's paper dispenser <a href=\"\/products\/daily-roller-rolls\" target=\"_blank\" title=\"Daily Roller Rolls - 3 Pack\">here<\/a>.<\/p><p><em>What size paper rolls fit the brackets?<\/em><\/p><p>Our kraft paper roll holder holds 25m, however, the paper dispensing brackets are designed to fit universal kraft paper rolls up to 75mm in diameter. Aim for paper rolls that have 25m - 50m length of kraft paper on them. <\/p><p><em>Do you sell white paper rolls?<\/em><\/p><p>No, we only provide kraft\/brown paper rolls, however, white rolls can be found at most packaging supply stores.<\/p><p><em>What kind of pens can I use on the Daily Roller?<\/em><\/p><p>Chalk pens, ballpoint pens, and felt tip pens are fine to use on the Daily Roller. We wouldn't recommend using inks and permanent markers.<\/p><p><em>Do you sell a bigger version of the Daily Roller?<\/em><\/p><p>Yes! We also have the <a href=\"https:\/\/nz.georgeandwilly.com\/products\/wall-mounted-paper-roller\" target=\"_blank\" title=\"Studio Roller\">Studio Roller<\/a>, a larger size of the Daily Roller which is perfect for presenting a menu in a cafe or restaurant, presenting at workplace meetings, and making fun scribbles at home. <\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "Stock up on extra paper",
+            "product_list": [
+              "daily-roller-rolls"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "7cde0978-2948-4fc7-aadc-ac6fdafd9d45",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Daily-Roller.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Write things down. Get things done.",
+        "use_h1": false,
+        "text": "<p>Stay on top of your daily to-do lists with the Daily Roller.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Daily-Roller.jpeg_new.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Plastic-free Packaging",
+        "use_h1": false,
+        "text": "<p>Only the essentials. The Daily Roller includes all the necessary screws for easy installation.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433236359d8bea": {
+      "type": "gallery",
+      "blocks": {
+        "1655433236f8245331-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/petraandtheplanet.jpg",
+            "alignment": "top center",
+            "enlarge_image": true,
+            "subheading": "@petraandtheplanet",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/119houseonthehill.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@119houseonthehill",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/daphnearchambault.jpg",
+            "alignment": "center left",
+            "enlarge_image": true,
+            "subheading": "@daphnearchambault",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ERANA_21.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@erenatepaa",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1655433236f8245331-0",
+        "1655433236f8245331-1",
+        "1655433236f8245331-2",
+        "1655433236f8245331-3"
+      ],
+      "settings": {
+        "gallery_title": "See How They're Used",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 36,
+        "title_size_mobile": 40,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "secondary"
+      }
+    },
+    "1655433090c7499e59": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Daily-Roller.4-_2.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "New Day, Clean Canvas",
+        "use_h1": false,
+        "text": "<p>Roll down the paper and neatly tear it off using the metal bar, leaving a fresh space for new ideas. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655772436403e149e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Daily-Roller-X-Fix-_-Fogg-4403.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Place for your Pen",
+        "use_h1": false,
+        "text": "<p>Store your pen on the top of the roller to keep it handy.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16559314686a162f6b": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Studio_Roller_Sizes_inc_daily_new.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Need Something Bigger?",
+        "use_h1": false,
+        "text": "<p>You've got options. Meet the Studio Roller, available in four sizes<\/p>",
+        "button_label": "Explore",
+        "button_link": "shopify:\/\/products\/wall-mounted-paper-roller",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "for-home",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655433236359d8bea",
+    "1655433090c7499e59",
+    "1655772436403e149e",
+    "16559314686a162f6b",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

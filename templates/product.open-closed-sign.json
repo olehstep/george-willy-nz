@@ -1,0 +1,305 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Sign Face: 53.6cm (W) x 7.5cm (H)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Open___Closed_Sign_NEW_Spec_Doc.pdf?v=1658806289\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Open___Closed_Sign_NEW_Spec_Doc.pdf?v=1658806289\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br>$15 NZD New Zealand via DHL<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "a203eec5-5f13-41b2-a8c3-8fbe280a28b8": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>How do I install the Open \/ Closed Sign?<\/h3>\n<p>We'd recommend sticking the Open \/ Closed sign on glass using the adhesive pads provided, and once positioned correctly, firmly holding it in place for 30 seconds to ensure the adhesive sticks. For installing on other surfaces like wood, metal, and brick, it's best to get your local builder or handyman to help out, as you will need to use a stronger adhesive or glue.<\/p>\n<h3>How big is the faceplate on the Open \/ Closed Sign?<\/h3>\n<p>The faceplate on the Open \/ Closed Sign measures 53.6cm (W) x 7.5cm (H).<\/p>\n<h3>What material is the Open \/ Closed Sign made from?<\/h3>\n<p>The Open \/ Close Sign is made from aluminium, with re-stickable pads to secure it to your window or door.<\/p>\n<h3>What other open sign options does George &amp; Willy sell?<\/h3>\n<p>We have a number of signs which could be used to display an open sign or closed sign, including the <a href=\"\/products\/standing-round-sign\" target=\"_blank\" title=\"Sidewalk lollipop sign\">Standing Sign<\/a>, <a href=\"\/products\/circle-sign\" target=\"_blank\" title=\"Circle tabletop and wall sign\">Circle Sign<\/a>, and <a href=\"\/products\/table-top-sign\" target=\"_blank\" title=\"Countertop Sign\">Countertop Sign<\/a>. For more options, take a look at our <a href=\"\/collections\/signage\" rel=\"noopener noreferrer\" target=\"_blank\">range of Signage<\/a>.<\/p>\n<h3>Can the Open \/ Closed Sign be used outside?<\/h3>\n<p>We have designed this sign to be weather-resistant, long-lasting, and durable, however, we don't recommend that you use the Open \/ Closed Sign outside in full range to the wind and rain.<\/p>\n<h3>Does the Open \/ Close Sign come with stickers for mounting?<\/h3>\n<p>Yes, it comes with clear, re-stickable pads to keep it secure on your window or door.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "a203eec5-5f13-41b2-a8c3-8fbe280a28b8",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/1S9A3742.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Black or White",
+        "use_h1": false,
+        "text": "<p>Choose the colour to match your space.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/000022-2.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Thoughtful Packaging",
+        "use_h1": false,
+        "text": "<p>Your sign arrives in a handcrafted wooden box and includes multiple sticky pads so you have the option to remount your sign.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433236359d8bea": {
+      "type": "gallery",
+      "blocks": {
+        "1655433236f8245331-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scroggin_wanaka-_biddirowley-1.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@scroggin_wanaka",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CamNeate_G_W-3431.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@bagelandbrew",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1655433236f8245331-1",
+        "1655433236f8245331-0"
+      ],
+      "settings": {
+        "gallery_title": "See How They're Used",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 36,
+        "title_size_mobile": 40,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "secondary"
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "tabletop",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655433236359d8bea",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

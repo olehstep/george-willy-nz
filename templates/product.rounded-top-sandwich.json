@@ -1,0 +1,303 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Standing Height: 79cm<br>Stand Base: 58cm <br>Stand Face: 45cm (W) X 68cm (H)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Rounded_Sidewalk_Sign_Spec_Doc_337e9d8d-8d32-4ec6-89cf-9fbe38480dcd.pdf?v=1673571813\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Rounded_Sidewalk_Sign_Spec_Doc_337e9d8d-8d32-4ec6-89cf-9fbe38480dcd.pdf?v=1673571813\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$25 AUD Australia via DHL<br>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>The Rounded Sidewalk Sign comes with everything you need to get going, with handy installation instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Rounded_Sidewalk_Sign_Instructions_Web.pdf?v=1660796681\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Rounded_Sidewalk_Sign_Instructions_Web.pdf?v=1660796681\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "13c62b2f-65b4-4784-b39b-79209d8a7704": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Does the Rounded Top Sandwich Board arrive branded?<\/h3>\n<p>All our Signs arrive blank, but we offer advice on powder-coating and decal printing for creating custom signs tailored to your needs. <\/p>\n<h3>Can I use a pen on the shop sign?<\/h3>\n<p>We would not recommend using any kind of pen on the Rounded Top Sign Board. To add a decal, get in touch with your local signwriter who will be able to help.<\/p>\n<h3>Is the Sandwich Board suitable for high wind areas?<\/h3>\n<p>The sidewalk sign is suitable for low to mid wind areas, but if you are concerned, we recommend purchasing the <a href=\"\/products\/sandbag-for-a-frame-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Sign Sandbags<\/a>. <\/p>\n<h3>What other A-Frame Sign or Sandwich Board options does George &amp; Willy sell?<\/h3>\n<p>For other sandwich boards, we also sell the <a href=\"\/products\/welcome-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Welcome Sign<\/a>, <a href=\"\/products\/large-sidewalk-sign\" target=\"_blank\">Large Sidewalk Sign<\/a>, <a href=\"\/products\/standing-flag-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Standing Flag Sign<\/a>, the <a href=\"\/products\/chalk-sandwich-board\" target=\"_blank\">Chalk Sandwich Board,<\/a> and for something a little different, the <a href=\"\/products\/standing-curve-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Standing Curve Sign<\/a> is a great option. To see all of our Sign Boards, take a look at our full range of <a href=\"\/collections\/signage\" rel=\"noopener noreferrer\" target=\"_blank\">Signage<\/a>. We also have some new exciting ones in the mix coming soon - sign yourself up to our mailer to keep in the loop with these at the bottom of this page.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "You might also like",
+            "product_list": [
+              "a-frame-sign-sandwich-board",
+              "circle-sidewalk-sign",
+              "letter-sidewalk-sign",
+              "large-sidewalk-sign"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "13c62b2f-65b4-4784-b39b-79209d8a7704",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": true,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/GW-Solo-RoundedSidewalkStand-3.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Friendly Shape",
+        "use_h1": false,
+        "text": "<p>A happy silhouette to welcome your customers.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/CamNeate_G_W-3778.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Easy Carry",
+        "use_h1": false,
+        "text": "<p>No more heavy lifting. We've made this one light enough to take inside and out each day.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "165880767330b225c9": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/ROUNDED-SIDEWALK-SIGN-GEORGE-AND-WILLY.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Rain, Hail or Shine",
+        "use_h1": false,
+        "text": "<p>100% rust resistant.<br\/>Designed to last you a lifetime<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "sidewalk-signs",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "165880767330b225c9",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

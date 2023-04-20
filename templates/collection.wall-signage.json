@@ -1,0 +1,55 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": false,
+        "heading_image_height": "huge",
+        "overlay_style": "no_background",
+        "coll_num_per_page_int": 50,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "below",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": true,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "1657078142b99399ad": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Other Products You'll Love",
+        "collection": "sidewalk-signs",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1657078142b99399ad"
+  ]
+}

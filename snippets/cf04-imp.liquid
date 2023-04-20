@@ -1,0 +1,42 @@
+{% if settings.cf04_imp %}
+<style>
+  html body .cf_04.overlay-cta a {
+    	position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background: #2e4737;
+    color: #fefbf4;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+    font-family: Riposte Light,sans-serif!important;
+    letter-spacing: .08em;
+    line-height: 1em;
+    height: auto;
+    padding: 1.2em 25px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+
+  html body .cf_04.product-block:hover .overlay-cta a,
+  html body .cf_04.overlay-cta a:hover {
+  	border: none;
+  	background: #fefbf4;
+      color: #3e5842;
+  }
+
+@media(max-width: 767px) {
+     html body .cf_04 {
+        display: none;
+	}
+	html body .cf_04.overlay-cta a {
+		left: 10px;
+		bottom: 10px;
+        display: none;
+	}
+}
+</style>
+
+{% endif %}

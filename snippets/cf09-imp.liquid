@@ -1,0 +1,78 @@
+{% if settings.cf09_imp %}
+<style>
+.cf09-container {
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 1000px) {
+  .cf09-container.cf09-mobile {
+    display: none;
+  }
+   .cf-mobile-only {
+    display: none;
+  }
+   .cf-desktop-only  {
+    display: block;
+  }
+  
+  .cf09-trust-seals {
+    border: 1px solid #fff;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .sidebar .order-summary__sections .cf09-container {
+    display: none;
+  }
+  .cf-desktop-only {
+    display: none;
+  }
+  .cf-mobile-only {
+    display: block;
+  }
+  .cf09-mobile.cf-mobile-only {
+    margin-bottom: 1.5em;
+  }
+}
+
+
+  
+.cf09-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+} 
+
+.cf09-row-item {
+  display: flex;
+  align-items: center;
+  padding: 0 12px;
+}
+
+.cf09-row-item p {
+  padding-left: 6px;
+  font-size: 16px;
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 1000px) {
+  .cf09-container.cf09-mobile {
+    display: none;
+  }
+  .order-summary__sections {
+    height: auto !important;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .sidebar .order-summary__sections .cf09-container {
+    display: none;
+  }
+}
+  @media screen and (max-width: 350px) {
+  .cf09-row-item p {
+    font-size: 14px;
+  }
+}
+</style>
+{% endif %}

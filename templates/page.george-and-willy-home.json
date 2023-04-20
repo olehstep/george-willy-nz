@@ -1,0 +1,708 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1656643694c5153b15": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Studio-Roller-6.jpg",
+        "image_position": "top center",
+        "mobile_image_position": "center top",
+        "height": "fixed",
+        "height_desktop": 780,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "Everyday, considered.",
+        "title_size": 58,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "EXPLORE HOME",
+        "button_url_1": "shopify:\/\/collections\/for-home",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center left",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "1656888352a5bd3f43": {
+      "type": "rich-text",
+      "blocks": {
+        "16568883524bef61dc-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Tools to Make Your Space a Better Place",
+            "use_h1": false
+          }
+        },
+        "16568883524bef61dc-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16568883524bef61dc-0",
+        "16568883524bef61dc-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656645093578fac26": {
+      "type": "gallery",
+      "blocks": {
+        "16566450934c7f61ab-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daily_Roller.4.jpg",
+            "alignment": "top right",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Paper Rollers",
+            "link": "shopify:\/\/collections\/paper-rollers",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16566450934c7f61ab-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hanging-Drying-Rack-37.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Hanging Drying Rack",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16566450934c7f61ab-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1G_W160510_249_9d06d7c2-c9a9-4988-8610-f337bf078244.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Wooden Pegboard",
+            "link": "shopify:\/\/products\/wooden-pegboard-with-wooden-pegs",
+            "text_alignment": "bottom left"
+          }
+        },
+        "660c62aa-5d58-4969-b79a-2ff1788b18e7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Scout-3434.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Scout Letter Board",
+            "link": "shopify:\/\/products\/changeable-letter-board",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "16566450934c7f61ab-0",
+        "16566450934c7f61ab-1",
+        "16566450934c7f61ab-2",
+        "660c62aa-5d58-4969-b79a-2ff1788b18e7"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 4,
+        "desktop_image_height": 380,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    },
+    "16569001335c0e3e8f": {
+      "type": "gallery",
+      "blocks": {
+        "16569001332e050c83-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_f0bdd9f5-13d9-4454-8ae9-ed2780657efa.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16569001332e050c83-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_2e476db8-86b7-48b9-9564-1e23202fcb88.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "16569001332e050c83-0",
+        "16569001332e050c83-2"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 230,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "1656879261ff24abd4": {
+      "type": "testimonials",
+      "blocks": {
+        "1656879261979e5cac-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I absolutely love the Studio Roller. Its simplicity and function make it a real statement in our home.",
+            "author": "Ally B, New Zealand",
+            "image": "shopify:\/\/shop_images\/16_for_website_2.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "1656879261979e5cac-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "A stylish and functional space saver that is easy to use. I highly recommend this as an indoor drying solution.",
+            "author": "Bronwyn G, Australia",
+            "image": "shopify:\/\/shop_images\/Hanging-Drying-Rack-62.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656879261979e5cac-0",
+        "1656879261979e5cac-1"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "portrait",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16568836561ef5d9e7": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 280,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "You love good design and so do we. The understanding that design triggers a gut reaction. It sets up the aesthetic, flows through your space and creates an atmosphere. The space you live in has an influence on the life you lead, so it’s important to take care of it.",
+        "title_size": 34,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "1656885626e13a43ac": {
+      "type": "rich-text",
+      "blocks": {
+        "165688562639ef8338-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "165688562639ef8338-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165688562639ef8338-0",
+        "165688562639ef8338-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "165688207971acc849": {
+      "type": "background-video",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/726537763",
+        "placeholder_image": "shopify:\/\/shop_images\/Hanging_Drying_Rack-73_2.jpg",
+        "subheading": "",
+        "title": "Simplify Daily Life",
+        "title_size": 46,
+        "title_size_mobile": 32,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "THE HANGING DRYING RACK",
+        "button_url_1": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "bottom right",
+        "height_desktop": 740,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "1656888468e1323a1f": {
+      "type": "rich-text",
+      "blocks": {
+        "1656888468ef539b02-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "1656888468ef539b02-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1656888468ef539b02-0",
+        "1656888468ef539b02-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656899324a06cc6cb": {
+      "type": "gallery",
+      "blocks": {
+        "165689932407061d61-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_d99eda6e-662a-4dcf-a795-b79d80c09449.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "165689932407061d61-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_fbbc18ec-0917-420d-b4aa-2c6aa36d2325.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom center"
+          }
+        },
+        "165689932407061d61-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_69ea772b-6bf4-4609-9bde-27e4f84e4a54.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "165689932407061d61-0",
+        "165689932407061d61-1",
+        "165689932407061d61-2"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 3,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    },
+    "1656888485c710e9f3": {
+      "type": "rich-text",
+      "blocks": {
+        "1656888484c75b51d1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "1656888484c75b51d1-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1656888484c75b51d1-0",
+        "1656888484c75b51d1-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "165688571585f89e40": {
+      "type": "image-with-text-full",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Studio-Roller.09_2.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "Write Things Down, Get Things Done",
+        "header_font_new": "work_sans_n6",
+        "font_size": 32,
+        "image_size": 150,
+        "text": "",
+        "button_label": "THE STUDIO ROLLER",
+        "button_link": "shopify:\/\/products\/wall-mounted-paper-roller",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center"
+      }
+    },
+    "16571615789f2ca9a6": {
+      "type": "rich-text",
+      "blocks": {
+        "1657161578d6635285-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "1657161578d6635285-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1657161578d6635285-0",
+        "1657161578d6635285-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656887892f18d0c59": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Remodelista.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 340,
+        "height_mobile": 160,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "1657161597dd3fef50": {
+      "type": "rich-text",
+      "blocks": {
+        "165716159777b99de2-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "165716159777b99de2-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165716159777b99de2-0",
+        "165716159777b99de2-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656991392f65be334": {
+      "type": "image-with-text-full",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/3_e0d2f0a8-a64f-43a4-8fb2-5871b7b82781.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "Get Inspired",
+        "header_font_new": "work_sans_n6",
+        "font_size": 30,
+        "image_size": 150,
+        "text": "",
+        "button_label": "VIEW THE GALLERY",
+        "button_link": "shopify:\/\/pages\/home-gallery",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center"
+      }
+    },
+    "16569925039c562c06": {
+      "type": "rich-text",
+      "blocks": {
+        "165699250359107021-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "165699250359107021-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165699250359107021-0",
+        "165699250359107021-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "165688570966caa391": {
+      "type": "background-video",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/726553418",
+        "placeholder_image": "shopify:\/\/shop_images\/024A5353_1.jpg",
+        "subheading": "",
+        "title": "Stay on Top of \nYour Daily Tasks",
+        "title_size": 46,
+        "title_size_mobile": 32,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "THE DAILY ROLLER",
+        "button_url_1": "shopify:\/\/products\/daily-roller",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "bottom left",
+        "height_desktop": 740,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "1656896849416965d0": {
+      "type": "rich-text",
+      "blocks": {
+        "165689684966391bfc-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "165689684966391bfc-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165689684966391bfc-0",
+        "165689684966391bfc-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16568960122c7c3462": {
+      "type": "image-with-text-full",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Daily-Roller.jpeg_new_1.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "Everything You Need, Nothing You Don't",
+        "header_font_new": "work_sans_n6",
+        "font_size": 30,
+        "image_size": 160,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center"
+      }
+    },
+    "1656892574141ffec7": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/george-willy-thumbsup_e3e9b289-18bb-4e4f-835e-b16274747baf.gif",
+        "image_width": 250,
+        "subheading": "",
+        "title": "A Note From George & Willy",
+        "use_h1": false,
+        "text": "<p>We started this business to make simple display products for creative spaces. Today we are still doing just that and helping people like you, all over the world, make their space inspiring. Thanks for visiting us and please let us know if you have any questions.<\/p><p>Have fun<\/p>",
+        "button_label": "GET IN TOUCH",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "left",
+        "logo": "shopify:\/\/shop_images\/george-willy-signature_f4e72de2-5da2-4b88-8a18-6581f1941ee3.png",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1656643694c5153b15",
+    "1656888352a5bd3f43",
+    "1656645093578fac26",
+    "16569001335c0e3e8f",
+    "1656879261ff24abd4",
+    "16568836561ef5d9e7",
+    "1656885626e13a43ac",
+    "165688207971acc849",
+    "1656888468e1323a1f",
+    "1656899324a06cc6cb",
+    "1656888485c710e9f3",
+    "165688571585f89e40",
+    "16571615789f2ca9a6",
+    "1656887892f18d0c59",
+    "1657161597dd3fef50",
+    "1656991392f65be334",
+    "16569925039c562c06",
+    "165688570966caa391",
+    "1656896849416965d0",
+    "16568960122c7c3462",
+    "1656892574141ffec7"
+  ]
+}

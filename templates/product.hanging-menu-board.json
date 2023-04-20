@@ -1,0 +1,441 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "dropdown",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Display Board: 70cm (H) x 53cm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Hanging_Menu_Board_Spec_Sheet_2023.pdf?v=1673918182\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Hanging_Menu_Board_Spec_Sheet_2023.pdf?v=1673918182\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$25 AUD Australia via DHL<br>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Hanging Menu Board comes with all the necessary hardware to get going, but take a look at our handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Hanging_Menu_Board_Instructions_Web.pdf?v=1632439822\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": []
+          }
+        },
+        "d5452528-b61f-4823-87bf-bbeb374c2dfc": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Do letters come with the Hanging Menu Board?<\/h3>\n<p>The magnetic letters are an optional add-on with the Hanging Menu Board and are 25mm in size. If you have opted to add Magnet Letters, the colour will be the inverse of the Hanging Menu Board you have chosen, eg. the black Hanging Menu Board comes with white letters, and the white Hanging Menu Board comes with black letters.<\/p>\n<h3>Does logo printing come with the Hanging Menu Board sign?<\/h3>\n<p>No, we sell our Hanging Menu Board as blank and don't provide a signwriting service. Get in touch with your local signwriter who will be able to make and apply a vinyl sticker to the board for you.<\/p>\n<h3>Does the Hanging Menu Board come with screws for mounting?<\/h3>\n<p>Yes, the Hanging Menu Board comes with screws for mounting onto a wooden surface.<\/p>\n<h3>Can the Hanging Menu Board be mounted on a tile?<\/h3>\n<p>Yes, you can mount the Hanging Menu Board to tile or brick. You will need to source the correct screws from a hardware store though, as ours aren’t designed for tile or brick, just wood or drywall. Your builder should have these handy too.<\/p>\n<h3>Can I use a marker pen to write on the Hanging Menu Board?<\/h3>\n<p>We would not recommend using any kind of pen on the Hanging Menu Board. To add a decal, get in touch with your local signwriter who will be able to help.<\/p>\n<h3>Is this Menu Board weatherproof?<\/h3>\n<p>Due to the fact the Hanging Menu Board is crafted from steel, we would not recommend using this menu display outdoors. <\/p>\n<h3>Can the Hanging Menu Board be mounted on the ceiling as well?<\/h3>\n<p>Yes, it can! If you choose to do this, then bear in mind that the board will hang approximately 85cm\/33.5\" from the ceiling to the bottom of the menu board.<\/p>\n<h3>What other Menu Board options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/park-letter-board\" target=\"_blank\" title=\"Park Letter Board\">Park Letter Board<\/a> and the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/market-chalk-board-menu\" target=\"_blank\" title=\"Market Chalkboard Menu\">Market Chalkboard Menu<\/a> for something different. For more George &amp; Willy signs, take a look at our <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/store-sign\" target=\"_blank\" title=\"“Store\">Store Sign<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/flag-sign\" target=\"_blank\" title=\"“Flag\">Flag Sign<\/a> and <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/round-wall-sign\" target=\"_blank\" title=\"Wall-mounted round wall sign\">Round Wall Sign<\/a>. For a slightly larger option, check out our <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/big-round-sign\" target=\"_blank\" title=\"Big Round Business Sign\">Big Round Sign<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "bce194fb-2905-40b4-a870-732bd608f8e1",
+        "d5452528-b61f-4823-87bf-bbeb374c2dfc"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Hanging-Menu-Board-10.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "It's Double Sided",
+        "use_h1": false,
+        "text": "<p>Flip your menu around with ease. Breakfast menu on one side, lunch on the other.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/G_W-Hanging_Menu_web-25.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Magnetic Faceplate",
+        "use_h1": false,
+        "text": "<p>Use Magnetic Letters or a vinyl menu, the choice is yours.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433090c7499e59": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Hanging-Menu-Board--5840-w-menu.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Join Them Up",
+        "use_h1": false,
+        "text": "<p>Combine the Boards to create a canvas which suits your menu.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655772436403e149e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Hanging_Menu-Board_-8.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Bronze Details",
+        "use_h1": false,
+        "text": "<p>Each set includes Bronze and Black\/White clips. The choice is yours.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433236359d8bea": {
+      "type": "gallery",
+      "blocks": {
+        "1655433236f8245331-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hygge-Life-patio-photog-Hygge-photo-Rob-Prechtl-05.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@hyggelife",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/secretsoftampabay-_paradecocoffee2.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@secretsoftampabay",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/two_greens.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@two_greens",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "cd678b92-cd78-4fdf-89b8-c8ea149fee08": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hanging_Menu_Board_-4.jpg",
+            "alignment": "top center",
+            "enlarge_image": false,
+            "subheading": "@georgeandwilly",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1655433236f8245331-0",
+        "1655433236f8245331-1",
+        "1655433236f8245331-2",
+        "cd678b92-cd78-4fdf-89b8-c8ea149fee08"
+      ],
+      "settings": {
+        "gallery_title": "See How They're Used",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 36,
+        "title_size_mobile": 40,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "secondary"
+      }
+    },
+    "38111acc-51ee-4f13-b3a6-07b13d7f876c": {
+      "type": "rich-text",
+      "blocks": {
+        "5b4ba0bb-a65b-44ed-868c-06df6a41cce4": {
+          "type": "button",
+          "settings": {
+            "button_label": "View More Customer Photos",
+            "button_link": "https:\/\/nz.georgeandwilly.com\/pages\/hanging-menu-board-gallery",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "5b4ba0bb-a65b-44ed-868c-06df6a41cce4"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "67c1387c-ab10-44e0-a9a6-b2598aedd378": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Magnet-Ceiling-Menu-Board.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Have You Seen The Ceiling Menu Board?",
+        "use_h1": false,
+        "text": "<p>Another reversible, magnetic menu display that can also be mounted to your ceiling or wall.<\/p>",
+        "button_label": "The Ceiling Menu Board",
+        "button_link": "shopify:\/\/products\/ceiling-menu-board",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655433090c7499e59",
+    "1655772436403e149e",
+    "1655433236359d8bea",
+    "38111acc-51ee-4f13-b3a6-07b13d7f876c",
+    "67c1387c-ab10-44e0-a9a6-b2598aedd378",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

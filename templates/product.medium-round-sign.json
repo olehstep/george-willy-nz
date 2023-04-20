@@ -1,0 +1,322 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "e60048ee-802c-4a41-91d2-d848108ff6c5": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Sign Face: 60cm (W) x 60cm (H)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Medium_Round_Sign_Spec_Doc.pdf?v=1657504749\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$35 AUD Australia via DHL<br>$15 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "3d6069d4-75b6-4665-a19f-e709890ce31b": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Does the medium round shop sign come with screws for mounting?<\/h3>\n<p>The round shop sign comes with screws for mounting on drywall and wood, and concrete. Other types of screws will be available from your local supplies store.<\/p>\n<h3>Does logo printing come with the circle sign?<\/h3>\n<p>We sell our shopfront signs as blanks and don't provide a signwriting service. However, the business sign is really easy to get branded by your local signwriter. If you send them your design and tell them it is going on a round 60cm\/23.6” faceplate they will be able to get it applied for you.<\/p>\n<h3>What material is the round shopfront sign made from?<\/h3>\n<p>The store sign is made from 100% aluminium. We made the Medium Round Sign from aluminium as this material can not rust and lasts better outside than other storefront signage materials such as wood and steel.<\/p>\n<h3>What other names do people use to describe the outdoor business sign?<\/h3>\n<p>The Round Sign can also be called a 3D Blade Sign, Outdoor Business Sign, Shop Sign, Storefront Sign, and Store Sign.<\/p>\n<h3>Do you make the Medium Round Sign in a different size?<\/h3>\n<p>Yes! Take a look at the <a href=\"https:\/\/www.georgeandwilly.com\/products\/round-outdoor-shop-sign\">Round Sign<\/a>, or for a bigger version, check out our <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/big-round-sign\">Big Round Sign<\/a>. We also have the <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/round-light-box-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Round Light Box Sign<\/a> for a light-up or illuminated sign which looks great lit up at night. For more options, take a look at our complete range of <a href=\"https:\/\/www.georgeandwilly.com\/collections\/wall-signage\" rel=\"noopener noreferrer\" target=\"_blank\">wall signs<\/a>.<\/p>\n<h3>What other outdoor business signs does George &amp; Willy sell?<\/h3>\n<p>We sell a range of outdoor company signs, including plenty of <a href=\"https:\/\/www.georgeandwilly.com\/collections\/freestanding-signs\" rel=\"noopener noreferrer\" target=\"_blank\">freestanding options<\/a>. Take a look at our <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/standing-round-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Standing Round Lollipop Sign<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/rounded-sidewalk-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Rounded Sidewalk Sign<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/circle-sidewalk-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Circle Sidewalk Sign<\/a>, and <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/chalk-sandwich-board\" rel=\"noopener noreferrer\" target=\"_blank\">Chalk Sandwich Board<\/a>. For more, view our <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\" rel=\"noopener noreferrer\" target=\"_blank\">full range of signs<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Medium Round Sign comes with all the necessary hardware to get going, with handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Medium_Round_Sign_Instructions_2021.pdf?v=1657505011\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Medium_Round_Sign_Instructions_2021.pdf?v=1657505011\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "You might also like",
+            "product_list": [
+              "big-round-sign",
+              "circle-sign",
+              "round-light-box-sign",
+              "round-outdoor-shop-sign"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "e60048ee-802c-4a41-91d2-d848108ff6c5",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "3d6069d4-75b6-4665-a19f-e709890ce31b",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1657764012e7df8d97": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Render.gif",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Easy Install",
+        "use_h1": false,
+        "text": "<p>The Medium Round Sign includes all the necessary screws for easy installation to wood, brick or concrete.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Medium-Round-Wall-Sign.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "No Wall Space? No Worries",
+        "use_h1": false,
+        "text": "<p>Hang the Medium Round Sign from the ceiling for another way to display.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16576839450bff5350": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/GEORGE-AND-WILLY-ROUND-SIGN-BLACK_b3f93c31-fab6-46fb-8582-772ef07b11f4.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Rain, Hail or Shine.",
+        "use_h1": false,
+        "text": "<p>100% rust resistant. <\/p><p>Designed to last you a lifetime. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "0e2b5baf-78b6-428d-adf9-e6ecc057f842": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/767081638",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Medium_Round_Sign.jpg",
+        "subheading": "",
+        "title": "Looking for a Different Size?",
+        "use_h1": false,
+        "text": "<p>You've got options. Meet the <a href=\"https:\/\/eu.georgeandwilly.com\/products\/round-outdoor-shop-sign\" title=\"https:\/\/eu.georgeandwilly.com\/products\/round-outdoor-shop-sign\">Round Sign<\/a> for something smaller, and the <a href=\"https:\/\/eu.georgeandwilly.com\/products\/big-round-sign\" title=\"https:\/\/eu.georgeandwilly.com\/products\/big-round-sign\">Big Round Sign<\/a> for bigger spaces.<\/p>",
+        "button_label": "Explore",
+        "button_link": "",
+        "button_style": "link",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1655845241a550a64f": {
+      "type": "apps",
+      "blocks": {
+        "daa55306-1039-4096-aadf-83a46466c090": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "daa55306-1039-4096-aadf-83a46466c090"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1657764012e7df8d97",
+    "16557738973d9ad62e",
+    "16576839450bff5350",
+    "0e2b5baf-78b6-428d-adf9-e6ecc057f842",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1655845241a550a64f"
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "b278f9c8-7444-4c1e-bbf8-d0d86acf0257": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Display Board: 800mm x 430mm<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Ceiling_Menu_Board_2.pdf?v=1649111161\" target=\"_blank\">View Specifications Per Board<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$25 AUD Australia via DHL<br>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Ceiling Menu Board comes with all the necessary hardware to get going, but take a look at our handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Ceiling_Menu_Board_Instructions_Web.pdf?v=1648173541\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        },
+        "a6172f3d-95e5-4139-b0c6-9e616df8be98": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Do magnets come with the Ceiling Menu Board?<\/h3>\n<p>Yes, the Ceiling Menu Board comes with 20 circular magnets for holding paper or card. Magnet Letters are an optional add-on, which are a great way to spell out menus and messages.<\/p>\n<h3>Can the Ceiling Menu Board be used outdoors?<\/h3>\n<p>Unfortunately, the hanging menu display was designed for indoor spaces and is not suitable for outdoor areas as it is not considered water-resistant or weatherproof.<\/p>\n<h3>Does logo printing come with the ceiling-mounted menu board?<\/h3>\n<p>All our Signs arrive blank, but we offer advice on powder-coating and decal printing for creating custom signs tailored to your needs.<\/p>\n<h3>Does the Ceiling Menu Board come with screws for mounting?<\/h3>\n<p>Yes, the Ceiling Menu Board comes with screws for mounting onto a wooden surface.<\/p>\n<h3>Can I use magnets on the sign?<\/h3>\n<p>Yes, you can. We sell extra letter packs for making magnet menus on your menu board too, including the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/magnet-letters\" target=\"_blank\">Magnet Letters<\/a> and <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/block-magnet-letters\" target=\"_blank\">Block Magnet Letters<\/a>.<\/p>\n<h3>Can the Ceiling Menu Board be mounted on a tile?<\/h3>\n<p>Yes, you can mount the rails to tile or brick. You will need to source the correct screws from the hardware store though as ours aren’t designed for tile or brick - only wooden and drywall surfaces. Take a look at our blog post, <a href=\"https:\/\/www.georgeandwilly.com\/blogs\/blog\/how-to-drill-into-a-wall-tile\" rel=\"noopener noreferrer\" target=\"_blank\">how to drill into a wall tile<\/a> for a step-by-step guide.<\/p>\n<h3>Can I use a marker pen to write on the Ceiling Menu Board?<\/h3>\n<p>We would not recommend using any kind of pen on the Ceiling Menu Board. To add a decal, get in touch with your local signwriter who will be able to help.<\/p>\n<h3>What other Menu Board options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"https:\/\/www.georgeandwilly.com\/products\/hanging-menu-board\" target=\"_blank\">Hanging Menu Board,<\/a> the <a href=\"https:\/\/www.georgeandwilly.com\/products\/menu-board\" target=\"_blank\">Menu Board<\/a>, and the <a href=\"https:\/\/www.georgeandwilly.com\/products\/menu-stand\" target=\"_blank\">Menu Stand<\/a> for something slightly different. For more George &amp; Willy signs, take a look at our <a href=\"https:\/\/www.georgeandwilly.com\/products\/store-sign\" target=\"_blank\" title=\"“Store\">Store Sign<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/flag-sign\" target=\"_blank\" title=\"“Flag\">Flag Sign<\/a>, and <a href=\"https:\/\/www.georgeandwilly.com\/products\/round-wall-sign\" target=\"_blank\" title=\"Wall-mounted round wall sign\">Round Wall Sign<\/a>. For a slightly larger option, check out our <a href=\"https:\/\/www.georgeandwilly.com\/products\/big-round-sign\" target=\"_blank\" title=\"Big Round Business Sign\">Big Round Sign<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "2bf8d803-46af-4907-84a6-18f21806b906": {
+          "type": "related_products",
+          "settings": {
+            "title": "You might also like",
+            "product_list": [
+              "felt-board",
+              "magnet-chalk-board",
+              "hanging-menu-board",
+              "wall-mounted-paper-roller"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "b278f9c8-7444-4c1e-bbf8-d0d86acf0257",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "bce194fb-2905-40b4-a870-732bd608f8e1",
+        "a6172f3d-95e5-4139-b0c6-9e616df8be98",
+        "2bf8d803-46af-4907-84a6-18f21806b906"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "789ca7fd-062a-4cc8-b17b-d06153cd4be8": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/807349300",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Magnet-Menu-Letterboard.jpg",
+        "subheading": "",
+        "title": "Everything You Need, Nothing You Don't",
+        "use_h1": false,
+        "text": "<p>The Ceiling Menu Board arrives with everything you need to get set up, including screws, instructions, and two strap colour options.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "2c24c911-2b34-4a05-864b-74460824a52f": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/773611875",
+        "autoplay": false,
+        "placeholder_image": "shopify:\/\/shop_images\/Ceiling-Menu-Board-Display.jpg",
+        "subheading": "",
+        "title": "Versatile and Changeable",
+        "use_h1": false,
+        "text": "<p>You can flip your menu around with ease. Breakfast menu on one side, lunch on the other.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "fc676fc7-6253-4d0c-9c7b-252eaca0078b": {
+      "type": "gallery",
+      "blocks": {
+        "template--15778106015939__fc676fc7-6253-4d0c-9c7b-252eaca0078b-16807315096bdba942-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnet-menu-board-Haan-Coffee-bar_bb38ee0e-31a0-46b0-8870-d0adea6cba4f.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "@haancoffeeroasters",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "5154ac76-e56d-4dae-99cc-c9f41efac520": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnet-Ceiling-Menu-Board_f539047d-f958-48af-8880-a6f66c4e2865.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "@fusillolab",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "ffc07d52-d66d-4c21-86d4-b7563df9524c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coffee-shop-ceiling-menu-board_9e4bfdb4-a0de-4aa3-b5ae-b9706579caf6.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "@georgeandwilly",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "b46bc030-17ae-4d44-ba44-caa91d1c20ca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnet-menu-board-Haan-Coffee_58390ba9-5383-4831-a282-3cd60449b49a.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "@haancoffeeroasters",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--15778106015939__fc676fc7-6253-4d0c-9c7b-252eaca0078b-16807315096bdba942-3",
+        "5154ac76-e56d-4dae-99cc-c9f41efac520",
+        "ffc07d52-d66d-4c21-86d4-b7563df9524c",
+        "b46bc030-17ae-4d44-ba44-caa91d1c20ca"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "link"
+      }
+    },
+    "2a17045d-177d-441a-a853-4a77deba939c": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Hanging_Menu_Board_-5778.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Have You Seen the Hanging Menu Board?",
+        "use_h1": false,
+        "text": "<p>Another reversible, magnetic menu display that can also be mounted to your ceiling or wall.<\/p>",
+        "button_label": "The Hanging Menu Board",
+        "button_link": "shopify:\/\/products\/hanging-menu-board",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "1656029001e8db7fdf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar Menu Displays",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "More Signage Options",
+        "collection": "wall-signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1655845241a550a64f": {
+      "type": "apps",
+      "blocks": {
+        "3078c3eb-99b5-41b5-bd46-06d8197f6855": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "3078c3eb-99b5-41b5-bd46-06d8197f6855"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "789ca7fd-062a-4cc8-b17b-d06153cd4be8",
+    "2c24c911-2b34-4a05-864b-74460824a52f",
+    "fc676fc7-6253-4d0c-9c7b-252eaca0078b",
+    "2a17045d-177d-441a-a853-4a77deba939c",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "1656029001e8db7fdf",
+    "16534294759f628925",
+    "recommendations",
+    "1655845241a550a64f"
+  ]
+}

@@ -1,0 +1,72 @@
+{% if settings.cf251_imp %}
+<style>
+  div.cart-item-list .cart-item .cart-item__description .line-item-property {
+    display: none; 
+  }
+  
+  ul.cart-discount-list li.cart-discount {
+    display: flex;
+    justify-content: right;
+  }
+  
+  ul.cart-discount-list .cart-discount__amount {
+    margin-left: 4px;
+  }
+  
+  ul.cart-discount-list .cart-discount__amount::before {
+    content: "(-";
+  }
+  ul.cart-discount-list .cart-discount__amount::after {
+    content: ")"
+  }
+</style>
+
+
+
+<script>
+// (function() {
+//   function waitForElement(selector, trigger, delayInterval, delayTimeout) {
+//     var interval = setInterval(function() {
+//       if (
+//         document &&
+//         document.querySelector(selector) &&
+//         document.querySelectorAll(selector).length > 0
+//       ) {
+//         clearInterval(interval);
+//         trigger();
+//       }
+//     }, delayInterval);
+//     setTimeout(function() {
+//       clearInterval(interval);
+//     }, delayTimeout);
+//   }
+
+//   function init() {
+//     console.log('init');
+//     document.querySelectorAll('.line-item-property').forEach(function(div) {
+//        console.log(div.innerText);
+//       if (div.innerText.indexOf('_cf25') > -1) {
+//          console.log('_cf25');
+//         div.classList.add('hidden');
+//       }
+//     });
+//   }
+	
+// 	waitForElement('.line-item-property', init, 50, 10000);
+	
+// 	var bmSend = XMLHttpRequest.prototype.send;
+// 	XMLHttpRequest.prototype.send = function() {
+// 		this.addEventListener('load', function() {
+// 			if (this.responseURL.indexOf('/cart/change.js') > -1) {
+// 				// hide on cart update
+// 				// waitForElement('.line-item-property', init, 50, 10000);
+//               waitForElement('.line-item-property', function() {
+//                 setTimeout(init, 250);
+//               }, 50, 10000);
+// 			}
+// 		});
+// 		return bmSend.apply(this, arguments);
+// 	};
+// })();
+</script>
+{% endif %}

@@ -1,0 +1,24 @@
+{% if settings.cf16_imp %}
+<script>
+(function () { 
+  var previousElement = $('.shopify-section.section-featured-collection').prev();
+
+  $('html').addClass('cf_16');
+  $('.cf_16 .shopify-section.section-main-product').after('<div id="similar-wrapper"></div>');
+  
+  if ($(window).width() < 768) {
+  	$('.cf_16 .shopify-section.section-featured-collection').appendTo('.cf_16 #similar-wrapper');
+  } else {
+  	// $previousElement.after('.shopify-section.section-featured-collection')
+  }
+  
+  $(window).resize(function() {
+    if ($(window).width() < 768) {
+    	$('.cf_16 .shopify-section.section-featured-collection').appendTo('.cf_16 #similar-wrapper');
+    } else {
+    	previousElement.after($('.shopify-section.section-featured-collection'))
+    }
+  });
+})();
+</script>
+{% endif %}

@@ -1,0 +1,301 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "bf4933b3-77ff-464d-87f6-18664eb659cb": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>12 x Market Felt Boards<br>Boards: 7.8cm H x 60cm W x 2.3cm D<br>660 X Small Peg Letters and Numbers<br>660 X Large Peg Letters and Numbers<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Market_Felt_Board_Sign_Spec_Doc.pdf?v=1669983690\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Market_Felt_Board_Sign_Spec_Doc.pdf?v=1669983690\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$20 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Market Felt Board comes with all the necessary hardware to get going, but take a look at our handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Market_Felt_Board_Instructions_Web.pdf?v=1661820460\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Market_Felt_Board_Instructions_Web.pdf?v=1661820460\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "de6817dd-5a8e-4b2e-84e1-8daf0914472f": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Can I buy extra peg letters for the Market Felt Board?<\/h3><p>We do not sell extra peg letters for the Felt Board range, but we've ensured each menu display comes with more than enough letters, numbers and symbols for your message or menu.<\/p>\n<h3>What is used to install the Market Felt Board?<\/h3><p>Each Felt Board comes with its own set of stainless screws and all hardware required for easy installation of your wall-mounted letter pegboard.<\/p><h3>Can the Market Felt Board be drilled into a tile?<\/h3><p>Yes, you can mount the Market Felt Board to tile or brick. You will need to source the correct screws from the hardware store though as ours aren’t designed for tile or brick.<\/p><h3>Are there enough peg letters with one board for a cafe menu?<\/h3><p>Each Market Felt Board comes with a set of 660 font-sized peg letters in two different sizes (1,120 in total).<\/p><h3>What are the changeable letters made out of?<\/h3><p>The Market Felt Board letters are made of plastic with which means they will last a lifetime.<\/p><h3>Is there a bigger size of the Market Felt Board?<\/h3><p>At this stage, we only offer one size of the Market Felt Board, but we do also have a Small Felt Board and Large Felt Board. However, if you join multiple boards together, you can make your wall display as big or small as your desire. <\/p><h3>What other Menu Displays does George &amp; Willy sell?<\/h3><p>We have a range of letterboards and menu displays available, including the <a href=\"https:\/\/www.georgeandwilly.com\/products\/felt-board\" target=\"_blank\" title=\"Small and Large Felt Board Menu Displays\">Small and Large Felt Board<\/a>, the <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/park-letter-board\" target=\"_blank\" title=\"Peg Letter Menu Display\">Park Letter Board<\/a>, and the <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/menu-board\" target=\"_blank\" title=\"Sliding rail letterboard menu display\">Menu Board<\/a>. For something a little different, take a look at our <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/wooden-letter-board\" target=\"_blank\" title=\"scrabble letter wall menu display\">Wooden Letter Board<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/ceiling-menu-board\" target=\"_blank\" title=\"Magnetic changeable menu display\">Ceiling Menu Board<\/a>, or <a href=\"https:\/\/www.georgeandwilly.com\/collections\/letter-menu-boards\/products\/stamped-card-menu\" target=\"_blank\" title=\"customisable card menu display\">Stamped Card Menu<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "12c92c5a-0a44-48b6-83b8-8a013920c8ba": {
+          "type": "related_products",
+          "settings": {
+            "title": "You might also like",
+            "product_list": [
+              "felt-board",
+              "hanging-menu-board",
+              "magnetic-letter-menu-board",
+              "park-letter-board"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "bf4933b3-77ff-464d-87f6-18664eb659cb",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "de6817dd-5a8e-4b2e-84e1-8daf0914472f",
+        "12c92c5a-0a44-48b6-83b8-8a013920c8ba"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "0f9b25bf-003d-4189-8a1e-c8c695cecde2": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/776293657",
+        "autoplay": true,
+        "subheading": "",
+        "title": "You've Got Options",
+        "use_h1": false,
+        "text": "<p>White on dark grey or black on light grey. Choose the best combination to suit your space. <br\/><br\/>Need something a little different?<\/p>",
+        "button_label": "View the Felt Board",
+        "button_link": "shopify:\/\/products\/felt-board",
+        "button_style": "link",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Market-Felt-Menu-Letter-Board-Display_2da75762-d5c1-40ce-8f90-947e6f397f48.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Thousands of Letters",
+        "use_h1": false,
+        "text": "<p>With over 1,320 letters, numbers & symbols, you won’t get caught short when it comes to writing your menu or message.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "b142056c-eac5-4a52-8c3c-f5ed2fef9033": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/789895931",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Easy Install",
+        "use_h1": false,
+        "text": "<p>The Feltboard includes all the necessary screws for installation.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "a47e8d1e-dadf-4de1-a3f4-ff10d51f0c40": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Felt-Letter-Board-peg-letters-menu-display_19f8754c-684d-4b95-b7ce-899522a5b007.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Letter Storage Sorted",
+        "use_h1": false,
+        "text": "<p>Wooden keepboxes keep your letters organized so you can enjoy the process, as you should.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1656391115b770abb2": {
+      "type": "apps",
+      "blocks": {
+        "82856014-0af5-4bd5-8b20-64b6370b49ec": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "82856014-0af5-4bd5-8b20-64b6370b49ec"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0f9b25bf-003d-4189-8a1e-c8c695cecde2",
+    "16557738973d9ad62e",
+    "b142056c-eac5-4a52-8c3c-f5ed2fef9033",
+    "a47e8d1e-dadf-4de1-a3f4-ff10d51f0c40",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1656391115b770abb2"
+  ]
+}

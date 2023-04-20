@@ -1,0 +1,64 @@
+
+{% if section.settings.cf23_upsell_product !=blank %}
+  
+<div class="upsell-title">Customers also purchased</div>
+<div class="upsell-container-wrap">
+  <div class="cart-item product-a-frame-sign-sandwich-board cc-animate-init -in cc-animate-complete" data-cc-animate="">
+    {% assign upsellproduct = all_products[section.settings.cf23_upsell_product] %}
+    <div class="cart-item__column cart-item__image" id="cart-item-image-{{ section.settings.cf23_upsell_product_id }}">
+      <a href="{{ upsellproduct.url }}?variant={{ section.settings.cf23_upsell_product_id }}">
+        <div class="rimage-outer-wrapper" style="max-width: 100px">
+          <div class="rimage-wrapper " style="padding-top:100.0%">
+            <img class="rimage__image" src="{{ upsellproduct.featured_image | img_url: '180x' }}" alt="{{ upsellproduct.title }}" />
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="cart-item__not-image">
+      <div class="cart-item__column cart-item__description">
+        <div>
+          <a class="name" href="{{ upsellproduct.url }}?variant={{ section.settings.cf23_upsell_product_id }}">{{ upsellproduct.title }}</a>
+          <div class="small-text">
+            <div data-varient-id="{{ section.settings.cf23_upsell_product_id }}" class="variant">White</div>
+          </div>
+          <div class="small-details">{{ section.settings.cf23_upsell_product_desc }}</div>
+        </div>
+      </div>
+      <div class="cart-item__column cart-item__price">
+        <div><span class="theme-money">{{ upsellproduct.price | money }}</span></div>
+      </div>
+      <div class="cart-item__column cart-item__quantity">
+        <div class="quantity buttoned-input">
+          <a id="updates_dec_upsell" class="notabutton quantity-down-upsell" href="javascript:;" aria-label="Decrease">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-minus">
+              <title>Minus</title>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </a>
+          <input class="cart-item__quantity-input-upsell" type="text" size="2" id="updates_upsell" name="updates[]" value="1" data-initial-value="1" data-line="1" data-max="526" aria-label="Quantity">
+          <a id="updates_inc_upsell" class="notabutton quantity-up-upsell " href="javascript:;" aria-label="Increase">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-plus">
+              <title>Plus</title>
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </a>
+        </div>
+        <a class="remove" href="/cart/change?line=1&amp;quantity=0">Remove
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </a>
+      </div>
+      <div class="cart-item__column cart-item__total" data-line="1">
+        <span class="theme-money">{{ upsellproduct.price | money }}</span>
+        <button type="button" id="update-cart-ATC" class="button button--large">
+          Add to cart
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endif %}

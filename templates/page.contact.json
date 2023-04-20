@@ -1,0 +1,91 @@
+{
+  "sections": {
+    "1656289918b27e3978": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Lightbox-95.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 320,
+        "height_mobile": 200,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "title_size_mobile": 34,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-contact",
+      "blocks": {
+        "name": {
+          "type": "name_input",
+          "settings": {
+            "half_width": true
+          }
+        },
+        "email": {
+          "type": "email_input",
+          "settings": {
+            "half_width": true
+          }
+        },
+        "message": {
+          "type": "message_input",
+          "settings": {
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message"
+      ],
+      "settings": {
+        "show_page_title": true,
+        "use_columns": false,
+        "contact_title": "",
+        "contact_text": "<p>Let us know if you have any questions, we'll get back to you as soon as possible, usually within a day!<\/p>"
+      }
+    },
+    "16562902268b0a24dd": {
+      "type": "rich-text",
+      "blocks": {
+        "1656290226c413d1d8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Or you could email us directly at <a href=\"mailto:sales@georgeandwilly.com\" target=\"_blank\" title=\"mailto:sales@georgeandwilly.com\">sales@georgeandwilly.com<\/a><\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "1656290226c413d1d8-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "1656289918b27e3978",
+    "main",
+    "16562902268b0a24dd"
+  ]
+}

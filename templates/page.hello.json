@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "1656282874193e6b8a": {
+      "type": "rich-text",
+      "blocks": {
+        "330fca5b-1f37-4a51-9d31-2bcc828dcf9f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quality signage, letter boards, and home products for creative spaces.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "75c312dd-04bf-4298-84dd-b8d9b8f89b68": {
+          "type": "button",
+          "settings": {
+            "button_label": "Meet Chris Stevens From CTRL space",
+            "button_link": "shopify:\/\/blogs\/blog\/hospitality-design",
+            "button_style": "primary"
+          }
+        },
+        "828ee978-0cc4-47bd-8898-1add463d3b8e": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style": "primary"
+          }
+        },
+        "3afaf882-dc37-4256-afad-9522f9ea2e0b": {
+          "type": "button",
+          "settings": {
+            "button_label": "sign up for our emails",
+            "button_link": "https:\/\/www.georgeandwilly.com\/pages\/sign-up",
+            "button_style": "primary"
+          }
+        },
+        "afd20142-a65f-45ea-9454-fb3b626f7dfb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Interior Design Essentials from  Wonder Group",
+            "button_link": "shopify:\/\/blogs\/blog\/interior-design-essentials-from-wonder-group",
+            "button_style": "primary"
+          }
+        },
+        "82677f51-5833-4c02-bfb6-4badbf7eca49": {
+          "type": "button",
+          "settings": {
+            "button_label": "Journal",
+            "button_link": "shopify:\/\/blogs\/blog",
+            "button_style": "primary"
+          }
+        },
+        "093f35df-d7db-4db8-9b98-d32d7c380c23": {
+          "type": "button",
+          "settings": {
+            "button_label": "For Your Business",
+            "button_link": "shopify:\/\/collections\/for-your-business",
+            "button_style": "primary"
+          }
+        },
+        "f571e0c4-f5c9-4667-bfab-71293ad0329e": {
+          "type": "button",
+          "settings": {
+            "button_label": "For your home",
+            "button_link": "shopify:\/\/collections\/for-home",
+            "button_style": "primary"
+          }
+        },
+        "abc438e8-ee03-4e68-a948-6e13af6f7d2c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Pinterest",
+            "button_link": "https:\/\/www.pinterest.co.uk\/georgeandwilly\/_created\/",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "330fca5b-1f37-4a51-9d31-2bcc828dcf9f",
+        "75c312dd-04bf-4298-84dd-b8d9b8f89b68",
+        "828ee978-0cc4-47bd-8898-1add463d3b8e",
+        "3afaf882-dc37-4256-afad-9522f9ea2e0b",
+        "afd20142-a65f-45ea-9454-fb3b626f7dfb",
+        "82677f51-5833-4c02-bfb6-4badbf7eca49",
+        "093f35df-d7db-4db8-9b98-d32d7c380c23",
+        "f571e0c4-f5c9-4667-bfab-71293ad0329e",
+        "abc438e8-ee03-4e68-a948-6e13af6f7d2c"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "1656282874193e6b8a",
+    "main"
+  ]
+}

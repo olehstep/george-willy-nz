@@ -1,0 +1,248 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "bf4933b3-77ff-464d-87f6-18664eb659cb": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "2b1c6bd9-9fa6-4236-b4cf-8dc37388859d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p> \nOrder today for delivery between: <span id=\"fromDate\"><\/span> - <span id=\"toDate\"><\/span><\/p>\n{{ '\/\/cdnjs.cloudflare.com\/ajax\/libs\/datejs\/1.0\/date.min.js' | script_tag }}\n<script>\nvar fromDate = Date.today().addDays(2);\nif (fromDate.is().saturday() || fromDate.is().sunday()) {\nfromDate = fromDate.next().monday();\n}\nvar toDate = Date.today().addDays(6);\nif (toDate.is().saturday() || toDate.is().sunday()) {\ntoDate = toDate.next().monday();\n}\ndocument.getElementById('fromDate').innerHTML = fromDate.toString('MMMM dS');\ndocument.getElementById('toDate').innerHTML = toDate.toString('MMMM dS');\n<\/script>",
+            "show_in_quickbuy": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Rails: 100cm (L) x 1.2cm (H) <br\/>Tiles: 12.6cm (H) x 9cm (W)<br\/>Complete set: 10 rails, 60 Letter Tiles and 182 Letter Stickers<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Big_Wooden_Letter_Board.pdf?v=1649807721\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$25 AUD Australia via DHL<br\/>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George & Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Big Wooden Letter Board comes with all the necessary hardware for getting your wall display up and running. All you will need is an extra set of hands, a level, and a drill.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/3464\/2627\/files\/Big_Wooden_Letter_Menu_Instructions_Web.pdf?v=1632438478\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "de6817dd-5a8e-4b2e-84e1-8daf0914472f": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>Can you provide longer rails for the Big Wooden Letter Board?<\/em><\/p><p>No, sorry, we don’t make custom-sized Big Wooden Letter Board sets. However, if you add two menu board rails together horizontally you will double their length to 200cm. <\/p><p><em>Does the Big Wooden Letter Board come with numbered stickers so we can put prices on our menu as well?<\/em><\/p><p>Yes, it sure does. When you order a Big Wooden Letter Board, it comes with 60 tiles and 182 letter and number stickers for you to apply whichever you need.<\/p><p><em>Do you sell extra tiles and letter stickers for the large letter display?<\/em><\/p><p>We do not sell extra packs of the tiles or letter and number stickers for the Big Wooden Letter Board, but we've made sure there are more than enough for a great menu or quote display to start with.<\/p><p><em>Does the Big Wooden Letter Board come in other colours?<\/em><\/p><p>At this stage, we only offer the Big Wooden Letter Board in one colour combination; natural wood display letters and black aluminium rails. <\/p><p><em>Do you make a smaller size of the Big Wooden Letter Board?<\/em><\/p><p>Yes, we sure do. Take a look at our <a href=\"https:\/\/nz.georgeandwilly.com\/products\/wooden-letter-board\" target=\"_blank\" title=\"Scrabble-inspired Wooden Letter Board\">Wooden Letter Board<\/a>, or the <a href=\"https:\/\/nz.georgeandwilly.com\/products\/scout-letter-board\" target=\"_blank\" title=\"Scrabble-inspired wooden letter board for menus, announcements and letter displays\">Scout Letter Board<\/a>, which is the smallest of our menu boards for your home or cafe.<\/p><p><em>Can the Big Wooden Letter Board be mounted outdoors?<\/em><\/p><p>The Big Wooden Letter Board is designed as an interior menu display. Although the rails are made from aluminium, so it is not susceptible to rust, the wooden display tiles will last a lifetime when used indoors only. Note: all parts come with screws, however, installation should be done by a qualified builder to ensure it is fixed properly.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "bf4933b3-77ff-464d-87f6-18664eb659cb",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "2b1c6bd9-9fa6-4236-b4cf-8dc37388859d",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "de6817dd-5a8e-4b2e-84e1-8daf0914472f",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "165584739720ac4449": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Architectural Grade Plywood",
+        "use_h1": false,
+        "text": "<p>Birch plywood cut carefully with more than 1000 holes and over 1000 letters, both large & small, so you won't get caught short.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1656391115b770abb2": {
+      "type": "apps",
+      "blocks": {
+        "82856014-0af5-4bd5-8b20-64b6370b49ec": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "82856014-0af5-4bd5-8b20-64b6370b49ec"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165584739720ac4449",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1656391115b770abb2"
+  ]
+}

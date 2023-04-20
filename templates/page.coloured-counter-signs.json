@@ -1,0 +1,512 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "16563866841a35bba5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pricing-Sign_-5_ab031cf5-792b-47e5-b487-d27e787b9368.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_header_image.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center bottom",
+        "height": "fixed",
+        "height_desktop": 660,
+        "height_mobile": 440,
+        "image_link": "shopify:\/\/collections\/counter-signs",
+        "subheading": "",
+        "title": "Treat the \nLittle Details \nLike Big Ones",
+        "title_size": 50,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "Explore Countertop Displays",
+        "button_url_1": "shopify:\/\/collections\/counter-signs",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center left",
+        "full_width": true,
+        "mobile_overlay_under": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "30b9b50c-ef8d-46a7-8899-ff8ceb1f6208": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15735375462595__30b9b50c-ef8d-46a7-8899-ff8ceb1f6208-1671554663b283440a-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15735375462595__30b9b50c-ef8d-46a7-8899-ff8ceb1f6208-1671554663b283440a-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16565533761e365a63": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled-6.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Untitled-7_mobile.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "1656550498b9b820e2": {
+      "type": "multi-column",
+      "blocks": {
+        "16565504980df8543f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/George-and-Willy-Price-Signs-4.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Shop Pricing Signs",
+            "link": "shopify:\/\/products\/pricing-signs"
+          }
+        },
+        "16565504980df8543f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/211122_Fusillo-G_W-4.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Shop Counter Signs",
+            "link": "shopify:\/\/products\/counter-signs"
+          }
+        },
+        "16565504980df8543f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5D3_7485.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Shop Medium Round Counter Signs",
+            "link": "shopify:\/\/products\/medium-round-counter-signs"
+          }
+        }
+      },
+      "block_order": [
+        "16565504980df8543f-0",
+        "16565504980df8543f-1",
+        "16565504980df8543f-2"
+      ],
+      "settings": {
+        "title": "Designed To Make It Easy To Label Your Goods With Care.",
+        "text_alignment": "center",
+        "button_style": "secondary",
+        "use_alt_bg": false
+      }
+    },
+    "f7781cb6-1d91-4f8c-a562-45adc39b87e9": {
+      "type": "logo-list",
+      "blocks": {
+        "f15d46ab-cdec-4667-ad7b-2530d370b662": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/USP_-_STEVES-2-01.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
+        "b7fd8426-39dd-48d2-a9fe-5004290d5076": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/USP_-_STEVES-2-03.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
+        "ec4aaeb7-0a06-4142-a1a2-ac61fc29ea49": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/USPs_-_STEVE-02.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
+        "2e4548f9-78d6-4d5c-8dbd-26a5e8ad3cb7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/USP_-_STEVES-2-04.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "f15d46ab-cdec-4667-ad7b-2530d370b662",
+        "b7fd8426-39dd-48d2-a9fe-5004290d5076",
+        "ec4aaeb7-0a06-4142-a1a2-ac61fc29ea49",
+        "2e4548f9-78d6-4d5c-8dbd-26a5e8ad3cb7"
+      ],
+      "settings": {
+        "title": "What Makes George & Willy Signage Superior?",
+        "image_opacity": 100,
+        "use_alt_bg": false
+      }
+    },
+    "1656544458079a676a": {
+      "type": "testimonials",
+      "blocks": {
+        "1656544458b4d622de-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "These counter signs are beautifully simple and well manufactured.",
+            "author": "Romain Ferraris",
+            "image": "shopify:\/\/shop_images\/5D3_7082.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "1656544458b4d622de-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "They're amazing, sales of our cakes and slices have definitely increased due to these Counter Signs. Highly recommended!",
+            "author": "Henry Butler",
+            "image": "shopify:\/\/shop_images\/George-_-Willy-92.-gramjpg.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656544458b4d622de-1",
+        "1656544458b4d622de-0"
+      ],
+      "settings": {
+        "title": "Over 2000 Customer reviews",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 37,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "10ec2680-4899-4d8c-b923-ec621509a777": {
+      "type": "logo-list",
+      "blocks": {
+        "55e12959-60ec-4abf-8c82-774c14a1cbc6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NYT.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
+        "49178470-59d3-47ba-bc92-f2b7e8f958f2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nike.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
+        "7fc1e554-e5da-40cf-a3a6-19831ab6874b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ace-Hotel.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
+        "b85dd38b-1740-4ee6-974f-2af3683925e9": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/APPLE_0f92b69e-32cb-40cb-bd5b-a9606d527b83.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "55e12959-60ec-4abf-8c82-774c14a1cbc6",
+        "49178470-59d3-47ba-bc92-f2b7e8f958f2",
+        "7fc1e554-e5da-40cf-a3a6-19831ab6874b",
+        "b85dd38b-1740-4ee6-974f-2af3683925e9"
+      ],
+      "settings": {
+        "title": "Trusted by",
+        "image_opacity": 100,
+        "use_alt_bg": false
+      }
+    },
+    "4e6ed1f9-43c3-45b1-b242-907fd3c73d49": {
+      "type": "video",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/766685241",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "text": "",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "image": "shopify:\/\/shop_images\/George_Willy_Sept22-3_6585b7db-a633-41d3-aa23-c6008e778be5.jpg",
+        "image_position": "center center",
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "c17b5cc4-caa0-47ab-9745-7eb14d41bca4": {
+      "type": "multi-column",
+      "blocks": {
+        "template--15735375462595__c17b5cc4-caa0-47ab-9745-7eb14d41bca4-16715544599a3d7a72-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Card-Counter-Signs_cropped.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Card Counter Signs",
+            "link": "shopify:\/\/products\/card-counter-signs"
+          }
+        },
+        "template--15735375462595__c17b5cc4-caa0-47ab-9745-7eb14d41bca4-16715544599a3d7a72-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/George-and-Willy-Table-Talkers-5.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Table Talkers",
+            "link": "shopify:\/\/products\/table-talkers"
+          }
+        },
+        "template--15735375462595__c17b5cc4-caa0-47ab-9745-7eb14d41bca4-16715544599a3d7a72-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Specials_Board-10.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Specials Board",
+            "link": "shopify:\/\/products\/peg-letter-board-mini"
+          }
+        }
+      },
+      "block_order": [
+        "template--15735375462595__c17b5cc4-caa0-47ab-9745-7eb14d41bca4-16715544599a3d7a72-0",
+        "template--15735375462595__c17b5cc4-caa0-47ab-9745-7eb14d41bca4-16715544599a3d7a72-1",
+        "template--15735375462595__c17b5cc4-caa0-47ab-9745-7eb14d41bca4-16715544599a3d7a72-2"
+      ],
+      "settings": {
+        "title": "More Ways To Display",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "1656546691856167d4": {
+      "type": "rich-text",
+      "blocks": {
+        "16565466911f461f2b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "16565466911f461f2b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16565466911f461f2b-0",
+        "16565466911f461f2b-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656558516bab6d77a": {
+      "type": "rich-text",
+      "blocks": {
+        "1656558516243799d6-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1656558516243799d6-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656548211590fccf6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/NicePeople-12_8f2202ca-f849-4f26-a8c7-d690187e4050.jpg",
+        "image_width": 470,
+        "subheading": "",
+        "title": "Meet George & Willy",
+        "use_h1": false,
+        "text": "<p>We’re two long time friends with a pretty specific passion. Signage. That may sound odd, but hear us out.<\/p>",
+        "button_label": "About Us",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "left",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "142d5ada-3536-41dd-9813-f3932adbaddd": {
+      "type": "custom-row",
+      "blocks": {
+        "template--15735375462595__142d5ada-3536-41dd-9813-f3932adbaddd-167155328616da7141-0": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/1080x1080_25_VOUCHER.jpg",
+            "image_position": "center center",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "b10103e3-3af5-4256-85bf-72b1f166bfa1": {
+          "type": "html",
+          "settings": {
+            "width": "half",
+            "code": "<div class=\"klaviyo-form-V94r6R\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15735375462595__142d5ada-3536-41dd-9813-f3932adbaddd-167155328616da7141-0",
+        "b10103e3-3af5-4256-85bf-72b1f166bfa1"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "16565538315351a039": {
+      "type": "rich-text",
+      "blocks": {
+        "1656553831e142b584-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Join Our 200k Instagram Followers",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "1656553831e142b584-0"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "82c7c72b-0297-49b2-920f-239e2e6b97d1": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16563866841a35bba5",
+    "30b9b50c-ef8d-46a7-8899-ff8ceb1f6208",
+    "16565533761e365a63",
+    "1656550498b9b820e2",
+    "f7781cb6-1d91-4f8c-a562-45adc39b87e9",
+    "1656544458079a676a",
+    "10ec2680-4899-4d8c-b923-ec621509a777",
+    "4e6ed1f9-43c3-45b1-b242-907fd3c73d49",
+    "c17b5cc4-caa0-47ab-9745-7eb14d41bca4",
+    "1656546691856167d4",
+    "1656558516bab6d77a",
+    "1656548211590fccf6",
+    "142d5ada-3536-41dd-9813-f3932adbaddd",
+    "16565538315351a039",
+    "82c7c72b-0297-49b2-920f-239e2e6b97d1"
+  ]
+}

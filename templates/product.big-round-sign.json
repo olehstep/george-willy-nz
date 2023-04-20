@@ -1,0 +1,421 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "90711a89-5623-431c-adcd-473443f2b534": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Sign Face: 79.25cm (diameter)<br>Distance from wall: 96.2cm<br>Mounting plate: 7.5cm x 50cm<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Big_Round_Sign_Spec_Doc_-_Updated_Version.pdf?v=1675126769\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$35 AUD Australia via DHL<br>$15 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>The Big Round Sign is very easy to install, with handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Web_Big_Round_Sign_Instructions.pdf?v=1632440153\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "370ca6c9-73ff-4fa5-a6ed-a931dadaf5d8": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Does the Big Round Sign come with screws for mounting?<\/h3>\n<p>The Big Round Wall Sign comes with screws for mounting on drywall and wood, and concrete. Other types of screws are available from your local supplies store.<\/p>\n<h3>Does logo printing come with the circular wall sign?<\/h3>\n<p>All of our signage arrives blank, but we offer advice on powder-coating and decal printing for creating custom signs tailored to your needs. If you'd like your sign branded, we'd recommend getting in touch with a local signwriter who will be able to help you. <\/p>\n<h3>How big is the round surface on the Big Round Sign?<\/h3>\n<p>The round surface on the shop sign measures 32\"\/80.6cm (diameter) and protrudes 38\"\/96.2cm from the wall.<\/p>\n<h3>What height do you recommend mounting the round business sign?<\/h3>\n<p>We recommend mounting the store sign above 3m\/118\" high. This gets the shop sign out of the way for people walking past, whilst still being at a good height for visibility. However, the mounting height for the Big Round Wall sign really depends on each location.<\/p>\n<h3>What material is the round storefront sign made from?<\/h3>\n<p>The shopfront sign is made from 100% aluminium. We made the round shop sign from aluminium as this material doesn't rust and lasts better outside than other shopfront signage materials such as wood and steel, even in coastal areas with salty sea air.<\/p>\n<h3>Is the round shop sign safe in high wind locations?<\/h3>\n<p>Although sturdy when correctly installed, we wouldn’t recommend installing the Big Round Sign in a very exposed, windy location due to the large surface area of the faceplate.<\/p>\n<h3>Do you make the Big Round Sign in a smaller size?<\/h3>\n<p>Yes, we do make smaller versions of the Big Round Sign! Take a look at the <a href=\"https:\/\/eu.georgeandwilly.com\/products\/round-outdoor-shop-sign\" target=\"_blank\" title=\"https:\/\/eu.georgeandwilly.com\/products\/round-outdoor-shop-sign\">Round Sign<\/a>, <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/medium-round-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Medium Round Sign<\/a>, and for something even smaller, check out the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/circle-sign\" target=\"_blank\">Circle Sign<\/a>. Our <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/round-light-box-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Round Light Box Sign<\/a> is a light-up sign that's easily visible at night, and we have the <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/large-store-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Large Store Sign<\/a> and <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\/products\/square-panel-sign\" rel=\"noopener noreferrer\" target=\"_blank\">Square Panel Sign<\/a> for different shapes. For more options, take a look at our full range of <a href=\"https:\/\/www.georgeandwilly.com\/collections\/signage\" rel=\"noopener noreferrer\" target=\"_blank\">outdoor signs for business<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "6a6b1b90-77ba-472e-9575-39d02040e5cc": {
+          "type": "related_products",
+          "settings": {
+            "title": "Related products",
+            "product_list": [
+              "round-outdoor-shop-sign",
+              "medium-round-sign",
+              "round-light-box-sign",
+              "circle-sidewalk-sign"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "90711a89-5623-431c-adcd-473443f2b534",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "370ca6c9-73ff-4fa5-a6ed-a931dadaf5d8",
+        "6a6b1b90-77ba-472e-9575-39d02040e5cc"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/BIG-ROUND-SIGN.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Big is Good",
+        "use_h1": false,
+        "text": "<p>With a 80cm face, the Big Round Sign is a hard one to miss.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/BIG-ROUND-SIGN-2.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Good Spot for Nice Branding",
+        "use_h1": false,
+        "text": "<p>The circular face was designed to suit a range of logos.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "adb55e16-0b16-4253-900d-9cd2193ee9bd": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/767081638",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Medium_Round_Sign_daa2e216-8574-4495-9899-1e42826b3133.jpg",
+        "subheading": "",
+        "title": "Looking for a Something Smaller?",
+        "use_h1": false,
+        "text": "<p>You've got options. Meet the <a href=\"https:\/\/eu.georgeandwilly.com\/products\/round-outdoor-shop-sign\" title=\"https:\/\/eu.georgeandwilly.com\/products\/round-outdoor-shop-sign\">Round Sign<\/a> or <a href=\"\/products\/medium-round-sign\" target=\"_blank\" title=\"Medium Round Sign\">Medium Round Sign<\/a> for smaller spaces.<\/p>",
+        "button_label": "Explore",
+        "button_link": "shopify:\/\/collections\/wall-signage",
+        "button_style": "link",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1658871321ccfb9081": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Wall-Sign-screws_for_installation_3fbaf72d-7b42-4fdf-9009-e952af9f6dcb.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "For Anywhere & Everywhere",
+        "use_h1": false,
+        "text": "<p>The Big Round Sign includes all the necessary screws for easy installation to wood, brick or concrete.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655772436403e149e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/BIG-ROUND-SIGN-BIG-ROUND-SIGN.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Rain, Hail or Shine",
+        "use_h1": false,
+        "text": "<p>100% rust resistant.<br\/>Designed to last you a lifetime.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433236359d8bea": {
+      "type": "gallery",
+      "blocks": {
+        "1655433236f8245331-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/baristaalley-ps-_faithfowlerphoto.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@baristaalley",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wildpoppiesnz.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@wildpoppiesnz",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/diningraum.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@dininggraum",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "6440547b-03c7-4a07-b8b2-bb4098cb3f07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Big-Round-Sign_-5.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@LWBoatrental",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1655433236f8245331-0",
+        "1655433236f8245331-1",
+        "1655433236f8245331-2",
+        "6440547b-03c7-4a07-b8b2-bb4098cb3f07"
+      ],
+      "settings": {
+        "gallery_title": "See How They're Used",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 36,
+        "title_size_mobile": 40,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "secondary"
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "wall-signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1655845241a550a64f": {
+      "type": "apps",
+      "blocks": {
+        "c54fb365-e8bd-40c2-b823-92e8d47650ac": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "c54fb365-e8bd-40c2-b823-92e8d47650ac"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "adb55e16-0b16-4253-900d-9cd2193ee9bd",
+    "1658871321ccfb9081",
+    "1655772436403e149e",
+    "16526710842008a0ba",
+    "1655433236359d8bea",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1655845241a550a64f"
+  ]
+}

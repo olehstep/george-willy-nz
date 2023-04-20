@@ -1,0 +1,422 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "bab94c2b-cef2-420f-91bc-1f6c96367023": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Sign Face: 60cm x 60cm<br>Mounting Bracket: 30cm x 10cm<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Spec_Sheet_Light_Box_Sign.pdf?v=1675376882\" target=\"_blank\" title=\"Round Outdoor LED Lightbox Sign\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$35 AUD Australia via DHL<br>$15 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Round Light Box Sign comes with all the necessary hardware to get going, with handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Round_Sign_Instructions_Web.pdf?v=1632111026\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "ec82f6c5-71ab-4a38-a110-84407bd23d04": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>Does the round outdoor LED light box sign come with screws for mounting?<\/h3>\n<p>The round light box sign comes with screws for mounting on drywall and wood, and concrete. Other types of screws will be available from your local supplies store.<\/p>\n<h3>Does logo printing come with the LED Sign?<\/h3>\n<p>We sell our storefront signs as blanks and don't provide a signwriting service. However, the round outdoor Sign is really easy to get branded by your local signwriter. If you send them your design and tell them it is going on a round 23.6\"\/60cm faceplate they will be able to get it applied for you.<\/p>\n<h3>What is the warranty period for the Round Light Sign?<\/h3>\n<p>The Round Light Box Sign comes with a lifetime warranty on all hardware and a 1-year warranty on electronics. For more information on our lifetime warranty, take a look at our <a href=\"\/pages\/faqs\" target=\"_blank\" title=\"FAQs\">FAQs page<\/a>.<\/p>\n<h3>Can the round light box Sign be used outdoors?<\/h3>\n<p>Absolutely! The round LED sign is designed to be used in exterior spaces as it is considered 100% weatherproof.<\/p>\n<h3>What height do you recommend mounting the round light Sign?<\/h3>\n<p>We recommend mounting the outdoor light Sign above 6.8'\/2.1m high. This gets the store sign out of the way for people, whilst still being at a good height for visibility. However, the mounting height for the Round Lightbox Sign really depends on each location.<\/p>\n<h3>What material is the round storefront sign made from?<\/h3>\n<p>The store sign is made from 100% aluminum. We made the Round Light Box Sign from aluminum as this material can not rust and lasts better outside than other storefront signage materials such as wood and steel.<\/p>\n<h3>What other names do people use to describe the Round Light Box Sign?<\/h3>\n<p>The LED Sign can also be called a Round Outdoor LED Light Box Sign, Light Up Blade Sign, Outdoor Business Sign, Shop Sign, Storefront Sign, and Store Sign.<\/p>\n<h3>Does the Round Light Box Sign work in high wind locations?<\/h3>\n<p>Yes, the Round Light Box Sign is great in windy locations due to the solid base for fixing the sign onto the wall.<\/p>\n<h3>Do you make the Round Light Box Sign in a different size?<\/h3>\n<p>Currently, we don’t make a different size of the Round Light Box Sign, but sign up to our mailing list to stay in the loop on future product launches. If you’re looking for more wall-mounted signage, take a look at our <a href=\"\/products\/round-outdoor-shop-sign\" target=\"_blank\" title=\"Round Sign\">Round Sign<\/a>, <a href=\"\/products\/medium-round-sign\" target=\"_blank\" title=\"Medium Round Sign\">Medium Round Sign<\/a>, or a larger option, have a look at the <a href=\"\/products\/big-round-sign\">Big Round Sign<\/a>. For the full range, take a look at our complete <a href=\"\/collections\/wall-signage\" target=\"_blank\" title=\"Wall Signage\">Wall signage collection<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "bab94c2b-cef2-420f-91bc-1f6c96367023",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "ec82f6c5-71ab-4a38-a110-84407bd23d04",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "3ddd90fb-1f6c-43c9-a7d3-466873904467": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/766730483",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Installing-the-Led-Round-Sign.jpg",
+        "subheading": "",
+        "title": "Everything You Need, Nothing You Don't",
+        "use_h1": false,
+        "text": "<p>The Lightbox sign includes all the necessary screws for easy installation to wood, brick or concrete. Simply plug into your wall socket & you’ll have light, all night.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Round-Outdoor-Led-Light-Box-Sign-George-and-Willy-2.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Easy Dim",
+        "use_h1": false,
+        "text": "<p>We’ve added a dimmer so you control the brightness of your Lightbox Sign with the turn of the dial.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1d600319-74e7-495f-9d4b-a3dfa71338da": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/773125080",
+        "autoplay": false,
+        "placeholder_image": "shopify:\/\/shop_images\/LED-Lightbox-Sign.jpg",
+        "subheading": "",
+        "title": "Plug it in and Light it Up",
+        "use_h1": false,
+        "text": "<p>To minimise the need for an electrician, we've developed the Round LED Sign to plug in to the nearest power point.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Round-Outdoor-Led-Light-Box-Sign-George-and-Willy-3.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Good Spot for Nice Branding",
+        "use_h1": false,
+        "text": "<p>The 60cm round face was designed to suit a range of logos. A minimal sign, but still noticeable from a distance. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655772436403e149e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Round-Outdoor-Led-Light-Box-Sign-George-and-Willy_c6d56803-bee8-4bc9-ae2a-c9e0482bde50.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "No Wall Space? No Worries",
+        "use_h1": false,
+        "text": "<p>Hang the Round Light Box Sign from the ceiling for another way to display.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655844439bfbe2867": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Round-Outdoor-Led-Light-Box-Sign-George-and-Willy-5.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Rain, Hail or Shine",
+        "use_h1": false,
+        "text": "<p>The Lightbox Sign is designed for all weather. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433090c7499e59": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Round-Outdoor-Led-Light-Box-Sign-George-and-Willy-4.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Arrives Ready to Plug In",
+        "use_h1": false,
+        "text": "<p>Your sign will arrive with a plug suited to your local power point, Easy.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "a5aeb8f7-1331-4b0b-9db4-0fc987f54ac4": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Round-Outdoor-Led-Light-Box-Sign-George-and-Willy-1.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Minimal Design",
+        "use_h1": false,
+        "text": "<p>While most LED signs have visible fixings around the perimeter - we have kept the design clean - for a refined look.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "840b2e41-f844-43ce-aa5f-35fcb5e6a7ab": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/768794470",
+        "autoplay": false,
+        "placeholder_image": "shopify:\/\/shop_images\/Round-Outdoor-Led-Light-Box-Sign-George-and-Willy-6.jpg",
+        "subheading": "",
+        "title": "Suitable for Any Surface",
+        "use_h1": false,
+        "text": "<p>Can be mounted to all cladding types, including wood, brick, steel and concrete.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1656390941c35517b2": {
+      "type": "apps",
+      "blocks": {
+        "9195a18b-6018-4b88-bb9a-93bab7dc89de": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "9195a18b-6018-4b88-bb9a-93bab7dc89de"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3ddd90fb-1f6c-43c9-a7d3-466873904467",
+    "16557729912b77a1b6",
+    "1d600319-74e7-495f-9d4b-a3dfa71338da",
+    "16557738973d9ad62e",
+    "1655772436403e149e",
+    "1655844439bfbe2867",
+    "1655433090c7499e59",
+    "a5aeb8f7-1331-4b0b-9db4-0fc987f54ac4",
+    "840b2e41-f844-43ce-aa5f-35fcb5e6a7ab",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1656390941c35517b2"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1651807678cd6d0124": {
+      "type": "multi-column",
+      "blocks": {
+        "16518076780362315b-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/George.jpg",
+            "image_width": 700,
+            "title": "George - Co-Founder",
+            "text": "<p>George embodies the George & Willy ethos. A passionate maker and adventurer, he steers the company from a business perspective.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "16518076780362315b-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Will.jpg",
+            "image_width": 700,
+            "title": "Will - Co-Founder",
+            "text": "<p>Always wearing merino socks. A passion for all things design, Will loves creating new products and making existing ones even better.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "2145edc5-2e39-46fb-aa62-ab6033168f5d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jo-Customer-Service.jpg",
+            "image_width": 700,
+            "title": "Jo - Customer Service",
+            "text": "<p>Jo is in charge of customer inquiries and partnerships, dealing with any queries or questions you might have.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "a033318b-b367-4ae5-96af-6b1273593950": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Staff_April_2021-13-square_02eac138-5ae0-4602-999c-811920e4b44f.jpg",
+            "image_width": 700,
+            "title": "Ari - Operations",
+            "text": "<p>Taking care of everything finance and logistics, Ari gets our products from A to B without a glitch.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "30dbad56-bd27-4c82-b8fc-0424375c2d3c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Rose.jpg",
+            "image_width": 700,
+            "title": "Rose - Brand",
+            "text": "<p>With a keen eye for design, Rose ensures everything is on brand and looking good. She's also a skilful copywriter, and occasional George & Willy model.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "58986bda-945d-4534-907a-155585076e8e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Staff_April_2021-9-square_d3fdc705-c9da-4b03-b0b2-0102d7815327.jpg",
+            "image_width": 700,
+            "title": "Brandon - Product",
+            "text": "<p>Brandon is a wizard on the computer. He spends his day making improvements on current products and designing new ones.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "aff3d7c3-2b0e-47d7-ac0e-d97468da37a4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Staff_April_2021-22_f6c9bf65-702d-4631-9dbb-e103c657f3be.jpg",
+            "image_width": 700,
+            "title": "Holly - Marketing",
+            "text": "<p>Holly looks after our website, ensuring everything looks great and is running smoothly.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "a0a9ce32-839c-41ff-949e-c1347a1753af": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Staff_April_2021-11-square_8775f8ff-8cfe-49b3-8531-823e5414a5a0.jpg",
+            "image_width": 700,
+            "title": "Cam - Operations",
+            "text": "<p>Cam makes sure everything is on track behind the scenes, working alongside Ari to keep inventory and shipping in check.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "e63fbd53-e41c-4cbf-9931-f619f24c80b7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Freddy.jpg",
+            "image_width": 700,
+            "title": "Frida - Morale",
+            "text": "<p>To be honest, our laziest and least effective staff member. Can’t write an email to save herself, never washed a dish in her life. But look at her.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16518076780362315b-0",
+        "16518076780362315b-1",
+        "2145edc5-2e39-46fb-aa62-ab6033168f5d",
+        "a033318b-b367-4ae5-96af-6b1273593950",
+        "30dbad56-bd27-4c82-b8fc-0424375c2d3c",
+        "58986bda-945d-4534-907a-155585076e8e",
+        "aff3d7c3-2b0e-47d7-ac0e-d97468da37a4",
+        "a0a9ce32-839c-41ff-949e-c1347a1753af",
+        "e63fbd53-e41c-4cbf-9931-f619f24c80b7"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1651807678cd6d0124"
+  ]
+}

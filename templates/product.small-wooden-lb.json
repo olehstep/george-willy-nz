@@ -1,0 +1,326 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "37b3dc45-d9dd-4d7d-8b90-2c797cdc22aa": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Rail Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<h4>Full Set:<\/h4> <p>20 x rails and 600 x letter and number tiles<br>4 x Extra letter and number sticker sheets<br>Rails: 50cm (L) x 1.2cm (H) x 1cm (W)<br>Tiles: 3.2cm (L) x 4.6cm (H) x 4mm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Small_Wooden_Letter_Board_Full_Set.pdf?v=1676408194\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Small_Wooden_Letter_Board_Full_Set.pdf?v=1676408194\">Full Set Specifications<\/a><\/p><h4>Half Set:<\/h4> <p>10 x rails and 300 x letter and number tiles<br>2 x Extra letter and number sticker sheets<br>Rails: 50cm (L) x 1.2cm (H) x 1cm (W)<br>Tiles: 3.2cm (L) x 4.6cm (H) x 4mm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Small_Wooden_Letter_Board_Half_Set.pdf?v=1676408194\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Small_Wooden_Letter_Board_Half_Set.pdf?v=1676408194\">Half Set Specifications<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$20 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Wooden Letter Board comes with all the necessary hardware to get going, with handy installation instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Wooden_Letter_Board_Web.pdf?v=1632439213\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "3b58c01c-2bfa-4259-8c3a-d2a83ef821a5": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h4>Can you provide longer rails for the Small Wooden Letter Board?<\/h4><p>No, sorry, we don’t make custom-sized Small Wooden Letter Board sets. However, if you add two menu board rails together horizontally you will double their length. <\/p><h4>Does the Small Wooden Letter Board come with numbered tiles so we can put prices on our menu as well?<\/h4><p>Yes, it sure does. When you order a Small Wooden Letter Board, it comes with 10 tiles of each number from 0-9.<\/p><h4>How do I install the Small Wooden Letter Board?<\/h4><p>The Small Wooden Letter Board is very easy to install, with handy instructions included. <\/p><h4>Can I order extra display letters if I run out?<\/h4><p>We do not sell extra letter kits for the small wooden menu display, but all of our wooden letter displays also come with extra vinyl stickers of characters that can be placed on the blank back of tiles if you run out. <\/p><h4>Does the Small Wooden Letter Board come in other colours?<\/h4><p>At this stage, the display lettering is available in either natural wood, black, or painted white. The aluminium rails are either black or white. You are able to customise the colour combination of your menu board to match your interior fit-out.<\/p><h4>Can the Wooden Letter Board be mounted outdoors?<\/h4><p>The Small Wooden Letter Board is designed as an interior menu display. Although the rails are made from aluminium, so not susceptible to rust, the wooden display tiles will last a lifetime when used indoors only. <\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "You might also like",
+            "product_list": [
+              "atelier-letter-board",
+              "felt-board",
+              "magnetic-letter-menu-board",
+              "wooden-letter-board"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "37b3dc45-d9dd-4d7d-8b90-2c797cdc22aa",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "3b58c01c-2bfa-4259-8c3a-d2a83ef821a5",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/wooden_wall_lettering_menu_board.gif",
+        "image_width": 700,
+        "subheading": "",
+        "title": "You've Got Options",
+        "use_h1": false,
+        "text": "<p>With five colour combos to choose from, you can pick the one to suit your space.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "165584739720ac4449": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/GEORGE-AND-WILLY-WOODEN-LETTER-BOARD.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Spare Letter Stickers",
+        "use_h1": false,
+        "text": "<p>Each set comes with replacement letter, number and symbol stickers. Stick them to the back of the tiles if you need more of a certain character.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655938055918254b8": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Wooden-Menu-Board.1.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Keep it Neat",
+        "use_h1": false,
+        "text": "<p>Changeable letters, numbers and symbols, perfect for displaying menus if your handwriting isn't quite up to scratch.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655938091d32d4d17": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/WOODEN-LETTER-BOARD-MENU-DISPLAY-1.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Space it Out",
+        "use_h1": false,
+        "text": "<p>Choose your rail spacing with our easy-install spacer template.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Small-Wooden-Letter-Board.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Need Something Bigger?",
+        "use_h1": false,
+        "text": "<p>You've got options.<\/p><p>Meet the Wooden Letter Board.<\/p>",
+        "button_label": "Shop Bigger",
+        "button_link": "shopify:\/\/products\/wooden-letter-board",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "16568934083745b5c1": {
+      "type": "apps",
+      "blocks": {
+        "9a33f15f-4d7b-4f07-ba24-badb949e7896": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "9a33f15f-4d7b-4f07-ba24-badb949e7896"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557738973d9ad62e",
+    "165584739720ac4449",
+    "1655938055918254b8",
+    "1655938091d32d4d17",
+    "16557729912b77a1b6",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "16568934083745b5c1"
+  ]
+}

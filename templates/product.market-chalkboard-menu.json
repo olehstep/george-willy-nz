@@ -1,0 +1,313 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "013918d4-7916-4697-93fe-45958fe8b5bc": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "dropdown",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Full Set:<br>20 x Aluminium Rectangular Tiles<br>20 x Aluminium Square Tiles<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/MARKET_CHALKBOARD_FULLSet.pdf?v=1634244770\" target=\"_blank\">Full Set Specifications<\/a><\/p><p>Half Set:<br>10 x Aluminium Rectangular Tiles<br>10 x Aluminium Square Tiles<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/MARKET_CHALKBOARD_HALFSet.pdf?v=1634244769\" target=\"_blank\">Half Set Specifications<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$20 AUD Australia via DHL<br>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Market Chalkboard Menu comes with all the necessary hardware for getting your cafe menu up and running. All you will need is an extra set of hands, a level, and a drill.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Market_Chalkboard_Instructions_Web_Half_Set.pdf?v=1632441135\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "0e74df86-dc25-4dd1-8e72-2019c65ba46d": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>What is used to install the chalkboard menu display?<\/h3><p>Each Market Chalkboard Menu comes with its own set of brass screws and all hardware required for easy installation of your wall-mounted Market Chalkboard Menu.<\/p><h3>What pens can I use on the Market Chalkboard?<\/h3><p>Traditional chalk is the best way to write on this board, and we would not recommend using liquid chalk pens.<\/p><h3>How do you know what height to space all of the blackboards for the cafe menu board?<\/h3><p>Each wall-mounted chalkboard menu set comes with a spacer to help with easy and simple installation so you can have your menu up and running in no time.<\/p><h3>What tools are needed for installing the Chalk Menu?<\/h3><p>The Chalkboard Menu comes with all the necessary hardware for getting your cafe menu up and running, all you will need is an extra set of hands, a level, and a drill. <\/p><h3>What are the chalkboard tiles made out of?<\/h3><p>The Market Chalkboard Menu tiles are made of powder-coated aluminium, which means that they will last a lifetime.<\/p><h3>How big is the Chalk Board?<\/h3><p>The wall-mounted Chalk Board menu display is 116cm tall when mounted on the wall using our spaces – this is just a recommendation though – you can space your menu board whatever height you think will look best to suit your space.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "013918d4-7916-4697-93fe-45958fe8b5bc",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "0e74df86-dc25-4dd1-8e72-2019c65ba46d",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Market-Chalkboard-Menu__11.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Tidy Menu, Everytime",
+        "use_h1": false,
+        "text": "<p>Every Market Chalkboard includes a stencil in two font sizes to keep your menu looking clean.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Market-Chalkboard-Menu-_4.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Lift on, Lift Off",
+        "use_h1": false,
+        "text": "<p>The reversible tiles sit neatly on the brass screws & can be lifted off easily when it's time for a change.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655774410962ffd05": {
+      "type": "multi-column",
+      "blocks": {
+        "16557744107194dac7-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Market-Chalkboard-8.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>Chalk Sharpener included<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "16557744107194dac7-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Market-Chalkboard-5.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>Custom Brass screws<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "16557744107194dac7-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/GEORGE-AND-WILLY-CHALKBOARD-DISPLAY.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>Inspired by the classroom chalkboard<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16557744107194dac7-0",
+        "16557744107194dac7-1",
+        "16557744107194dac7-2"
+      ],
+      "settings": {
+        "title": "Details You Will Love",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1656468614dff996c1": {
+      "type": "apps",
+      "blocks": {
+        "3443f195-0b51-4067-bce2-8bc2280bf303": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "3443f195-0b51-4067-bce2-8bc2280bf303"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655774410962ffd05",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1656468614dff996c1"
+  ]
+}

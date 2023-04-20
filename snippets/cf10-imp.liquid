@@ -1,0 +1,77 @@
+{% if settings.cf10_imp %}
+<style>
+@media only screen and (min-width: 768px){
+   html body .cf10-container {
+      display: flex;
+      justify-content: space-between;
+    }
+    
+   html body .product-detail .product-form .quantity-submit-row .quantity-submit-row__submit {
+      margin-top: 0px;
+    }
+    
+   html body .cf10-copy {
+      padding-right: 8px;
+    }
+  }
+
+  @media only screen and (max-width: 767px){
+     html body .cf10-container {
+       display: none !important;
+     }
+  }
+</style>
+
+
+
+<script>
+  (function () {
+      let estDate = new Date();
+      estDate.setDate(estDate.getDate() + 5);
+      let date = estDate.toLocaleString("en-US", {month:"short", day:"numeric"});
+      date = date.replace(" ", "&nbsp;");
+    
+      let container = $(`<div class="cf10-container">
+          <p class="cf10-copy">{{ settings.ready_ship_text }}</p>
+          <p class="cf10-shipping">Est. Delivery: ${date}</p>
+        </div>`);
+        function checkOutOfStock(select) {
+          let atc = $(".quantity-submit-row__submit button.button");
+          return atc.text() === "Unavailable";
+        }
+
+        function cf10addContent() {
+          let target = $("div.quantity-wrapper");
+          let productDetail = $("div.product-detail");
+          let selector = $("select.original-selector");
+      
+          let selected = selector.find("option:selected");
+      
+          if (checkOutOfStock(selected)) {
+            container.css("display", "none");
+          } else {
+            container.css("display", "flex");
+          }
+      
+          target.after(container);
+      
+          selector.on("change", function () {
+            selected = selector.find("option:selected");
+      
+            setTimeout(function () {
+              if (checkOutOfStock(selected)) {
+                container.css("display", "none");
+              } else {
+                container.css("display", "flex");
+              }
+            }, 10);
+      
+          });
+        }
+  
+      $(document).ready(function() {
+        cf10addContent();
+      });
+    })();
+</script>
+{% endif %}

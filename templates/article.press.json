@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "show_date": false,
+        "show_author": false,
+        "show_article_tags": false,
+        "show_sharing_icons": true,
+        "show_featured_image": false,
+        "full_width_image": true,
+        "featured_image_height": "large",
+        "enable_title_overlay": true,
+        "overlay_style": "box"
+      }
+    },
+    "165663120269024dce": {
+      "type": "collection-list",
+      "blocks": {
+        "f6e90493-d228-4c5b-aed0-c247a36f7976": {
+          "type": "collection",
+          "settings": {
+            "collection": "for-home"
+          }
+        },
+        "d9e7ad32-deca-4006-966b-49f77165eedb": {
+          "type": "collection",
+          "settings": {
+            "collection": "letter-menu-boards"
+          }
+        },
+        "a66ee4dd-9c35-4fa9-95ec-9242855d2052": {
+          "type": "collection",
+          "settings": {
+            "collection": "signage"
+          }
+        },
+        "5e678903-16b4-47cd-ab35-4e37ce616264": {
+          "type": "collection",
+          "settings": {
+            "collection": "tabletop"
+          }
+        },
+        "999adc8f-a1da-4d0b-a047-4c68ec51e329": {
+          "type": "collection",
+          "settings": {
+            "collection": "wall-signage"
+          }
+        }
+      },
+      "block_order": [
+        "f6e90493-d228-4c5b-aed0-c247a36f7976",
+        "d9e7ad32-deca-4006-966b-49f77165eedb",
+        "a66ee4dd-9c35-4fa9-95ec-9242855d2052",
+        "5e678903-16b4-47cd-ab35-4e37ce616264",
+        "999adc8f-a1da-4d0b-a047-4c68ec51e329"
+      ],
+      "settings": {
+        "title": "View The George & Willy Range",
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": false,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165663120269024dce"
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1651805487019142e5": {
+      "type": "rich-text",
+      "blocks": {
+        "165180548722a9e051-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>How can signage be as friendly, effective, and fun as possible? That’s what we asked ourselves when we started, and everyday since.<\/p><p>George and Willy, lovely to meet you.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165180548722a9e051-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "165180483833ee8947": {
+      "type": "gallery",
+      "blocks": {
+        "165180483703b0c65d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NicePeople.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "0df71657-4dd1-42df-890b-5c2743c1acf2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About-Us-Page.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "165180483703b0c65d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NicePeople-20.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "165180483703b0c65d-0",
+        "0df71657-4dd1-42df-890b-5c2743c1acf2",
+        "165180483703b0c65d-1"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "16518057671dbd641f": {
+      "type": "rich-text",
+      "blocks": {
+        "165180576720f0d0f8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re two long time friends with a pretty specific passion. Signage. That may sound odd, but hear us out.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165180576720f0d0f8-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16570647075d9557f7": {
+      "type": "image-with-text-full",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/NicePeople-12_2f98267c-fe23-4863-9c4d-d744e8545a83.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "What we do is fun and simple; create signage and displays to help creative brands do better business",
+        "header_font_new": "work_sans_n6",
+        "font_size": 29,
+        "logo": "shopify:\/\/shop_images\/george-willy-signature_cdb9dfef-3fe0-467f-ac41-22a0d6f39931.png",
+        "image_size": 150,
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left"
+      }
+    },
+    "16518057115dcf6af2": {
+      "type": "rich-text",
+      "blocks": {
+        "165180571195c81e7f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe signage is more than just something people have on or outside their stores. Signage creates a feeling. A good sign will introduce your space in the right way. Because we all know first impressions count.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165180571195c81e7f-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1652045838d0915110": {
+      "type": "gallery",
+      "blocks": {
+        "1652045838521a8472-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lightbox-96.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1652045838521a8472-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/George-and-Will.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1652045838521a8472-0",
+        "1652045838521a8472-3"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "16520469460d4775b8": {
+      "type": "rich-text",
+      "blocks": {
+        "1652046946c24a9787-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Since the early days, our company has grown up nicely. We’re now a team of 15 signage enthusiasts, with warehouses placed all over the world. <\/p><p>We are based in Mount Maunganui, New Zealand. We love what we do, and hope you do too.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1652046946c24a9787-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "165783029712650fae": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/World_Map_Updates_2022-AUS_NZ.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "1653861580aeac1ed3": {
+      "type": "rich-text",
+      "blocks": {
+        "16538615809c00a408-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have fun,<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "abca01e3-4ca1-4a86-95e4-93814e73a37a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/george-willy-signature_29d8ff8f-b07d-442f-b74f-a1b0aeca628b.png",
+            "image_width": 200,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16538615809c00a408-1",
+        "abca01e3-4ca1-4a86-95e4-93814e73a37a"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656288407d9f610b9": {
+      "type": "gallery",
+      "blocks": {
+        "165628840766e96fd1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/G_W-Office-2.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "165628840766e96fd1-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Will-Drawing-2.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "165628840766e96fd1-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Moto-174-_1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "165628840766e96fd1-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Staff-April-2021-26.jpg",
+            "alignment": "center right",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "165628840766e96fd1-0",
+        "165628840766e96fd1-1",
+        "165628840766e96fd1-2",
+        "165628840766e96fd1-3"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1651805487019142e5",
+    "165180483833ee8947",
+    "16518057671dbd641f",
+    "16570647075d9557f7",
+    "16518057115dcf6af2",
+    "1652045838d0915110",
+    "16520469460d4775b8",
+    "165783029712650fae",
+    "1653861580aeac1ed3",
+    "1656288407d9f610b9"
+  ]
+}

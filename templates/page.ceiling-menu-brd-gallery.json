@@ -1,0 +1,115 @@
+{
+  "sections": {
+    "16566320477e0d5023": {
+      "type": "rich-text",
+      "blocks": {
+        "16566320470fdf659d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Get Inspired",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "16566320470fdf659d-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "7786b6af-6039-4b8f-8d6b-542fca922a2d": {
+      "type": "gallery",
+      "blocks": {
+        "template--15780846534851__7786b6af-6039-4b8f-8d6b-542fca922a2d-16799443889133eaa0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/North-lane-coffee_f22317a3-66b0-4817-8e83-f48e044fc490.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "View product",
+            "link": "shopify:\/\/products\/ceiling-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "4394cc8b-aaa0-4fb2-b9be-d155a1d273b5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ceiling-Menu-Board-Magnet-Detail.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "View product",
+            "link": "shopify:\/\/products\/ceiling-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "2f18cdaa-9da0-456f-a512-ec9d3bca48d2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hanging-Ceiling-Board-Baker-Shrunk2_copy.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "View product",
+            "link": "shopify:\/\/products\/ceiling-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "6b361ea2-cf0b-4f3e-8596-c600e7b19fd6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/edit-Hanging-Ceiling-Board_-2.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "View product",
+            "link": "shopify:\/\/products\/ceiling-menu-board",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--15780846534851__7786b6af-6039-4b8f-8d6b-542fca922a2d-16799443889133eaa0-0",
+        "4394cc8b-aaa0-4fb2-b9be-d155a1d273b5",
+        "2f18cdaa-9da0-456f-a512-ec9d3bca48d2",
+        "6b361ea2-cf0b-4f3e-8596-c600e7b19fd6"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 3,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "link"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "16566320477e0d5023",
+    "7786b6af-6039-4b8f-8d6b-542fca922a2d",
+    "main"
+  ]
+}

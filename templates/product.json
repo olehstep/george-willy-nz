@@ -1,0 +1,496 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": true,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p>\nOrder now for delivery between: <span id=\"fromDate\"><\/span> - <span id=\"toDate\"><\/span><\/p>\n{{ '\/\/cdnjs.cloudflare.com\/ajax\/libs\/datejs\/1.0\/date.min.js' | script_tag }}\n<script>\nvar fromDate = Date.today().addDays(2);\nif (fromDate.is().saturday() || fromDate.is().sunday()) {\nfromDate = fromDate.next().monday();\n}\nvar toDate = Date.today().addDays(6);\nif (toDate.is().saturday() || toDate.is().sunday()) {\ntoDate = toDate.next().monday();\n}\ndocument.getElementById('fromDate').innerHTML = fromDate.toString('MMMM dS');\ndocument.getElementById('toDate').innerHTML = toDate.toString('MMMM dS');\n<\/script>",
+            "show_in_quickbuy": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "cd934fed-7455-4572-9a30-c886bf9c7a33": {
+          "type": "shopify:\/\/apps\/moment-upsell-cross-sell\/blocks\/app-block\/f45260f1-d370-4d07-a8d1-df8d1390dc45",
+          "settings": {}
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Standing Sign: 785mm (H) x 610mm (W)<br\/>Hanging Face: 460mm (H) x 460mm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/A-frame_Sign_2021_Spec_Doc.pdf?v=1635364369\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br\/>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties.Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George & Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Ceiling Menu Board comes with all the necessary hardware to get going, but take a look at our handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Ceiling_Menu_Board_Instructions_Web.pdf?v=1648173541\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        },
+        "8248685b-1f8d-4703-b79f-a3fb9ee52d16": {
+          "type": "accordion",
+          "settings": {
+            "title": "Collapsible tab",
+            "icon": "",
+            "content": "<p>Collapsible tab content<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482",
+        "description",
+        "cd934fed-7455-4572-9a30-c886bf9c7a33",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "bce194fb-2905-40b4-a870-732bd608f8e1",
+        "8248685b-1f8d-4703-b79f-a3fb9ee52d16"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1655782236ac272a32": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "autoplay": false,
+        "subheading": "",
+        "title": "Video with text",
+        "use_h1": false,
+        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
+        "button_label": "Read more",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Easy Carry, Easy Stow",
+        "use_h1": false,
+        "text": "<p>Lift it up, Fold it flat, and place it out of the way, ready for tomorrow.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16557738973d9ad62e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Need Something Bigger?",
+        "use_h1": false,
+        "text": "<p>Have you seen the Large Sidewalk Sign?<\/p>",
+        "button_label": "EXPLORE LARGE SIDEWALK SIGN",
+        "button_link": "shopify:\/\/products\/large-sidewalk-sign",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655433198f962eeff": {
+      "type": "rich-text",
+      "blocks": {
+        "165543319826c41f8e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "See How They Are Used",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "165543319826c41f8e-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": true,
+        "use_alt_bg": false
+      }
+    },
+    "1655433236359d8bea": {
+      "type": "gallery",
+      "blocks": {
+        "1655433236f8245331-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@fixandfogg",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@rocknrosie*",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@jlqjfbw",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1655433236f8245331-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A-Frame-Sign.1.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "@parlourprojects",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "1655433236f8245331-0",
+        "1655433236f8245331-1",
+        "1655433236f8245331-2",
+        "1655433236f8245331-3"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 36,
+        "title_size_mobile": 40,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "secondary"
+      }
+    },
+    "1655433090c7499e59": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Bit Windy?",
+        "use_h1": false,
+        "text": "<p>Add a Sandbag to keep your sign stable <\/p><p>(only required in very windy locations)<\/p>",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/products\/sandbag-for-a-frame-signs",
+        "button_style": "link",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1655772436403e149e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Little Bit Fancy",
+        "use_h1": false,
+        "text": "<p>Bronze details give the A-Frame Sign something extra.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655774410962ffd05": {
+      "type": "multi-column",
+      "blocks": {
+        "16557744107194dac7-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "All Weather",
+            "text": "<p>100% Rust Free<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "16557744107194dac7-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Plastic Free Packaging",
+            "text": "<p>Designed with care<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "16557744107194dac7-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Lifetime Warranty",
+            "text": "<p>Made to last<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16557744107194dac7-0",
+        "16557744107194dac7-1",
+        "16557744107194dac7-2"
+      ],
+      "settings": {
+        "title": "Details You Will Love",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "sidewalk-signs",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655782236ac272a32",
+    "16557729912b77a1b6",
+    "16557738973d9ad62e",
+    "1655433198f962eeff",
+    "1655433236359d8bea",
+    "1655433090c7499e59",
+    "1655772436403e149e",
+    "16526710842008a0ba",
+    "1655774410962ffd05",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

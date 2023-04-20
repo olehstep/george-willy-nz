@@ -1,0 +1,58 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+<link rel="preconnect" href="https://fonts.shopify.com" crossorigin>
+<link rel="preconnect" href="https://monorail-edge.shopifysvc.com">
+
+{%- liquid
+  assign base_font = settings.type_base_font
+  assign heading_font = settings.type_heading_font
+  assign nav_font = settings.type_nav_font
+  assign logo_font = settings.type_logo_font
+
+  assign base_font_bold = base_font | font_modify: 'weight', 'bolder'
+  assign base_font_italic = base_font | font_modify: 'style', 'italic'
+  assign base_font_bold_italic = base_font_bold | font_modify: 'style', 'italic'
+-%}
+
+{%- unless base_font.system? -%}
+  <link rel="preload" as="font" href="{{ base_font | font_url }}" type="font/woff2" crossorigin>
+
+  {%- if base_font_bold -%}<link rel="preload" as="font" href="{{ base_font_bold | font_url }}" type="font/woff2" crossorigin>{%- endif -%}
+  {%- if base_font_italic -%}<link rel="preload" as="font" href="{{ base_font_italic | font_url }}" type="font/woff2" crossorigin>{%- endif -%}
+  {%- if base_font_bold_italic -%}<link rel="preload" as="font" href="{{ base_font_bold_italic | font_url }}" type="font/woff2" crossorigin>{%- endif -%}
+{%- endunless -%}
+
+{%- unless nav_font.system? -%}
+  <link rel="preload" as="font" href="{{ nav_font | font_url }}" type="font/woff2" crossorigin>
+{%- endunless -%}
+
+{%- unless heading_font.system? -%}
+  <link rel="preload" as="font" href="{{ heading_font | font_url }}" type="font/woff2" crossorigin>
+{%- endunless -%}
+
+{%- unless logo_font.system? -%}
+  <link rel="preload" as="font" href="{{ logo_font | font_url }}" type="font/woff2" crossorigin>
+{%- endunless -%}
+
+<link rel="preload" href="{{ 'vendor.min.js' | asset_url }}" as="script">
+<link rel="preload" href="{{ 'theme.js' | asset_url }}" as="script">
+
+{%- if canonical_url != blank  -%}
+  <link rel="canonical" href="{{ canonical_url }}" />
+{%- endif -%}
+
+{%- if settings.favicon != blank and settings.favicon contains '.png' -%}
+  <link rel="shortcut icon" href="{{ settings.favicon | img_url: 'master' }}" type="image/png" />
+{%- elsif settings.favicon != blank and settings.favicon contains '.ico' -%}
+  <link rel="shortcut icon" href="{{ settings.favicon | img_url: 'master' }}" type="image/x-icon" />
+{%- endif -%}
+
+{%- if page_description -%}
+  <meta name="description" content="{{ page_description | escape }}">
+{%- endif -%}
+<script type="text/javascript">var lazy_css = [], lazy_js = []; function _debounce(a, b = 300) { let c; return (...d) => { clearTimeout(c), c = setTimeout(() => a.apply(this, d), b) } } window.___mnag = "userA" + (window.___mnag1 || "") + "gent"; window.___plt = "plat" + (window.___mnag1 || "") + "form"; try { var a = navigator[window.___mnag], e = navigator[window.___plt]; window.__isPSA = (e.indexOf('x86_64') > -1 && a.indexOf('CrOS') < 0), window.___mnag = "!1", c = null } catch (d) { window.__isPSA = !1; var c = null; window.___mnag = "!1"} window.__isPSA = __isPSA; if(__isPSA)var uLTS=new MutationObserver(e=>{e.forEach(({addedNodes:e})=>{e.forEach(e=>{1===e.nodeType&&"IFRAME"===e.tagName&&(e.setAttribute("loading","lazy"),e.setAttribute("data-src",e.src),e.removeAttribute("src")),1===e.nodeType&&"IMG"===e.tagName&&++imageCount>lazyImages&&e.setAttribute("loading","lazy"),1===e.nodeType&&"LINK"===e.tagName&&lazy_css.length&&lazy_css.forEach(t=>{e.href.includes(t)&&(e.setAttribute("data-href",e.href),e.removeAttribute("href"))}),1===e.nodeType&&"SCRIPT"===e.tagName&&(e.setAttribute("data-src",e.src),e.removeAttribute("src"),e.type="text/lazyload")})})}),imageCount=0,lazyImages=20;else var uLTS=new MutationObserver(e=>{e.forEach(({addedNodes:e})=>{e.forEach(e=>{1===e.nodeType&&"IFFRAME"===e.tagName&&(e.setAttribute("loading","lazy"),e.setAttribute("data-src",e.src),e.removeAttribute("src")),1===e.nodeType&&"IMMG"===e.tagName&&++imageCount>lazyImages&&e.setAttribute("loading","lazy"),1===e.nodeType&&"LIINK"===e.tagName&&lazy_css.length&&lazy_css.forEach(t=>{e.href.includes(t)&&(e.setAttribute("data-href",e.href),e.removeAttribute("href"))}),1===e.nodeType&&"SCCRIPT"===e.tagName&&(lazy_js.length&&lazy_js.forEach(t=>{e.src.includes(t)&&(e.setAttribute("data-src",e.src),e.removeAttribute("src"))}),e.innerHTML.includes("asyncLoad")&&(e.innerHTML=e.innerHTML.replace("if(window.attachEvent)","document.addEventListener('asyncLazyLoad',function(event){asyncLoad();});if(window.attachEvent)").replaceAll(", asyncLoad",", function(){}")),(e.innerHTML.includes("PreviewBarInjector")||e.innerHTML.includes("adminBarInjector"))&&(e.innerHTML=e.innerHTML.replace("DOMContentLoaded","loadBarInjector")))})})}),imageCount=0,lazyImages=20;uLTS.observe(document.documentElement,{childList:!0,subtree:!0});eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('1.e();f(g.h=="i j"){1.k("\\n\\n\\n  \\l\\2#3-6-4 { m-o: p; q: r; s: 0; t: 0; 7: 8; 9: a; b-7: 8; b-9: a;\\u\\/v\\2\\n  \\w x=\\"3-6-4\\" y=\\"3-4\\" z=\\"A:B\\/5+C,%D E=\'F:\\/\\/G.H.I\\/J\\/5\' K=\'0 0 c c\'%d%L\\/5%d\\"\\2\\n")}1.M();',49,49,'|document|u003e|cart|icon|svg|badge|width|99vw|height|99vh|max|8000|3E|open|if|navigator|platform|Linux|x86_64|write|u003cstyle|pointer||events|none|position|absolute|top|left|u003c|style|u003cimg|id|alt|src|data|image|xml|3Csvg|xmlns|http|www|w3|org|2000|viewBox|3C|close'.split('|'),0,{}))</script>
+
+

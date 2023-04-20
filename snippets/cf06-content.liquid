@@ -1,0 +1,56 @@
+<div class="cf_06">
+   <div class="hero-content">
+        <div class="top-content-wrap">
+            <div class="top-content-text">
+                {% if block.settings.cf06_subtitle != blank  %}
+                <div class="curved-text">
+                    <svg viewBox="0 0 500 500">
+                      <path id="curve" d="M80.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,10.2,170.8,90.3,175.1,97" />
+                      <text width="500">
+                        <textPath xlink:href="#curve">
+                          {{ block.settings.cf06_curvedtitle }}
+                        </textPath>
+                      </text>
+                    </svg>
+                </div>
+                {% endif %}
+                {% if block.settings.cf06_subtitle != blank  %}
+                <span>{{ block.settings.cf06_subtitle }}</span>
+                {% endif %}
+            </div>
+            {% if block.settings.cf06_btn_text != blank  %}
+            <div class="top-content-cta-wrap">
+                <p class="top-content-cta" >{{ block.settings.cf06_btn_text }}</p>
+            </div>
+            {% endif %}
+        </div>
+        {% if block.settings.cf06_review_image != blank  %}
+        <div class="review-wrap">
+            <div class="review-inner">
+                {% if block.settings.cf06_review_image != blank  %}
+                <div class="review-stars">
+                    <img src="{{ block.settings.cf06_review_image | img_url:'150x' }}" alt="Review stars">
+                </div>
+                {% endif %}
+                {% if block.settings.cf06_review_text != blank  %}
+                <div class="review-text">{{ block.settings.cf06_review_text }}</div>
+                {% endif %}
+                {% if block.settings.cf06_review_name != blank  %}
+                <div class="review-name">{{ block.settings.cf06_review_name }}</div>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<style>
+  html body .cf_06 .curved-text text {
+    fill: {{ block.settings.cf06_textcolor }} !important;
+  }
+  html body .cf_06 .top-content-text span,
+  html body .cf_06 .review-wrap .review-text,
+  html body .cf_06 .review-wrap .review-name {
+    color: {{ block.settings.cf06_textcolor }} !important;
+  }
+</style>

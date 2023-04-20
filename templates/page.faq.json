@@ -1,0 +1,317 @@
+{
+  "sections": {
+    "heading": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/NicePeople-12_copy.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 300,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 52,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "faq-header",
+      "settings": {
+        "title": "FAQs",
+        "use_h1": true,
+        "text": "",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "How can we help?"
+      }
+    },
+    "1656285919a5513d68": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "b471b1e9-dbc7-4caa-852d-be0a7523c080": {
+          "type": "question",
+          "settings": {
+            "title": "Can I order a custom sign or have a product customised?",
+            "answer": "<p>Unfortunately, we do not do custom orders or offer any customisation on our products.<\/p>"
+          }
+        },
+        "533ff1e0-becc-4080-bb6e-6a825db1f18e": {
+          "type": "question",
+          "settings": {
+            "title": "Will the Sign be delivered with my branding on it?",
+            "answer": "<p>We only sell the Signs as blanks, but you can get them branded by your local signwriter who will apply a vinyl decal. For help on applying a vinyl sticker of finding someone to do it for you, take a look at <a href=\"\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter\" target=\"_blank\" title=\"How To Find a Signwriter and Apply A Vinyl Decal to Your Sign\">how to apply a vinyl decal.<\/a><\/p>"
+          }
+        },
+        "1656285919e384d1a6-0": {
+          "type": "question",
+          "settings": {
+            "title": "How many rails come with each rail product, eg. The Magnetic Menu Board, Atelier Letter Menu?",
+            "answer": "<p>Every rail product comes with a different number of rails, so it’s best to check the Specifications tab of each individual product.<\/p>"
+          }
+        },
+        "1656285919e384d1a6-1": {
+          "type": "question",
+          "settings": {
+            "title": "How many letters come with each letter board?",
+            "answer": "<p>Every letter board comes with a different number of letters. To see how many characters each letter set comes with, have a look at the Specifications tab on the individual product page.<\/p>"
+          }
+        },
+        "bdacb743-801d-41c6-871a-b51e1f3637ea": {
+          "type": "question",
+          "settings": {
+            "title": "Do you sell additional letters for rail or letter board products if I run out or need more?",
+            "answer": "<p>All of our letter displays come with extra vinyl stickers of characters that can be placed on the blank back of tiles if you run out of any letters. We also sell extra letter sets for the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/baker-menu-letters\" target=\"_blank\">Baker Menu<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/baker-menu-letters\" target=\"_blank\">Park Peg Letter Board<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/wooden-tiles\" target=\"_blank\">Wooden Letter Board<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/extra-atelier\" target=\"_blank\">Atelier Letter Board<\/a> and <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/extra-menu-board-letters\" target=\"_blank\">Menu Board<\/a>. To add letters to a magnetic surface such as the Countertop Sign, we have the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/block-magnet-letters\" target=\"_blank\">Block Magnet Letters<\/a> and <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/magnet-letters\" target=\"_blank\">Magnet Letters<\/a>.<\/p>"
+          }
+        },
+        "c919d729-0dac-43b6-8253-4bce2f09f516": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I get more paper for my Daily Roller or Studio Roller?",
+            "answer": "<p>We sell extra rolls of paper for our Daily Roller <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/daily-roller-rolls\" target=\"_blank\">here<\/a> and our Studio Roller <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/kraft-paper-roll\" target=\"_blank\">here<\/a>.<\/p>"
+          }
+        },
+        "f2214c39-eeb4-4c2b-a71a-d241a76f4bc3": {
+          "type": "question",
+          "settings": {
+            "title": "How do I install a wall-mounted product?",
+            "answer": "<p>You can find instructions for installing products on each individual product page in the Assembly Instructions tab, but we also have easy-to-follow guides on our blog <a href=\"https:\/\/george-willy-eu.myshopify.com\/search?q=how+to+install&options%5Bunavailable_products%5D=show\" target=\"_blank\">here<\/a><a>.<\/a><\/p>"
+          }
+        },
+        "56488ebf-64bc-4eb7-bfcc-2eda1b0c1ea2": {
+          "type": "question",
+          "settings": {
+            "title": "Can I install a wall-mounted George & Willy product onto tiles?",
+            "answer": "<p>Absolutely yes! You will need to source the correct screws from the hardware store though, as ours aren’t designed for tile or brick.<\/p>"
+          }
+        },
+        "1f858201-98d9-4b4e-8679-15a7b943fea1": {
+          "type": "question",
+          "settings": {
+            "title": "Can I reserve an item that’s launching soon?",
+            "answer": "<p>We don’t offer product pre-orders or reservations, but if a product is out of stock, you can sign up to be notified when a product is available again. Simply press the ‘Notify Me When Available’ button on the individual product page and enter your email.<\/p>"
+          }
+        },
+        "12e2723e-33ae-4b54-9c3d-009d3c828776": {
+          "type": "question",
+          "settings": {
+            "title": "When will an out of stock item be back in stock?",
+            "answer": "<p>Please get in touch with us if the product you are after is currently out of stock. Alternatively, sign up to be notified when the item is back in stock by pressing the ‘Notify Me When Available’ button on the individual product page and entering your email.<\/p>"
+          }
+        },
+        "8724cc92-8c24-40f1-9bfc-89ed6bb4e1d5": {
+          "type": "question",
+          "settings": {
+            "title": "How do I clean my Signs and Letter Boards?",
+            "answer": "<p>We recommend regularly dusting your Signs and Letter Boards with a clean, dry cloth, or feather duster. To clean your George & Willy product more thoroughly, use a soft cloth soaked in warm, soapy water. We do not recommend using bleach or any other harsh chemicals as they may damage the Sign, Menu Board or Letter Board.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b471b1e9-dbc7-4caa-852d-be0a7523c080",
+        "533ff1e0-becc-4080-bb6e-6a825db1f18e",
+        "1656285919e384d1a6-0",
+        "1656285919e384d1a6-1",
+        "bdacb743-801d-41c6-871a-b51e1f3637ea",
+        "c919d729-0dac-43b6-8253-4bce2f09f516",
+        "f2214c39-eeb4-4c2b-a71a-d241a76f4bc3",
+        "56488ebf-64bc-4eb7-bfcc-2eda1b0c1ea2",
+        "1f858201-98d9-4b4e-8679-15a7b943fea1",
+        "12e2723e-33ae-4b54-9c3d-009d3c828776",
+        "8724cc92-8c24-40f1-9bfc-89ed6bb4e1d5"
+      ],
+      "settings": {
+        "title": "Products"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What payment methods do you accept?",
+            "answer": "<p>We accept payment by credit card (MasterCard, Visa, Amex and more), Paypal, Apple Pay, Google Pay and Shop Pay. We do not record your credit card details and it is a secure gateway for online payment.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "How can I cancel or change my order?",
+            "answer": "<p>If you made a mistake or purchased the wrong product, please contact us at <a href=\"mailto:sales@georgeandwilly.com\" target=\"_blank\">sales@georgeandwilly.com <\/a>as soon as possible and we will try our best to amend your order, but please be aware this isn't guaranteed. If your order has already been shipped, we cannot cancel your delivery.<\/p>"
+          }
+        },
+        "b7844e64-b0ad-4b40-9d92-0724bfa269b3": {
+          "type": "question",
+          "settings": {
+            "title": "Can I apply a discount code to sale items?",
+            "answer": "<p>Unfortunately, discount codes are not redeemable on sale items.<\/p>"
+          }
+        },
+        "25e13044-a463-448f-860c-336cf29e6b76": {
+          "type": "question",
+          "settings": {
+            "title": "Can I purchase a George & Willy voucher?",
+            "answer": "<p>We don’t currently offer vouchers, but if you think it would be a good idea, send us an email. We always love to hear your ideas and what you’d like to see!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "b7844e64-b0ad-4b40-9d92-0724bfa269b3",
+        "25e13044-a463-448f-860c-336cf29e6b76"
+      ],
+      "settings": {
+        "title": "Payments and Orders"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Where do you ship to and from?",
+            "answer": "<p>We ship New Zealand-wide via Post Haste, and to Australia via DHL. All orders are shipped from our warehouse in Christchurch, New Zealand. <\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "How do I track the progress of my order?",
+            "answer": "<p>Once you've purchased a George & Willy product, you should receive an email to confirm your order, and another email with all your tracking details. If you haven't received any emails, or if you have any other queries about where your product is, <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">contact us<\/a> and we'll take a look for you.<\/p>"
+          }
+        },
+        "21f12596-0836-44df-bd71-40ef34341ea9": {
+          "type": "question",
+          "settings": {
+            "title": "When can I expect my order to arrive?",
+            "answer": "<p>Orders are shipped on weekdays, and depending on which method of shipping you choose, delivery times may vary. You can expect to receive your order in 1-5 business days with our tracked express courier, or 3-10 business days with our tracked economy courier.<\/p>"
+          }
+        },
+        "15797ebf-c983-488a-b74e-1f2fa6e63b2e": {
+          "type": "question",
+          "settings": {
+            "title": "I ordered two products, but have only received one. Where is my other product?",
+            "answer": "<p>We may send your parcel in two seperate parcels. If the second half of your order has not arrived with 48 hours please <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/contact\">get in touch with us<\/a>, we are more than happy to help.<\/p>"
+          }
+        },
+        "6615d433-f7a1-4d93-8fa9-0e1ef13ee47d": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship to P.O. Boxes?",
+            "answer": "<p>Unfortunately we don’t ship to P.O. Boxes due to the size and volume of some of our products.<\/p>"
+          }
+        },
+        "de667b4a-d209-4481-bdb7-fb1d0f67538a": {
+          "type": "question",
+          "settings": {
+            "title": "How much will shipping be?",
+            "answer": "<p>The cost of shipping differs for each item, depending on the size and weight of the product, and where you’re located. You'll find the price of shipping for each product on the Delivery tab on the product pages.<\/p>"
+          }
+        },
+        "8818f3e5-9c24-403c-98e2-07f2bbb1db13": {
+          "type": "question",
+          "settings": {
+            "title": "My parcel says it's been delivered but I still haven't received it. What can I do?",
+            "answer": "<p>If your item has been delivered but there's no sign of it, we'd recommend checking with your neighbours, or contacting the appropriate courier with your tracking number. If you’ve checked with the courier company and have also already spoken with your neighbours, but still haven’t recovered your parcel, please <a href=\"https:\/\/www.georgeandwilly.com\/pages\/contact\" target=\"_blank\">contact us<\/a> and we'll be happy to help.<\/p>"
+          }
+        },
+        "06c00773-8482-45fa-b28e-ca5dbfa026f9": {
+          "type": "question",
+          "settings": {
+            "title": "Will I have to pay import fees?",
+            "answer": "<p><strong>Orders to Australia over $1000 AUD will be subject to customs duties and taxes.<\/strong> You as the recipient will be liable for all import duties, customs and local sales taxes levied by Australian customs. If you refuse your delivery, you are responsible for the original delivery charges, any applicable tax and duties charges and the cost of returning the package. These are not covered in our shipping rates and you will be responsible for these fees. For more information on shipping and customs duties, take a look at our <a href=\"https:\/\/george-willy-nz.myshopify.com\/pages\/shipping\" target=\"_blank\">Delivery & Shipping page.<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "21f12596-0836-44df-bd71-40ef34341ea9",
+        "15797ebf-c983-488a-b74e-1f2fa6e63b2e",
+        "6615d433-f7a1-4d93-8fa9-0e1ef13ee47d",
+        "de667b4a-d209-4481-bdb7-fb1d0f67538a",
+        "8818f3e5-9c24-403c-98e2-07f2bbb1db13",
+        "06c00773-8482-45fa-b28e-ca5dbfa026f9"
+      ],
+      "settings": {
+        "title": "Shipping"
+      }
+    },
+    "165628608358c2cb4c": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "1656286083ec94212d-0": {
+          "type": "question",
+          "settings": {
+            "title": "Can I open a Trade or Wholesale account?",
+            "answer": "<p>To apply for a trade account or request a wholesale discount, please email us at <a href=\"mailto:%20sales@georgeandwilly.com\" target=\"_blank\">sales@georgeandwilly.com<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1656286083ec94212d-0"
+      ],
+      "settings": {
+        "title": "Trade and Wholesale"
+      }
+    },
+    "1656286124a4b79cc2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "16562861244079d045-0": {
+          "type": "question",
+          "settings": {
+            "title": "I have received my order but it’s arrived damaged. What can I do?",
+            "answer": "<p>We take pride in using secure and sturdy packaging, but occasionally damage may occur during transit. If your product doesn’t arrive in perfect condition, please <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/contact\">contact us<\/a> within 100 days of receiving your parcel.<\/p>"
+          }
+        },
+        "16562861244079d045-1": {
+          "type": "question",
+          "settings": {
+            "title": "Do you have a returns and exchanges policy?",
+            "answer": "<p>Unused, full-price items are eligible for return within <strong>100 days <\/strong>of receiving your order. Please read the <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\">Returns and Exchanges<\/a> page for more information, and feel free to <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/contact\">contact us<\/a> with any questions.<\/p>"
+          }
+        },
+        "a2fbc0b3-b07f-4b47-83b1-94da75168250": {
+          "type": "question",
+          "settings": {
+            "title": "How long is the warranty for George & Willy products?",
+            "answer": "<p>All George & Willy products have a lifetime warranty (our LED Sign range has a lifetime warranty on all hardware and a 5-year warranty on electronics). This covers faulty workmanship and\/or materials when the product is used in normal, domestic or commercial conditions and following the care and use instructions provided. It does not cover normal wear and tear, accidents, or misuse of the product. If the defect was caused by a manufacturing fault, the faulty product will be replaced free of charge. If the original product is no longer in production, it will be replaced with the most similar product. To claim under our lifetime warranty, please <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/contact\" target=\"_blank\">contact us<\/a> with images of your faulty product and proof of purchase handy.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16562861244079d045-0",
+        "16562861244079d045-1",
+        "a2fbc0b3-b07f-4b47-83b1-94da75168250"
+      ],
+      "settings": {
+        "title": "Returns and Exchanges"
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "main",
+    "1656285919a5513d68",
+    "faq-content-1",
+    "faq-content-2",
+    "165628608358c2cb4c",
+    "1656286124a4b79cc2"
+  ]
+}

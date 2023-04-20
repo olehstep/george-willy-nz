@@ -1,0 +1,84 @@
+{
+  "sections": {
+    "165906517417167cc2": {
+      "type": "rich-text",
+      "blocks": {
+        "16590651742ed81958-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Save time with our tips and shortcuts for modern technology",
+            "use_h1": false
+          }
+        },
+        "16590651742ed81958-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have been running our small business for about 10 years now and have learnt most things the hard and long way through trial and error.<\/p><p>We have come across a few tools which have been very useful, so we thought we’d share them with you.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16590651742ed81958-0",
+        "16590651742ed81958-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": true,
+        "use_alt_bg": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1659065206220bf34d": {
+      "type": "custom-row",
+      "blocks": {
+        "1659065206493ae5a9-0": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/ebook-1.jpg",
+            "image_position": "center center",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "e49911d1-745f-4cab-b6f8-e9cc1f28bca7": {
+          "type": "html",
+          "settings": {
+            "width": "half",
+            "code": "<div class=\"klaviyo-form-VLQMvN\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "1659065206493ae5a9-0",
+        "e49911d1-745f-4cab-b6f8-e9cc1f28bca7"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    }
+  },
+  "order": [
+    "165906517417167cc2",
+    "main",
+    "1659065206220bf34d"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "88a09700-596f-460b-af72-ee949f1e3dab": {
+          "type": "image",
+          "settings": {
+            "collection": "letter-menu-boards"
+          }
+        },
+        "cc1454a2-8dfb-4caf-8c9e-1399ab4660c4": {
+          "type": "image",
+          "settings": {
+            "collection": "signage",
+            "image": "shopify:\/\/shop_images\/A-frame-Sign-White_-7-_1.jpg"
+          }
+        },
+        "78929f33-5bdd-4674-b66c-13a483bd6a18": {
+          "type": "image",
+          "settings": {
+            "collection": "wall-signage"
+          }
+        },
+        "08f23a9e-728b-47ed-bbfa-94a570a14ce8": {
+          "type": "image",
+          "settings": {
+            "collection": "sidewalk-signs",
+            "image": "shopify:\/\/shop_images\/Standing-Sign-7.jpg"
+          }
+        },
+        "60957384-f8e7-435c-93ec-77532bf33ca0": {
+          "type": "image",
+          "settings": {
+            "collection": "tabletop"
+          }
+        },
+        "d196e8ac-f29e-4236-a6e0-11844fb60d90": {
+          "type": "image",
+          "settings": {
+            "collection": "for-home"
+          }
+        }
+      },
+      "block_order": [
+        "88a09700-596f-460b-af72-ee949f1e3dab",
+        "cc1454a2-8dfb-4caf-8c9e-1399ab4660c4",
+        "78929f33-5bdd-4674-b66c-13a483bd6a18",
+        "08f23a9e-728b-47ed-bbfa-94a570a14ce8",
+        "60957384-f8e7-435c-93ec-77532bf33ca0",
+        "d196e8ac-f29e-4236-a6e0-11844fb60d90"
+      ],
+      "settings": {
+        "title": "",
+        "display_type": "selected",
+        "grid": 3
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

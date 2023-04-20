@@ -1,0 +1,24 @@
+{% if request.page_type == 'index' %}
+  {% render 'cf06-imp' %}
+{% endif %}
+
+{% if request.page_type == 'cart' %}
+  {% render 'cf03-imp' %}
+  {% render 'cf23-imp' %}
+  {% render 'cf251-imp' %}
+{% endif %}
+
+{% if request.page_type == 'collection' %}
+  {% render 'cf04-imp' %}
+  {% render 'cf08-imp' %}
+  {% render 'cf15-imp' %}
+  {% render 'cf17-imp' %}
+{% endif %}
+
+{% if request.page_type == 'product' %}
+  {% render 'cf07-imp' %}
+  {% render 'cf10-imp' %}
+  {% render 'cf16-imp' %}
+  {% render 'cf18-imp' %}
+  {% render 'cf25-imp' %}
+{% endif %}

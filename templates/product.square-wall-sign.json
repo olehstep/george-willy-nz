@@ -1,0 +1,250 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "c1f40eb9-bc38-4fdf-87dc-80b671b1a040": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "50f9bf2f-f678-4a67-9d05-a942ec67fc2a": {
+          "type": "shopify:\/\/apps\/moment-upsell-cross-sell\/blocks\/app-block\/f45260f1-d370-4d07-a8d1-df8d1390dc45",
+          "settings": {}
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Face: 60cm (H) x 60cm (W) x 0.55cm (D)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/3464\/2627\/files\/Square_Wall_Sign_Spec_Doc.pdf?v=1626057699\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>$25 AUD Australia via DHL<br\/>$10 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George & Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Square Wall Sign comes with all the necessary hardware to get going, with handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Square_Wall_Sign_Instructions_Web.pdf?v=1632258082\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "ca457c82-f03f-4b3b-90c9-41f193fd6f59": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>Does the storefront sign come with screws for mounting?<\/em><\/p><p>Yes, the Square Wall Sign comes with screws for mounting into a wooden and drywall surface.<\/p><p><em>Can the sign be mounted on a tile?<\/em><\/p><p>Yes, you can mount the Square Wall Sign to tile or brick.<\/p><p><em>How big is the faceplate on the metal sign?<\/em><\/p><p>The faceplate on the Square Wall Sign is 60cm x 60cm. <\/p><p><em>What coating is used on this store sign?<\/em><\/p><p>The square storefront sign is coated with a high-performing outdoor powder coating, which means the sign is safe to be mounted in exterior spaces.<\/p><p><em>What material is the storefront sign made from?<\/em><\/p><p>The Square Wall Sign is made from 100% aluminium. We made the sign from aluminium as this material can not rust and lasts better outside than other storefront signage materials such as wood and steel.<\/p><p><em>Does logo printing come with the sign?<\/em><\/p><p>We sell our storefront signs blank and don't provide a signwriting service. This is because each store has very different requirements in terms of printing and branding. We recommend getting in touch with a local signwriter who will be able to help you. <\/p><p><em>How do I install the square sign?<\/em><\/p><p>The Square Wall Sign is very easy to install, with handy instructions included with each order. We've also put together a helpful guide on the assembly process <a href=\"https:\/\/nz.georgeandwilly.com\/blogs\/blog\/how-to-install-the-square-wall-sign-and-round-wall-sign\">here<\/a>.<\/p><p><em>What other business sign or blade sign options does George & Willy sell?<\/em><\/p><p>We sell a range of <a href=\"https:\/\/eu.georgeandwilly.com\/collections\/signage\" target=\"_blank\" title=\"Signage\">Signs<\/a> in all kinds of shapes and sizes, and for all kinds of purposes. Check out our <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/round-outdoor-shop-sign\" target=\"_blank\">Round Sign,<\/a> <a href=\"https:\/\/eu.georgeandwilly.com\/products\/a-frame-sign-sandwich-board\" target=\"_blank\" title=\"A-Frame Sign\">A-Frame Sign<\/a>, <a href=\"https:\/\/eu.georgeandwilly.com\/products\/table-top-sign\" target=\"_blank\" title=\"Countertop Sign\">Countertop Sign<\/a>, and one of our favourites, the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/standing-round-sign\" target=\"_blank\">Standing Sign<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "c1f40eb9-bc38-4fdf-87dc-80b671b1a040",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "50f9bf2f-f678-4a67-9d05-a942ec67fc2a",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "ca457c82-f03f-4b3b-90c9-41f193fd6f59",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Appkying-vinyl-stickers_f41e5273-e918-4c28-bdf4-3215be664519.jpg",
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1655845241a550a64f": {
+      "type": "apps",
+      "blocks": {
+        "10a2891d-af40-4510-a62e-c36a38858a7a": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "10a2891d-af40-4510-a62e-c36a38858a7a"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1655845241a550a64f"
+  ]
+}

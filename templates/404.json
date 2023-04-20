@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {}
+    },
+    "879eb322-cdae-445a-9bc5-64dac034a60d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15747192324291__879eb322-cdae-445a-9bc5-64dac034a60d-167581743487d5df19-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Sorry, we can't find that page!",
+            "use_h1": false
+          }
+        },
+        "template--15747192324291__879eb322-cdae-445a-9bc5-64dac034a60d-167581743487d5df19-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It looks like you may have been sent to a link that doesn't exist. Use the links below to find your way again.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "f30b2f6d-0d80-43b4-9c31-40c81d192dc3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visit our Homepage",
+            "button_link": "https:\/\/www.georgeandwilly.com\/",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15747192324291__879eb322-cdae-445a-9bc5-64dac034a60d-167581743487d5df19-0",
+        "template--15747192324291__879eb322-cdae-445a-9bc5-64dac034a60d-167581743487d5df19-1",
+        "f30b2f6d-0d80-43b4-9c31-40c81d192dc3"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "e3d4f1aa-ddee-4ddc-873e-70fc34f70703": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Take a look at our Best Sellers",
+        "collection": "best-sellers",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "879eb322-cdae-445a-9bc5-64dac034a60d",
+    "e3d4f1aa-ddee-4ddc-873e-70fc34f70703"
+  ]
+}

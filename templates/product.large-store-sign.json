@@ -1,0 +1,324 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "89d4dba4-3ffb-420c-9298-a766bc14747e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Sign Face: 55cm\/21.8” x 80cm\/31.5”<br>Mounting Rod: 95.5cm\/37.6”<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Large_Store_Sign_Spec_Doc_2023.pdf?v=1678411797\" target=\"_blank\" title=\"Large Storefront Sign\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$36 AUD Australia via DHL<br>$20 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "65f9d829-7183-4063-878b-0109926e2883": {
+          "type": "accordion",
+          "settings": {
+            "title": "Installation Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Large Store Sign comes with all the necessary hardware to get going, with handy installation instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Large_Store_Sign_Instructions_web.pdf?v=1669084470\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Large_Store_Sign_Instructions_web.pdf?v=1669084470\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "c01c0316-42b0-420e-bf99-8ac4a05083ec": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>Does the Large Store Sign come with screws for mounting?<\/em><\/p><p>Yes, the Large<em> <\/em>Store Sign comes with screws for mounting into concrete or wooden surfaces.<\/p><p><em>Is the shopfront sign weatherproof?<\/em><\/p><p>The storefront sign was designed to be installed outdoors, but the sign may swing in windy conditions, so be sure to take this into consideration when choosing where to install it. Being made from aluminium, the sign is also weatherproof, resistant to rust, and suitable for coastal areas.<\/p><p><em>Is the outdoor store sign faceplate magnetic?<\/em><\/p><p>The exterior shop sign's faceplate is constructed from aluminium, which is not compatible with magnets.<\/p><p><em>Can I use a pen on the outdoor business sign?<\/em><\/p><p>We would not recommend using any kind of pen on the Large Store Sign. To add a decal, get in touch with your local signwriter who will be able to help.<\/p><p><em>Does logo printing come with the wall-mounted hanging sign?<\/em><\/p><p>No, we sell our signs as blank and we don't provide a signwriting service. Your local signwriter will be able to make and apply a vinyl adhesive to the store sign.<\/p><p><em>What other Shop Sign or Blade Sign options does George &amp; Willy sell?<\/em><\/p><p>For more outdoor wall sign options, take a look at the <a href=\"\/products\/store-sign\" target=\"_blank\" title=\"Store Sign\">Store Sign<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/round-outdoor-shop-sign\" target=\"_blank\" title=\"Round Outdoor Sign for Shopfront\">Round Sign<\/a>, <a href=\"https:\/\/eu.georgeandwilly.com\/products\/flag-sign\" target=\"_blank\" title=\"Flag Sign\">Flag Sign<\/a>, or <a href=\"https:\/\/eu.georgeandwilly.com\/products\/square-panel-sign\" target=\"_blank\" title=\"Square Panel Sign\">Square Panel Sign<\/a>. For something a little bigger, check out the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/big-round-sign\" target=\"_blank\">Big Round Sign<\/a>, or for something smaller, the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/circle-sign\" target=\"_blank\">Circle Sign<\/a>. For sidewalk, footpath, or pavement options, see the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/a-frame-sign-sandwich-board\" target=\"_blank\" title=\"A-Frame sandwich board store signs\">A-Frame Sign<\/a>, <a href=\"https:\/\/eu.georgeandwilly.com\/products\/welcome-sign\" target=\"_blank\" title=\"Welcome Sign\">Welcome Sign<\/a>, and <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/chalk-sandwich-board\" target=\"_blank\">Chalk Sandwich Board<\/a>.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "89d4dba4-3ffb-420c-9298-a766bc14747e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "65f9d829-7183-4063-878b-0109926e2883",
+        "c01c0316-42b0-420e-bf99-8ac4a05083ec",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1658954472bdc404e5": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Large_Outdoor_Shopfront_Sign.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Good Spot for Nice Branding",
+        "use_h1": false,
+        "text": "<p>The 55cm x 80cm rectangle face was designed to suit a range of logos. A minimal sign, but still noticeable from a distance.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1658808178d4d1ec6a": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/GEORGE-AND-WILLY-STORE-SIGN_947512a4-490c-49b6-80cf-c35aa2adf016.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Rain, Hail or Shine",
+        "use_h1": false,
+        "text": "<p>The Large Store Sign is designed for all weather. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "4bce085b-2744-4dd1-ad09-337db2186aae": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/787741251",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Large-Store-Sign-Install.jpg",
+        "subheading": "",
+        "title": "Easy Install",
+        "use_h1": false,
+        "text": "<p>The Large Store Sign includes all the necessary screws for easy installation to wood, brick or concrete. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "16557729912b77a1b6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Large-General-Store-Sign.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A Little Bit Fancy",
+        "use_h1": false,
+        "text": "<p>But not too much. The option of bronze details give the Large Store Sign something extra.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "16526710842008a0ba": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/707646730",
+        "autoplay": true,
+        "placeholder_image": "shopify:\/\/shop_images\/Appkying-vinyl-stickers_f41e5273-e918-4c28-bdf4-3215be664519.jpg",
+        "subheading": "",
+        "title": "Applying a vinyl sticker",
+        "use_h1": false,
+        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
+        "button_style": "link",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "signage",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1655845241a550a64f": {
+      "type": "apps",
+      "blocks": {
+        "bef79cee-83ac-48bc-bc90-52b98f12a836": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "bef79cee-83ac-48bc-bc90-52b98f12a836"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1658954472bdc404e5",
+    "1658808178d4d1ec6a",
+    "4bce085b-2744-4dd1-ad09-337db2186aae",
+    "16557729912b77a1b6",
+    "16526710842008a0ba",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "1655845241a550a64f"
+  ]
+}

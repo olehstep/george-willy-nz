@@ -1,0 +1,222 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "dc089412-8531-412a-a876-c5e202166642": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p>\nOrder now for delivery between: <span id=\"fromDate\"><\/span> - <span id=\"toDate\"><\/span><\/p>\n{{ '\/\/cdnjs.cloudflare.com\/ajax\/libs\/datejs\/1.0\/date.min.js' | script_tag }}\n<script>\nvar fromDate = Date.today().addDays(2);\nif (fromDate.is().saturday() || fromDate.is().sunday()) {\nfromDate = fromDate.next().monday();\n}\nvar toDate = Date.today().addDays(6);\nif (toDate.is().saturday() || toDate.is().sunday()) {\ntoDate = toDate.next().monday();\n}\ndocument.getElementById('fromDate').innerHTML = fromDate.toString('MMMM dS');\ndocument.getElementById('toDate').innerHTML = toDate.toString('MMMM dS');\n<\/script>",
+            "show_in_quickbuy": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Small: 25cm (H) x 17cm (W) x 0.6cm (D)<br\/>Large: 35.5cm (H) x 23.5cm (W) x 0.6cm (D)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Menu_Clipboard_Spec_Doc.pdf?v=1637622400\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br\/>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George & Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "5381ce67-c25d-41aa-8751-b071eb475711": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<p><em>How big is the Menu Clipboard?<\/em><\/p><p>The Small Menu Clipboard is 9.8\"\/25cm (H) x 6.7\"\/17cm (W), perfect for holding A5 card or paper, and the Large Menu Clipboard is 13.2\"\/35.5cm (H) x 9.25\"\/23.5cm (W), designed for A4 menus.<\/p><p><em>How many Menu Clipboards come in each pack?<\/em><\/p><p>Each Menu Clipboard comes in a pack of five.<\/p><p><em>What material is the Menu Clipboard made from?<\/em><\/p><p>The Menu Clipboard is made from lightweight and durable birch plywood and powder-coated steel.<\/p><p><em>How can I display messages on the Menu Clipboard?<\/em><\/p><p>The Menu Clipboard is designed to have a card or paper secured to it using the clip, designed to display a menu, price list, and holding documents.<\/p><p><em>What other countertop options does George & Willy sell?<\/em><\/p><p>We also sell the <a href=\"https:\/\/george-willy.myshopify.com\/products\/counter-signs\" target=\"_blank\">Counter Signs<\/a>, the <a href=\"https:\/\/george-willy.myshopify.com\/products\/standing-counter-signs\" target=\"_blank\">Standing Counter Signs<\/a>, the <a href=\"https:\/\/www.georgeandwilly.com\/products\/table-top-sign\" target=\"_blank\" title=\"Tabletop Sign\">Tabletop Sign<\/a>, the <a href=\"https:\/\/www.georgeandwilly.com\/products\/circle-sign\" target=\"_blank\" title=\"George & Willy Circle Store Sign\">Circle Sign<\/a>, and the  <a href=\"https:\/\/george-willy.myshopify.com\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a>for something a little different. Have a look at our complete <a href=\"https:\/\/www.georgeandwilly.com\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "title": "You may also like",
+            "product_list": [
+              "menu-stand",
+              "chalk-sandwich-board",
+              "large-sidewalk-sign",
+              "sandbag-for-a-frame-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "dc089412-8531-412a-a876-c5e202166642",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "5381ce67-c25d-41aa-8751-b071eb475711",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "tabletop",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}

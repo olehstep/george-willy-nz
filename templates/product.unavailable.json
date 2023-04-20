@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "7bd9c03e-fe07-48c6-9649-a8fbead91fab": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p>Unfortunately this product is no longer available in your location. <\/p><p>You can stay up to date with our latest product launches by signing yourself up to our mailer at the bottom of this page.<\/p><p>Take a look at some of our other products that would look just as great in your space.<\/p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#ced2cd",
+            "show_in_quickbuy": false
+          }
+        },
+        "91187cc7-0ddc-4905-9cf6-fce4c2ec21fc": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "ae0cd4b5-2aca-407b-b651-628a129aec02": {
+          "type": "related_products",
+          "settings": {
+            "title": "",
+            "product_list": [
+              "atelier-letter-board",
+              "a-frame-sign-sandwich-board",
+              "counter-signs",
+              "daily-roller"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "7bd9c03e-fe07-48c6-9649-a8fbead91fab",
+        "91187cc7-0ddc-4905-9cf6-fce4c2ec21fc",
+        "ae0cd4b5-2aca-407b-b651-628a129aec02"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-beside",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "recommendations"
+  ]
+}
