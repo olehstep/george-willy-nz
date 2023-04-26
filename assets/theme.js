@@ -4439,7 +4439,7 @@
       var slickConfig = {
         autoplay: false,
         fade: false,
-        infinite: false,
+        infinite: true,
         useTransform: true,
         dots: false,
         arrows: false,
