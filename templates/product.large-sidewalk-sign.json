@@ -98,6 +98,7 @@
         },
         "bce194fb-2905-40b4-a870-732bd608f8e1": {
           "type": "related_products",
+          "disabled": true,
           "settings": {
             "title": "You might also like",
             "product_list": [

@@ -109,6 +109,7 @@
         },
         "6a6b1b90-77ba-472e-9575-39d02040e5cc": {
           "type": "related_products",
+          "disabled": true,
           "settings": {
             "title": "Related products",
             "product_list": [

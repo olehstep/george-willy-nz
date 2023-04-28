@@ -2,11 +2,12 @@
   "sections": {
     "51ef6e6f-7c0c-49a0-8872-eb124a0ad58b": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--15783148421315__51ef6e6f-7c0c-49a0-8872-eb124a0ad58b-1681183760e1335bc1-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Grouped-Signs.jpg",
+            "image": "shopify:\/\/shop_images\/Banner-Final-multiple_1_1.jpg",
             "image_position": "center center",
             "mobile_image_position": "center center",
             "slide_link": "",

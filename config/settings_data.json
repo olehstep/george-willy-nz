@@ -1032,7 +1032,7 @@
     "swatch_style": "icon_circle",
     "swatch_picker_image_size": 40,
     "enable_filter_swatches": true,
-    "prod_thumb_show_options": false,
+    "prod_thumb_show_options": true,
     "social_facebook_url": "https:\/\/www.facebook.com\/georgeandwilly\/",
     "social_pinterest_url": "https:\/\/www.pinterest.com\/georgeandwilly\/",
     "social_vimeo_url": "",
@@ -1276,7 +1276,7 @@
         "settings": {
           "lower_menu": "",
           "show_payment_icons": true,
-          "show_country_selector": false,
+          "show_country_selector": true,
           "show_language_selector": false
         }
       },

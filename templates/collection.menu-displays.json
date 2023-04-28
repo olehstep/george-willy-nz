@@ -1,51 +1,5 @@
 {
   "sections": {
-    "c13327ae-be98-41f1-bee1-22dec867b0ef": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15783148454083__c13327ae-be98-41f1-bee1-22dec867b0ef-1681183760e1335bc1-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brown-paper-roller.jpg",
-            "image_position": "center center",
-            "mobile_image_position": "center center",
-            "slide_link": "",
-            "subheading": "George & Willy",
-            "title": "Changeable Menu Displays \nand Letter Boards",
-            "title_size": 50,
-            "title_size_mobile": 30,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "top center",
-            "cf06_textcolor": "#394f3d",
-            "cf06_curvedtitle": "",
-            "cf06_subtitle": "",
-            "cf06_btn_text": "",
-            "cf06_review_text": "",
-            "cf06_review_name": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15783148454083__c13327ae-be98-41f1-bee1-22dec867b0ef-1681183760e1335bc1-1"
-      ],
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 400,
-        "height_mobile": 300,
-        "full_width": true,
-        "mobile_overlay_under": true,
-        "overlay_style": "shadow",
-        "slide_transition": "fade",
-        "slide_navigation": "arrows",
-        "autoplay": false,
-        "autoplay_speed": 7
-      }
-    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -95,7 +49,6 @@
     }
   },
   "order": [
-    "c13327ae-be98-41f1-bee1-22dec867b0ef",
     "main",
     "1657078142b99399ad"
   ]
