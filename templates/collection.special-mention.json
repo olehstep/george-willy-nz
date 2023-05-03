@@ -1,0 +1,88 @@
+{
+  "sections": {
+    "51ef6e6f-7c0c-49a0-8872-eb124a0ad58b": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--15783148421315__51ef6e6f-7c0c-49a0-8872-eb124a0ad58b-1681183760e1335bc1-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner-Final-multiple_1_1.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "George & Willy",
+            "title": "All Products",
+            "title_size": 50,
+            "title_size_mobile": 30,
+            "text": "",
+            "enlarge_text": false,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center",
+            "cf06_textcolor": "#394f3d",
+            "cf06_curvedtitle": "",
+            "cf06_subtitle": "",
+            "cf06_btn_text": "",
+            "cf06_review_text": "",
+            "cf06_review_name": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15783148421315__51ef6e6f-7c0c-49a0-8872-eb124a0ad58b-1681183760e1335bc1-1"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 300,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": false,
+        "heading_image_height": "huge",
+        "overlay_style": "no_background",
+        "coll_num_per_page_int": 50,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "below",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": true,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    }
+  },
+  "order": [
+    "51ef6e6f-7c0c-49a0-8872-eb124a0ad58b",
+    "main"
+  ]
+}

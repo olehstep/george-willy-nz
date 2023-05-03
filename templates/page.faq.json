@@ -73,21 +73,21 @@
           "type": "question",
           "settings": {
             "title": "Do you sell additional letters for rail or letter board products if I run out or need more?",
-            "answer": "<p>All of our letter displays come with extra vinyl stickers of characters that can be placed on the blank back of tiles if you run out of any letters. We also sell extra letter sets for the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/baker-menu-letters\" target=\"_blank\">Baker Menu<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/baker-menu-letters\" target=\"_blank\">Park Peg Letter Board<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/wooden-tiles\" target=\"_blank\">Wooden Letter Board<\/a>, <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/extra-atelier\" target=\"_blank\">Atelier Letter Board<\/a> and <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/extra-menu-board-letters\" target=\"_blank\">Menu Board<\/a>. To add letters to a magnetic surface such as the Countertop Sign, we have the <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/block-magnet-letters\" target=\"_blank\">Block Magnet Letters<\/a> and <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/magnet-letters\" target=\"_blank\">Magnet Letters<\/a>.<\/p>"
+            "answer": "<p>All of our letter displays come with extra vinyl stickers of characters that can be placed on the blank back of tiles if you run out of any letters. We also sell extra letter sets for the <a href=\"\/products\/magnetic-letter-menu-board\" target=\"_blank\" title=\"Magnetic Menu Board\">Magnetic Menu Board<\/a>, <a href=\"\/products\/park-letter-board\" target=\"_blank\" title=\"Park Letter Board\">Park Peg Letter Board<\/a>, <a href=\"\/products\/wooden-letter-board\" target=\"_blank\" title=\"Wooden Letter Board\">Wooden Letter Board<\/a>, <a href=\"\/products\/atelier-letter-board\" target=\"_blank\" title=\"Atelier Letter Board\">Atelier Letter Board<\/a> and <a href=\"\/products\/menu-board\" target=\"_blank\" title=\"Menu Board\">Menu Board<\/a>. To add letters to a magnetic surface such as the Countertop Sign, we have the <a href=\"\/products\/block-magnet-letters\" target=\"_blank\" title=\"Block Magnet Letters\">Block Magnet Letters<\/a> and <a href=\"\/products\/magnet-letters\" target=\"_blank\" title=\"Magnet Letters\">Magnet Letters<\/a>.<\/p>"
           }
         },
         "c919d729-0dac-43b6-8253-4bce2f09f516": {
           "type": "question",
           "settings": {
             "title": "Where can I get more paper for my Daily Roller or Studio Roller?",
-            "answer": "<p>We sell extra rolls of paper for our Daily Roller <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/daily-roller-rolls\" target=\"_blank\">here<\/a> and our Studio Roller <a href=\"https:\/\/george-willy-eu.myshopify.com\/products\/kraft-paper-roll\" target=\"_blank\">here<\/a>.<\/p>"
+            "answer": "<p>We sell extra rolls of paper for our Daily Roller <a href=\"\/products\/daily-roller-rolls\" target=\"_blank\" title=\"Daily Roller Rolls - 3 Pack\">here<\/a> and our Studio Roller <a href=\"\/products\/kraft-paper-roll\" target=\"_blank\" title=\"Kraft Paper Roll\">here<\/a>.<\/p>"
           }
         },
         "f2214c39-eeb4-4c2b-a71a-d241a76f4bc3": {
           "type": "question",
           "settings": {
             "title": "How do I install a wall-mounted product?",
-            "answer": "<p>You can find instructions for installing products on each individual product page in the Assembly Instructions tab, but we also have easy-to-follow guides on our blog <a href=\"https:\/\/george-willy-eu.myshopify.com\/search?q=how+to+install&options%5Bunavailable_products%5D=show\" target=\"_blank\">here<\/a><a>.<\/a><\/p>"
+            "answer": "<p>You can find instructions for installing products on each individual product page in the Assembly Instructions tab, but we also have easy-to-follow guides over on our <a href=\"\/blogs\/blog\" target=\"_blank\" title=\"Blog\">blog<\/a>.<\/p>"
           }
         },
         "56488ebf-64bc-4eb7-bfcc-2eda1b0c1ea2": {
@@ -181,6 +181,13 @@
     "faq-content-2": {
       "type": "collapsible-tabs",
       "blocks": {
+        "06c00773-8482-45fa-b28e-ca5dbfa026f9": {
+          "type": "question",
+          "settings": {
+            "title": "Will I have to pay import fees?",
+            "answer": "<p><strong>Orders to Australia over $1000 AUD will be subject to customs duties and taxes.<\/strong> You as the recipient will be liable for all import duties, customs and local sales taxes levied by Australian customs. If you refuse your delivery, you are responsible for the original delivery charges, any applicable tax and duties charges and the cost of returning the package. These are not covered in our shipping rates and you will be responsible for these fees. For more information on shipping and customs duties, take a look at our <a href=\"https:\/\/george-willy-nz.myshopify.com\/pages\/shipping\" target=\"_blank\">Delivery & Shipping page.<\/a><\/p>"
+          }
+        },
         "question-1": {
           "type": "question",
           "settings": {
@@ -206,7 +213,7 @@
           "type": "question",
           "settings": {
             "title": "I ordered two products, but have only received one. Where is my other product?",
-            "answer": "<p>We may send your parcel in two seperate parcels. If the second half of your order has not arrived with 48 hours please <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/contact\">get in touch with us<\/a>, we are more than happy to help.<\/p>"
+            "answer": "<p>We may send your parcel in two seperate parcels. If the second half of your order has not arrived with 48 hours please <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Help & Contact\">get in touch with us<\/a>, we are more than happy to help.<\/p>"
           }
         },
         "6615d433-f7a1-4d93-8fa9-0e1ef13ee47d": {
@@ -227,26 +234,19 @@
           "type": "question",
           "settings": {
             "title": "My parcel says it's been delivered but I still haven't received it. What can I do?",
-            "answer": "<p>If your item has been delivered but there's no sign of it, we'd recommend checking with your neighbours, or contacting the appropriate courier with your tracking number. If you’ve checked with the courier company and have also already spoken with your neighbours, but still haven’t recovered your parcel, please <a href=\"https:\/\/www.georgeandwilly.com\/pages\/contact\" target=\"_blank\">contact us<\/a> and we'll be happy to help.<\/p>"
-          }
-        },
-        "06c00773-8482-45fa-b28e-ca5dbfa026f9": {
-          "type": "question",
-          "settings": {
-            "title": "Will I have to pay import fees?",
-            "answer": "<p><strong>Orders to Australia over $1000 AUD will be subject to customs duties and taxes.<\/strong> You as the recipient will be liable for all import duties, customs and local sales taxes levied by Australian customs. If you refuse your delivery, you are responsible for the original delivery charges, any applicable tax and duties charges and the cost of returning the package. These are not covered in our shipping rates and you will be responsible for these fees. For more information on shipping and customs duties, take a look at our <a href=\"https:\/\/george-willy-nz.myshopify.com\/pages\/shipping\" target=\"_blank\">Delivery & Shipping page.<\/a><\/p>"
+            "answer": "<p>If your item has been delivered but there's no sign of it, we'd recommend checking with your neighbours, or contacting the appropriate courier with your tracking number. If you’ve checked with the courier company and have also already spoken with your neighbours, but still haven’t recovered your parcel, please <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Help & Contact\">contact us<\/a> and we'll be happy to help.<\/p>"
           }
         }
       },
       "block_order": [
+        "06c00773-8482-45fa-b28e-ca5dbfa026f9",
         "question-1",
         "question-2",
         "21f12596-0836-44df-bd71-40ef34341ea9",
         "15797ebf-c983-488a-b74e-1f2fa6e63b2e",
         "6615d433-f7a1-4d93-8fa9-0e1ef13ee47d",
         "de667b4a-d209-4481-bdb7-fb1d0f67538a",
-        "8818f3e5-9c24-403c-98e2-07f2bbb1db13",
-        "06c00773-8482-45fa-b28e-ca5dbfa026f9"
+        "8818f3e5-9c24-403c-98e2-07f2bbb1db13"
       ],
       "settings": {
         "title": "Shipping"
@@ -284,14 +284,14 @@
           "type": "question",
           "settings": {
             "title": "Do you have a returns and exchanges policy?",
-            "answer": "<p>Unused, full-price items are eligible for return within <strong>100 days <\/strong>of receiving your order. Please read the <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\">Returns and Exchanges<\/a> page for more information, and feel free to <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/contact\">contact us<\/a> with any questions.<\/p>"
+            "answer": "<p>Unused, full-price items are eligible for return within <strong>100 days <\/strong>of receiving your order. Please read the <a href=\"\/pages\/returns-and-exchanges\" title=\"Returns and Exchanges\">Returns and Exchanges<\/a> page for more information, and feel free to <a href=\"\/pages\/contact\" title=\"Help & Contact\">contact us<\/a> with any questions.<\/p>"
           }
         },
         "a2fbc0b3-b07f-4b47-83b1-94da75168250": {
           "type": "question",
           "settings": {
             "title": "How long is the warranty for George & Willy products?",
-            "answer": "<p>All George & Willy products have a lifetime warranty (our LED Sign range has a lifetime warranty on all hardware and a 5-year warranty on electronics). This covers faulty workmanship and\/or materials when the product is used in normal, domestic or commercial conditions and following the care and use instructions provided. It does not cover normal wear and tear, accidents, or misuse of the product. If the defect was caused by a manufacturing fault, the faulty product will be replaced free of charge. If the original product is no longer in production, it will be replaced with the most similar product. To claim under our lifetime warranty, please <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/contact\" target=\"_blank\">contact us<\/a> with images of your faulty product and proof of purchase handy.<\/p>"
+            "answer": "<p>All George & Willy products have a lifetime warranty (our LED Sign range has a lifetime warranty on all hardware and a 5-year warranty on electronics). This covers faulty workmanship and\/or materials when the product is used in normal, domestic or commercial conditions and following the care and use instructions provided. It does not cover normal wear and tear, product coating fading due to sun exposure or weathering, accidents, or misuse of the product. If the defect was caused by a manufacturing fault, the faulty product will be replaced free of charge. If the original product is no longer in production, it will be replaced with the most similar product. To claim under our lifetime warranty, please <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Help & Contact\">contact us<\/a> with images of your faulty product and proof of purchase handy.<\/p>"
           }
         }
       },

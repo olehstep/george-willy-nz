@@ -6,7 +6,7 @@
         "330fca5b-1f37-4a51-9d31-2bcc828dcf9f": {
           "type": "text",
           "settings": {
-            "text": "<p>Quality signage, letter boards, and home products for creative spaces.<\/p>",
+            "text": "<p>Quality Signage, Letter Boards, and Home Products for Creative Spaces.<\/p>",
             "enlarge_text": true
           }
         },
@@ -30,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "sign up for our emails",
-            "button_link": "https:\/\/www.georgeandwilly.com\/pages\/sign-up",
+            "button_link": "https:\/\/nz.georgeandwilly.com\/pages\/sign-up",
             "button_style": "primary"
           }
         },
@@ -54,7 +54,7 @@
           "type": "button",
           "settings": {
             "button_label": "Pinterest",
-            "button_link": "https:\/\/www.pinterest.co.uk\/georgeandwilly\/_created\/",
+            "button_link": "https:\/\/www.pinterest.nz\/georgeandwilly\/",
             "button_style": "primary"
           }
         }

@@ -221,6 +221,19 @@
             "text_alignment": "bottom left"
           }
         },
+        "7826a14b-9327-422d-9a05-ad9643c37293": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/White-Round-business-sign.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "view product",
+            "link": "shopify:\/\/products\/round-outdoor-shop-sign",
+            "text_alignment": "bottom left"
+          }
+        },
         "ec182b8f-5baf-42e7-bd2b-9131a8a8eef0": {
           "type": "image",
           "settings": {
@@ -376,6 +389,19 @@
             "link": "shopify:\/\/products\/round-outdoor-shop-sign",
             "text_alignment": "bottom left"
           }
+        },
+        "cdd587e6-7afc-411b-ba01-b762b75494ef": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/White-Round-business-sign-the-junction.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "view product",
+            "link": "shopify:\/\/products\/round-outdoor-shop-sign",
+            "text_alignment": "bottom left"
+          }
         }
       },
       "block_order": [
@@ -393,6 +419,7 @@
         "28735857-f209-46c4-aaae-7dc89fcd73c0",
         "377fb6a8-56d2-45f2-9c54-2cc5376e9209",
         "21d886a6-2bb1-4805-940c-248ba18010da",
+        "7826a14b-9327-422d-9a05-ad9643c37293",
         "ec182b8f-5baf-42e7-bd2b-9131a8a8eef0",
         "62bec92f-59fb-440d-a13b-765406a231c3",
         "9881f2a3-9e8f-4412-b4c8-26601c0b25f5",
@@ -404,7 +431,8 @@
         "f8772913-cf3b-4779-8ef0-bbbfdb91d992",
         "12ed97f9-bb98-4bf6-9794-7230f2f7a0eb",
         "7e1d0f7a-bdc8-466e-b371-7bc5be1ec0ba",
-        "81329a40-f5cd-465b-8620-cbfe4e1df906"
+        "81329a40-f5cd-465b-8620-cbfe4e1df906",
+        "cdd587e6-7afc-411b-ba01-b762b75494ef"
       ],
       "settings": {
         "gallery_title": "",
