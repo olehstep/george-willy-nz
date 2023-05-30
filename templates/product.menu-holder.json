@@ -33,7 +33,7 @@
             "disable_unavailable_variants": true,
             "show_size_chart": false,
             "size_chart_variant": "Colour",
-            "size_chart_page": "wooden-letter-board-sizing-guide"
+            "size_chart_page": ""
           }
         },
         "buy_buttons": {
@@ -68,7 +68,7 @@
           "settings": {
             "title": "Specifications",
             "icon": "ruler",
-            "content": "<p>Cabinet: <br>Constructed from <\/p><p><a href='target=\"_blank\"'>View Specifications PDF<\/a><\/p>",
+            "content": "",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
@@ -79,18 +79,18 @@
           "settings": {
             "title": "Delivery & Returns",
             "icon": "box",
-            "content": "<p>Tracked Courier Rates from:<\/p><p>$25 AUD Australia via DHL<br>$10 NZD New Zealand via New Zealand Post<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$10 AUD Australia via DHL<br>$5 NZD New Zealand via New Zealand Post<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
           }
         },
-        "d1312125-1013-47f1-9b7d-553dc630fa64": {
+        "5381ce67-c25d-41aa-8751-b071eb475711": {
           "type": "accordion",
           "settings": {
             "title": "FAQs",
             "icon": "question_mark",
-            "content": "<h3>How big is the pastry cabinet case?<\/h3>\n<p>The countertop cabinet is 680mm L x 260mm H x 380mm D.  For more specific measurements, take a look at the Specifications PDF above.<\/p>\n<h3>Can I get the display cabinet in any other colors?<\/h3>\n<p>We provide the display case in three very versatile colors - black, brass, and white, and do not provide a custom powder-coasting service. If you'd like the display cabinet in a different color, speak to your local powder-coating expert and you can have the case customized to your needs.<\/p>\n<h3>Can I use a pen on the counter display case?<\/h3>\n<p>A dry-wipe or whiteboard pen could be used on the display case for displaying prices, but for neater menus, we'd recommend using our Pricing Signs, Large Pricing Signs, or the ever-popular Counter Signs<\/p>\n<h3>How many shelves does the cabinet display have?<\/h3>\n<p>The Display Case comes with one shelf, so once constructed, there are two levels to display your goods on.<\/p>\n<h3>What other counter display options does George &amp; Willy sell?<\/h3>\n<p>For other counter and till display items, we also sell a range of <a href=\"\/collections\/counter-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Counter Signs<\/a>, including the <a href=\"\/products\/table-talkers\" rel=\"noopener noreferrer\" target=\"_blank\">Table Talkers<\/a>, <a href=\"\/products\/card-counter-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Card Counter Signs<\/a>, and <a href=\"\/products\/large-counter-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Large Counter Signs<\/a>. For more options, take a look at our full range of <a href=\"\/collections\/tabletop\" rel=\"noopener noreferrer\" target=\"_blank\">Tabletop Signs<\/a>. <\/p>",
+            "content": "<h3>How big are the faceplates on the metal table signs?<\/h3>\n<p>The Large Table Talker faceplate is 16cm (W) x 22.7cm (H), perfect for mounting an A5 piece of paper or card, and the Small Table Talker faceplate is 11.5cm (W) x 16.4cm (H), ideal for A6.<\/p>\n<h3>Can I use both sides of the Table Talkers?<\/h3>\n<p>Yes, you can! The faceplate is blank and magnetic both sides, so you can add menus or magnetic letters to both.<\/p>\n<h3>Do paper or card menus come with the Table Talkers?<\/h3>\n<p>The Table Talkers do not come with card or paper menus, but they're very easy to have printed at your local stationery store and can be cut to size as per the product dimensions above.<\/p>\n<h3>Can the Table Talkers be used outdoors?<\/h3>\n<p>Unfortunately, the Table Talkers are only designed for use indoors and they are not considered water or weatherproof.<\/p>\n<h3>Are the Table Talkers magnetic?<\/h3>\n<p>Yes! We have included 54 small circular magnets in each pack for suspending paper or card menus on the tabletop display, or you could opt to add a set of our Block Magnet Letters to spell out the daily specials or a menu.<\/p>\n<h3>How many letters come with the extra magnet letters?<\/h3>\n<p>Each pack of the optional magnet letters includes 524 characters in two font sizes (1,048 total). <\/p>\n<h3>How many Table Talkers will come in each pack?<\/h3>\n<p>Each pack comes with 6 Table Talkers and 54 small circular magnets.<\/p>\n<h3>What material is the metal menu sign made from?<\/h3>\n<p>The standing menu signs are made from magnetic steel and the base is crafted from beechwood.<\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"\/products\/counter-signs\" target=\"_blank\">Counter Signs<\/a>, the <a href=\"\/products\/standing-counter-signs\" target=\"_blank\">Standing Counter Signs<\/a>, the <a href=\"\/products\/table-top-sign\" target=\"_blank\" title=\"Tabletop Sign\">Tabletop Sign<\/a>, the <a href=\"\/products\/circle-sign\" target=\"_blank\" title=\"George &amp; Willy Circle Store Sign\">Circle Sign<\/a>, and the <a href=\"\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a> for something a little different. Have a look at our complete <a href=\"\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
@@ -121,7 +121,7 @@
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "71d53735-ebfe-4222-a023-951cf8c6117e",
         "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
-        "d1312125-1013-47f1-9b7d-553dc630fa64",
+        "5381ce67-c25d-41aa-8751-b071eb475711",
         "bce194fb-2905-40b4-a870-732bd608f8e1"
       ],
       "settings": {
@@ -137,17 +137,17 @@
         "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
       }
     },
-    "16557729912b77a1b6": {
+    "d47de0ae-f7df-4ba6-b2d8-a627e988f8d0": {
       "type": "image-with-text",
       "disabled": true,
       "settings": {
         "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/George-_-Willy-307.jpg",
+        "image": "shopify:\/\/shop_images\/Menu-holder-for-table.jpg",
         "image_width": 700,
         "subheading": "",
-        "title": "A little bit fancy",
+        "title": "Display Your Way",
         "use_h1": false,
-        "text": "<p>The brass details of the Reserved Sign adds something extra.<\/p>",
+        "text": "<p>Opt to mount on the wall or tables using the base provided.<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -157,41 +157,21 @@
         "use_alt_bg": false
       }
     },
-    "16557738973d9ad62e": {
+    "76b01962-b572-4ae4-9850-321c4a5d3b28": {
       "type": "image-with-text",
       "disabled": true,
       "settings": {
         "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/Reserved-Sign_-6.jpg",
+        "image": "shopify:\/\/shop_images\/Tabletop_Menu_Displays.gif",
         "image_width": 700,
         "subheading": "",
-        "title": "Black Stained Oak",
+        "title": "You've Got Options",
         "use_h1": false,
-        "text": "<p>Crafted from black stained oak, the Reserved Signs have a quality weight to them and will wear nicely with time.<\/p>",
+        "text": "<p>Display menus or messages with printed paper, vinyl decals, or add some magnet letters.<\/p>",
         "button_label": "",
         "button_link": "",
-        "button_style": "link",
+        "button_style": "primary",
         "image_position": "left",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "1655433090c7499e59": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/G_W211210_10179-new-_1.jpg",
-        "image_width": 700,
-        "subheading": "",
-        "title": "Packaging Worth Keeping",
-        "use_h1": false,
-        "text": "<p>No plastic in sight. Your Reserved Signs are packaged in a wooden box, designed for keeping.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "link",
-        "image_position": "right",
         "text_alignment": "center",
         "image_size": 150,
         "use_alt_bg": false
@@ -266,9 +246,8 @@
   },
   "order": [
     "main",
-    "16557729912b77a1b6",
-    "16557738973d9ad62e",
-    "1655433090c7499e59",
+    "d47de0ae-f7df-4ba6-b2d8-a627e988f8d0",
+    "76b01962-b572-4ae4-9850-321c4a5d3b28",
     "1655433418cebadf50",
     "16534294759f628925",
     "1655859379d08f0f7b",

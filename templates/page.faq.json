@@ -258,8 +258,8 @@
         "1656286083ec94212d-0": {
           "type": "question",
           "settings": {
-            "title": "Can I open a Trade or Wholesale account?",
-            "answer": "<p>To apply for a trade account or request a wholesale discount, please email us at <a href=\"mailto:%20sales@georgeandwilly.com\" target=\"_blank\">sales@georgeandwilly.com<\/a>.<\/p>"
+            "title": "Do you offer bulk or Trade discounts?",
+            "answer": "<p>If you are looking to place an order for 20 or more units, please email our trade team at <a href=\"mailto:trade@georgeandwilly.com\" target=\"_blank\">trade@georgeandwilly.com<\/a>. <\/p><p>Otherwise, please order directly from our website and click the quantity dropdown to receive a discount on multiple units.<\/p>"
           }
         }
       },

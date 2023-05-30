@@ -2,18 +2,12 @@
   "sections": {
     "1656282874193e6b8a": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
-        "330fca5b-1f37-4a51-9d31-2bcc828dcf9f": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Quality Signage, Letter Boards, and Home Products for Creative Spaces.<\/p>",
-            "enlarge_text": true
-          }
-        },
         "828ee978-0cc4-47bd-8898-1add463d3b8e": {
           "type": "button",
           "settings": {
-            "button_label": "Shop",
+            "button_label": "Shop All",
             "button_link": "shopify:\/\/collections\/all",
             "button_style": "primary"
           }
@@ -21,52 +15,42 @@
         "82677f51-5833-4c02-bfb6-4badbf7eca49": {
           "type": "button",
           "settings": {
-            "button_label": "Blog",
-            "button_link": "shopify:\/\/blogs\/blog",
+            "button_label": "Shop Signage",
+            "button_link": "shopify:\/\/collections\/signage",
             "button_style": "primary"
           }
         },
         "3afaf882-dc37-4256-afad-9522f9ea2e0b": {
           "type": "button",
           "settings": {
-            "button_label": "sign up for our emails",
-            "button_link": "https:\/\/nz.georgeandwilly.com\/pages\/sign-up",
+            "button_label": "Shop menu Displays",
+            "button_link": "shopify:\/\/collections\/letter-menu-boards",
             "button_style": "primary"
           }
         },
         "093f35df-d7db-4db8-9b98-d32d7c380c23": {
           "type": "button",
           "settings": {
-            "button_label": "For Your Business",
-            "button_link": "shopify:\/\/collections\/for-your-business",
+            "button_label": "Shop Tabletop signs",
+            "button_link": "shopify:\/\/collections\/tabletop",
             "button_style": "primary"
           }
         },
         "f571e0c4-f5c9-4667-bfab-71293ad0329e": {
           "type": "button",
           "settings": {
-            "button_label": "For your home",
+            "button_label": "Shop Home Products",
             "button_link": "shopify:\/\/collections\/for-home",
-            "button_style": "primary"
-          }
-        },
-        "abc438e8-ee03-4e68-a948-6e13af6f7d2c": {
-          "type": "button",
-          "settings": {
-            "button_label": "Pinterest",
-            "button_link": "https:\/\/www.pinterest.nz\/georgeandwilly\/",
             "button_style": "primary"
           }
         }
       },
       "block_order": [
-        "330fca5b-1f37-4a51-9d31-2bcc828dcf9f",
         "828ee978-0cc4-47bd-8898-1add463d3b8e",
         "82677f51-5833-4c02-bfb6-4badbf7eca49",
         "3afaf882-dc37-4256-afad-9522f9ea2e0b",
         "093f35df-d7db-4db8-9b98-d32d7c380c23",
-        "f571e0c4-f5c9-4667-bfab-71293ad0329e",
-        "abc438e8-ee03-4e68-a948-6e13af6f7d2c"
+        "f571e0c4-f5c9-4667-bfab-71293ad0329e"
       ],
       "settings": {
         "height": "medium",
@@ -81,10 +65,61 @@
       "settings": {
         "full_width": false
       }
+    },
+    "88309ede-5fef-46e0-9c26-c878ec0cfee4": {
+      "type": "collection-list",
+      "blocks": {
+        "ec34ba0f-6841-4e68-8d9c-3df82cda71d1": {
+          "type": "collection",
+          "settings": {
+            "collection": "signage"
+          }
+        },
+        "a912c707-76e0-4a07-8672-838ed46cfd4b": {
+          "type": "collection",
+          "settings": {
+            "collection": "tabletop"
+          }
+        },
+        "e9c81866-a46e-4bbd-87d8-8b978b290b85": {
+          "type": "collection",
+          "settings": {
+            "collection": "letter-menu-boards",
+            "image": "shopify:\/\/shop_images\/220203_Fusillo-G_W_4-web.jpg"
+          }
+        },
+        "c5aaa502-3959-4188-ae46-c1b6310041b0": {
+          "type": "collection",
+          "settings": {
+            "collection": "for-home"
+          }
+        },
+        "7b6ca5d1-8624-4dd4-a5f5-f95ea0656c94": {
+          "type": "collection",
+          "settings": {
+            "collection": "all"
+          }
+        }
+      },
+      "block_order": [
+        "ec34ba0f-6841-4e68-8d9c-3df82cda71d1",
+        "a912c707-76e0-4a07-8672-838ed46cfd4b",
+        "e9c81866-a46e-4bbd-87d8-8b978b290b85",
+        "c5aaa502-3959-4188-ae46-c1b6310041b0",
+        "7b6ca5d1-8624-4dd4-a5f5-f95ea0656c94"
+      ],
+      "settings": {
+        "title": "Shop Our Range of Signage & Menu Displays",
+        "enable_carousel": false,
+        "grid": 3,
+        "use_alt_bg": false,
+        "full_width": true
+      }
     }
   },
   "order": [
     "1656282874193e6b8a",
-    "main"
+    "main",
+    "88309ede-5fef-46e0-9c26-c878ec0cfee4"
   ]
 }

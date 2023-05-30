@@ -31,6 +31,7 @@
     },
     "05c72be6-ebf5-43d7-a131-2ad85a44809c": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/aframe-review-banner-min.jpg",
         "mobile_image": "shopify:\/\/shop_images\/aframe-review-banner-mobile-min.jpg",
@@ -59,6 +60,7 @@
     },
     "1b2b2783-7d13-481d-8750-4750195154d9": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/aframe-usp-banner-min.jpg",
         "mobile_image": "shopify:\/\/shop_images\/aframe-usp-banner-mobile-min.jpg",
@@ -212,7 +214,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/North-lane-coffee_32dcc95c-8b97-4a80-8a3d-c38628d07d5d.jpg",
-            "alignment": "center center",
+            "alignment": "top center",
             "enlarge_image": true,
             "subheading": "",
             "title": "",

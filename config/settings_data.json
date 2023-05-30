@@ -1010,7 +1010,7 @@
     "coll_grid_show_count": true,
     "prod_thumb_shape": "square",
     "prod_thumb_crop": true,
-    "prod_thumb_mob_per_row": "1",
+    "prod_thumb_mob_per_row": "2",
     "prod_thumb_text_align": "left",
     "prod_thumb_hover_image": true,
     "quickbuy_style": "off",
@@ -1026,7 +1026,7 @@
     "prod_pre_order_label_show": false,
     "enable_product_reviews_collection": false,
     "swatch_enabled": true,
-    "swatch_option_name": "Color,Colour,Couleur,Farbe,Rail Colour,Letter Colour,Board Colour,Strap Colour",
+    "swatch_option_name": "Color,Colour,Couleur,Farbe,Rail Colour,Letter Colour,Board Colour,Strap Colour,Tile Colour",
     "swatch_method": "standard",
     "swatch_value_list": "White:#ffffff\nBlack:#000000\nBlue:#7897A1\nYellow:#FAD816\nPink:#EDD5DB\nSage:#97A685\nLight Grey:#CFCFCF\nDark Grey:#3A3B3B\nPurple:#C8B6FF\nMidnight Navy:#130734\nOat:#F1E8E4\nBronze:bronze.png\nGreen:green.png\nWooden:wooden.png\nAluminium:aluminium.png\nRaw:raw.png\nBrass:brass.png",
     "swatch_style": "icon_circle",
@@ -1065,14 +1065,12 @@
         "blocks": {
           "1478526632860": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "<p>Now Introducing our Counter Signs in Colour - <a href=\"\/collections\/counter-signs\" title=\"Counter Signs\">Shop Now!<\/a><\/p>"
+              "text": "<p>Enjoy 20% Off Sitewide - <a href=\"\/collections\/all\" title=\"All Products\">Shop Now!<\/a><\/p>"
             }
           },
           "b93d08c9-c6c1-4e86-b123-ec7a3f1f7fa8": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "<p>Lifetime Warranty  • 100 Day Returns • Express Shipping<\/p>"
             }
@@ -1086,9 +1084,9 @@
           "announcement_bar_col": "#f4c165",
           "announcement_text_col": "#fefbf4",
           "message_font_size": 15,
-          "show_social_icons": false,
+          "show_social_icons": true,
           "menu": "",
-          "show_country_selector": false,
+          "show_country_selector": true,
           "show_language_selector": false
         }
       },
