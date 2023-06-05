@@ -4009,9 +4009,10 @@
       $mobileDrawer.append($nav.clone());
 
       // add announcement bar items
+      $mobileDrawer.prepend($('.announcement-bar .header-disclosures').clone().removeClass('desktop-only'));
       var $mobileDrawerFooter = $('<div class="mobile-navigation-drawer__footer">').appendTo($mobileDrawer);
       $mobileDrawerFooter.append($('.announcement-bar .inline-menu').clone().removeClass('desktop-only'));
-      $mobileDrawerFooter.append($('.announcement-bar .header-disclosures').clone().removeClass('desktop-only'));
+      // $mobileDrawerFooter.append($('.announcement-bar .header-disclosures').clone().removeClass('desktop-only'));
       $mobileDrawerFooter.append($('.announcement-bar .social-links').clone().removeClass('desktop-only'));
 
       // ensure unique ids
