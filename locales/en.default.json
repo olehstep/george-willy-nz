@@ -467,7 +467,7 @@
     },
     "checkout": {
       "shipping": {
-        "shipping_method_notice": "Shipping to Australia? Orders under $1000AUD are not subject to import duties or GST. For orders over $1000AUD, you will be liable for duties and GST on import, of which the GST portion can be claimed back by businesses."
+        "shipping_method_notice": "Shipping to Australia? Orders over $1000AUD are liable for duties and GST on import, of which the GST portion can be claimed back by businesses."
       }
     }
   }

@@ -4,8 +4,8 @@
       "type": "image-with-text-overlay",
       "custom_css": [],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner-A-Frame-min.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Banner-A-Frame-Mike_2e0650bf-52b6-4975-9955-6501fed26f3f.jpg",
+        "image": "shopify:\/\/shop_images\/English.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/English-SQ.jpg",
         "image_position": "center center",
         "mobile_image_position": "center center",
         "height": "adapt",
@@ -25,7 +25,7 @@
         "button_url_2": "",
         "text_alignment": "center left",
         "full_width": true,
-        "mobile_overlay_under": false,
+        "mobile_overlay_under": true,
         "overlay_style": "no_background"
       }
     },
