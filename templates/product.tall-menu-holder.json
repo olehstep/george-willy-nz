@@ -77,6 +77,17 @@
         "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
           "type": "accordion",
           "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p> Large Menu Holder: 11\"\/27.9cm (H) x 8\"\/19.7cm (W)<\/p>\n<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/3464\/2627\/files\/Large_Menu_Holder_d5608c7e-b2d6-4834-bdc8-f3419bc9e121.pdf?v=1688685847\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "ee02958c-b5e6-4de9-b801-9fc3c6737141": {
+          "type": "accordion",
+          "settings": {
             "title": "Delivery & Returns",
             "icon": "box",
             "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
@@ -90,7 +101,7 @@
           "settings": {
             "title": "FAQs",
             "icon": "question_mark",
-            "content": "<h3>How big are the faceplates on the metal table signs?<\/h3>\n<p>The Large Table Talker faceplate is 16cm (W) x 22.7cm (H), perfect for mounting an A5 piece of paper or card, and the Small Table Talker faceplate is 11.5cm (W) x 16.4cm (H), ideal for A6.<\/p>\n<h3>Can I use both sides of the Table Talkers?<\/h3>\n<p>Yes, you can! The faceplate is blank and magnetic both sides, so you can add menus or magnetic letters to both.<\/p>\n<h3>Do paper or card menus come with the Table Talkers?<\/h3>\n<p>The Table Talkers do not come with card or paper menus, but they're very easy to have printed at your local stationery store and can be cut to size as per the product dimensions above.<\/p>\n<h3>Can the Table Talkers be used outdoors?<\/h3>\n<p>Unfortunately, the Table Talkers are only designed for use indoors and they are not considered water or weatherproof.<\/p>\n<h3>Are the Table Talkers magnetic?<\/h3>\n<p>Yes! We have included 54 small circular magnets in each pack for suspending paper or card menus on the tabletop display, or you could opt to add a set of our Block Magnet Letters to spell out the daily specials or a menu.<\/p>\n<h3>How many letters come with the extra magnet letters?<\/h3>\n<p>Each pack of the optional magnet letters includes 524 characters in two font sizes (1,048 total). <\/p>\n<h3>How many Table Talkers will come in each pack?<\/h3>\n<p>Each pack comes with 6 Table Talkers and 54 small circular magnets.<\/p>\n<h3>What material is the metal menu sign made from?<\/h3>\n<p>The standing menu signs are made from magnetic steel and the base is crafted from beechwood.<\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"\/products\/counter-signs\" target=\"_blank\">Counter Signs<\/a>, the <a href=\"\/products\/standing-counter-signs\" target=\"_blank\">Standing Counter Signs<\/a>, the <a href=\"\/products\/table-top-sign\" target=\"_blank\" title=\"Tabletop Sign\">Tabletop Sign<\/a>, the <a href=\"\/products\/circle-sign\" target=\"_blank\" title=\"George &amp; Willy Circle Store Sign\">Circle Sign<\/a>, and the <a href=\"\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a> for something a little different. Have a look at our complete <a href=\"\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>",
+            "content": "<h3>How big are the faceplates on the metal table signs?<\/h3>\n<p>The Large Menu Holder faceplate is 19.7cm (W) x 27.9cm (H).\n<\/p><h3>Can I use both sides of the Large Menu Holder?<\/h3>\n<p>Yes, you can! Both sides of the Menu Holder are clear so your paper can be printed on both sides.<\/p>\n<h3>Do paper or card menus come with the Large Menu Holders?<\/h3>\n<p>The Large Menu Holders do not come with card or paper menus, but they're very easy to have printed at your local stationery store and can be cut to size as per the product dimensions above.<\/p>\n<h3>Can the Large Menu Holders be used outdoors?<\/h3>\n<p>Unfortunately, the paper menu holders are only designed for use indoors and they are not considered water or weatherproof.<\/p>\n<h3>Are the Large Menu Holders magnetic?<\/h3>\n<p>The paper menu holders are not magnetic.<\/p>\n<h3>How many Large Menu Holders will come in each pack?<\/h3>\n<p>The Large Menu Holders are sold individually.<\/p>\n<h3>What material is the metal menu sign made from?<\/h3>\n<p>The standing menu signs are made from aluminum.<\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"\/products\/counter-signs\" target=\"_blank\">Counter Signs<\/a>, the <a href=\"\/products\/standing-counter-signs\" target=\"_blank\">Standing Counter Signs<\/a>, the <a href=\"\/products\/table-top-sign\" target=\"_blank\" title=\"Tabletop Sign\">Tabletop Sign<\/a>, the <a href=\"\/products\/circle-sign\" target=\"_blank\" title=\"George &amp; Willy Circle Store Sign\">Circle Sign<\/a>, and the <a href=\"\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a> for something a little different. Have a look at our complete <a href=\"\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
@@ -121,6 +132,7 @@
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "71d53735-ebfe-4222-a023-951cf8c6117e",
         "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "ee02958c-b5e6-4de9-b801-9fc3c6737141",
         "5381ce67-c25d-41aa-8751-b071eb475711",
         "bce194fb-2905-40b4-a870-732bd608f8e1"
       ],

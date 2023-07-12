@@ -1063,6 +1063,17 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "409c1031-117b-41a7-a136-b95973f25cb0": {
+            "type": "announcement",
+            "settings": {
+              "text": "<p>100 Day Returns, Lifetime Warranty, Express Shipping<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "409c1031-117b-41a7-a136-b95973f25cb0"
+        ],
         "custom_css": [],
         "settings": {
           "announcement_bar_col": "#f4c165",
@@ -1327,6 +1338,11 @@
       },
       "12543949710164844351": {
         "type": "shopify:\/\/apps\/hreflang-manager\/blocks\/gwa-hreflang\/35dc0b05-d599-4c8e-8584-8cd17768854a",
+        "disabled": false,
+        "settings": {}
+      },
+      "1877152918344802950": {
+        "type": "shopify:\/\/apps\/intelligems-price-testing\/blocks\/intelligems-script\/fa83b64c-0c77-4c0c-b4b2-b94b42f5ef19",
         "disabled": false,
         "settings": {}
       }

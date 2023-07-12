@@ -68,7 +68,7 @@
           "settings": {
             "title": "Specifications",
             "icon": "ruler",
-            "content": "<p>Cabinet: 680mm \/ 26.77\" (W)<br> 257.50mm \/ 10.14\" (H)<br> 377.50mm \/ 14.86\" (D)<br> Constructed from: Aluminum, Acrylic<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/3464\/2627\/files\/Pastry_Cabinet_Spec_Doc_1.pdf?v=1688606612\" target=\"_blank\">Download Specifications PDF<\/a><\/p>",
+            "content": "<p>Sign Face: 7\"cm x mm\/0.43\"<br>Sign Height: 12.3cm<br>Magnet Letters: 0.8cm x 0.5cm<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
@@ -79,18 +79,18 @@
           "settings": {
             "title": "Delivery & Returns",
             "icon": "box",
-            "content": "<p>Tracked Courier Rates from:<\/p><p>$25 AUD Australia via DHL<br>$10 NZD New Zealand via New Zealand Post<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties. Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
           }
         },
-        "d1312125-1013-47f1-9b7d-553dc630fa64": {
+        "021ebf5c-db46-4445-b57e-49081733d4c3": {
           "type": "accordion",
           "settings": {
             "title": "FAQs",
             "icon": "question_mark",
-            "content": "<h3>How big is the pastry cabinet case?<\/h3>\n<p>The countertop cabinet is 680mm L x 260mm H x 380mm D.  For more specific measurements, take a look at the Specifications PDF above.<\/p>\n<h3>Can I get the display cabinet in any other colors?<\/h3>\n<p>We provide the display case in three very versatile colors - black, brass, and white, and do not provide a custom powder-coasting service. If you'd like the display cabinet in a different color, speak to your local powder-coating expert and you can have the case customized to your needs.<\/p>\n<h3>Can I use a pen on the counter display case?<\/h3>\n<p>A dry-wipe or whiteboard pen could be used on the display case for displaying prices, but for neater menus, we'd recommend using our Pricing Signs, Large Pricing Signs, or the ever-popular Counter Signs<\/p>\n<h3>What other counter display options does George &amp; Willy sell?<\/h3>\n<p>For other counter and till display items, we also sell a range of <a href=\"\/collections\/counter-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Counter Signs<\/a>, including the <a href=\"\/products\/table-talkers\" rel=\"noopener noreferrer\" target=\"_blank\">Table Talkers<\/a>, <a href=\"\/products\/card-counter-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Card Counter Signs<\/a>, and <a href=\"\/products\/large-counter-signs\" rel=\"noopener noreferrer\" target=\"_blank\">Large Counter Signs<\/a>. For more options, take a look at our full range of <a href=\"\/collections\/tabletop\" rel=\"noopener noreferrer\" target=\"_blank\">Tabletop Signs<\/a>. <\/p>",
+            "content": "<h3>How big is the faceplate on the metal Standing Circle Counter Sign?<\/h3>\n<p>The faceplate on the metal Standing Circle Counter Sign measures 7cm\/2.7” x 4.5cm\/1.77”.<\/p>\n<h3>How many letters and numbers come with the Standing Circle Counter Signs?<\/h3>\n<p>Each order of the cabinet price signs comes with two sheets of magnet letters and numbers, with 1,680 symbols in total.<\/p>\n<h3>How many Standing Circle Counter Signs will come in each pack?<\/h3>\n<p>Each pack comes with 12 Counter Signs and two sheets of magnetic letters.<\/p>\n<h3>What material is the metal price sign made from?<\/h3>\n<p>The price and product signs are made from magnetic steel.<\/p>\n<h3>How can I display messages on the metal Standing Circle Counter Signs?<\/h3>\n<p>The Standing Circle Counter Signs can be used with the magnet letters supplied, or you could apply a vinyl decal for a more permanent message. <\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"\/products\/counter-signs\" target=\"_blank\" title=\"Counter Signs - Set of 12\">Counter Signs<\/a>, <a href=\"\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a>, the <a href=\"\/products\/pricing-signs\" target=\"_blank\">Pricing Signs<\/a>, the <a href=\"\/products\/table-talkers\" target=\"_blank\" title=\"Table Talkers - Set of 6\">Table Talkers<\/a>, and the <a href=\"\/products\/table-numbers\" target=\"_blank\" title=\"George and Willy Table Numbers\">Table Number Flags<\/a> for something different. Have a look at our complete <a href=\"\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
@@ -121,7 +121,7 @@
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "71d53735-ebfe-4222-a023-951cf8c6117e",
         "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
-        "d1312125-1013-47f1-9b7d-553dc630fa64",
+        "021ebf5c-db46-4445-b57e-49081733d4c3",
         "bce194fb-2905-40b4-a870-732bd608f8e1"
       ],
       "settings": {
@@ -135,66 +135,6 @@
         "enable_video_looping": false,
         "enable_var_img_grouping": false,
         "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
-      }
-    },
-    "16557729912b77a1b6": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/George-_-Willy-307.jpg",
-        "image_width": 700,
-        "subheading": "",
-        "title": "A little bit fancy",
-        "use_h1": false,
-        "text": "<p>The brass details of the Reserved Sign adds something extra.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "right",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "16557738973d9ad62e": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/Reserved-Sign_-6.jpg",
-        "image_width": 700,
-        "subheading": "",
-        "title": "Black Stained Oak",
-        "use_h1": false,
-        "text": "<p>Crafted from black stained oak, the Reserved Signs have a quality weight to them and will wear nicely with time.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "link",
-        "image_position": "left",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "1655433090c7499e59": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/G_W211210_10179-new-_1.jpg",
-        "image_width": 700,
-        "subheading": "",
-        "title": "Packaging Worth Keeping",
-        "use_h1": false,
-        "text": "<p>No plastic in sight. Your Reserved Signs are packaged in a wooden box, designed for keeping.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "link",
-        "image_position": "right",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
       }
     },
     "1655433418cebadf50": {
@@ -266,9 +206,6 @@
   },
   "order": [
     "main",
-    "16557729912b77a1b6",
-    "16557738973d9ad62e",
-    "1655433090c7499e59",
     "1655433418cebadf50",
     "16534294759f628925",
     "1655859379d08f0f7b",
