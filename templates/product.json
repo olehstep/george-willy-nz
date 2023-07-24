@@ -61,10 +61,6 @@
             "show_in_quickbuy": false
           }
         },
-        "cd934fed-7455-4572-9a30-c886bf9c7a33": {
-          "type": "shopify:\/\/apps\/moment-upsell-cross-sell\/blocks\/app-block\/f45260f1-d370-4d07-a8d1-df8d1390dc45",
-          "settings": {}
-        },
         "67b24d17-bd77-49fb-8832-19334a00a603": {
           "type": "image",
           "settings": {
@@ -73,61 +69,55 @@
             "show_in_quickbuy": false
           }
         },
-        "71d53735-ebfe-4222-a023-951cf8c6117e": {
-          "type": "accordion",
+        "4f072d32-a18e-461d-b627-760b788caf10": {
+          "type": "accordion_m",
           "settings": {
             "title": "Specifications",
             "icon": "ruler",
-            "content": "<p>Standing Sign: 785mm (H) x 610mm (W)<br\/>Hanging Face: 460mm (H) x 460mm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/A-frame_Sign_2021_Spec_Doc.pdf?v=1635364369\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "metafield_key": "custom.accordion_specification",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
           }
         },
-        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
-          "type": "accordion",
+        "475c9d63-3c3e-40e3-808f-38380617c94d": {
+          "type": "accordion_m",
           "settings": {
             "title": "Delivery & Returns",
             "icon": "box",
-            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 AUD Australia via DHL<br\/>$5 NZD New Zealand via Post Haste<\/p><p>Shipping to Australia may require additional duties.Please see our <a href=\"https:\/\/eu.georgeandwilly.com\/pages\/shipping\" target=\"_blank\">Shipping policy<\/a> for details.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George & Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "metafield_key": "custom.accordion_delivery_returns",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
           }
         },
-        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
-          "type": "accordion",
+        "3ae5490c-86e8-469d-a4d9-cdf50c07e974": {
+          "type": "accordion_m",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "metafield_key": "custom.accordion_faqs",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "c8b7b251-e8b6-43f1-95e0-c7b1b925dd43": {
+          "type": "accordion_m",
           "settings": {
             "title": "Assembly Instructions",
             "icon": "check_mark",
-            "content": "<p>Each Ceiling Menu Board comes with all the necessary hardware to get going, but take a look at our handy instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Ceiling_Menu_Board_Instructions_Web.pdf?v=1648173541\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "metafield_key": "custom.accordion_assembly_instructions",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
           }
         },
-        "bce194fb-2905-40b4-a870-732bd608f8e1": {
-          "type": "related_products",
-          "disabled": true,
+        "54a2cd51-2a3d-4f29-b229-0f7dc8cd8ffa": {
+          "type": "related_products_m",
           "settings": {
-            "title": "You may also like",
-            "product_list": [
-              "menu-stand",
-              "chalk-sandwich-board",
-              "large-sidewalk-sign",
-              "sandbag-for-a-frame-signs"
-            ]
-          }
-        },
-        "8248685b-1f8d-4703-b79f-a3fb9ee52d16": {
-          "type": "accordion",
-          "settings": {
-            "title": "Collapsible tab",
-            "icon": "",
-            "content": "<p>Collapsible tab content<\/p>",
-            "page": "",
-            "open": false,
-            "show_in_quickbuy": false
+            "metafield_key": "custom.related_products_title",
+            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}"
           }
         }
       },
@@ -140,13 +130,12 @@
         "buy_buttons",
         "c3a6e256-9bc0-48cb-8883-39d0b0f9e482",
         "description",
-        "cd934fed-7455-4572-9a30-c886bf9c7a33",
         "67b24d17-bd77-49fb-8832-19334a00a603",
-        "71d53735-ebfe-4222-a023-951cf8c6117e",
-        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
-        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
-        "bce194fb-2905-40b4-a870-732bd608f8e1",
-        "8248685b-1f8d-4703-b79f-a3fb9ee52d16"
+        "4f072d32-a18e-461d-b627-760b788caf10",
+        "475c9d63-3c3e-40e3-808f-38380617c94d",
+        "3ae5490c-86e8-469d-a4d9-cdf50c07e974",
+        "c8b7b251-e8b6-43f1-95e0-c7b1b925dd43",
+        "54a2cd51-2a3d-4f29-b229-0f7dc8cd8ffa"
       ],
       "settings": {
         "show_breadcrumbs": true,
@@ -163,6 +152,7 @@
     },
     "1655782236ac272a32": {
       "type": "video-with-text",
+      "disabled": true,
       "settings": {
         "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "autoplay": false,
@@ -180,6 +170,7 @@
     },
     "16557729912b77a1b6": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "section_bg": "#fefbf4",
         "image_width": 700,
@@ -198,6 +189,7 @@
     },
     "16557738973d9ad62e": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "section_bg": "#fefbf4",
         "image_width": 700,
@@ -216,6 +208,7 @@
     },
     "1655433198f962eeff": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "165543319826c41f8e-0": {
           "type": "heading",
@@ -237,6 +230,7 @@
     },
     "1655433236359d8bea": {
       "type": "gallery",
+      "disabled": true,
       "blocks": {
         "1655433236f8245331-0": {
           "type": "image",
@@ -312,6 +306,7 @@
     },
     "1655433090c7499e59": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "section_bg": "#fefbf4",
         "image_width": 700,
@@ -330,6 +325,7 @@
     },
     "1655772436403e149e": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "section_bg": "#fefbf4",
         "image_width": 700,
@@ -348,6 +344,7 @@
     },
     "16526710842008a0ba": {
       "type": "video-with-text",
+      "disabled": true,
       "settings": {
         "video": "https:\/\/vimeo.com\/707646730",
         "autoplay": true,
@@ -365,6 +362,7 @@
     },
     "1655774410962ffd05": {
       "type": "multi-column",
+      "disabled": true,
       "blocks": {
         "16557744107194dac7-0": {
           "type": "text_block",
@@ -414,6 +412,7 @@
     },
     "1655433418cebadf50": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image_position": "center center",
         "mobile_image_position": "center center",
@@ -440,6 +439,7 @@
     },
     "16534294759f628925": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Similar items",
         "collection": "sidewalk-signs",
