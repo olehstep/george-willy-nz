@@ -156,6 +156,8 @@
     "1655433418cebadf50": {
       "type": "image-with-text-overlay",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px_60860835-0bff-4c42-bb60-cfb4ec616175.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px_60860835-0bff-4c42-bb60-cfb4ec616175.jpg",
         "image_position": "center center",
         "mobile_image_position": "center center",
         "height": "adapt",
