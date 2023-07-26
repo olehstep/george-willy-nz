@@ -5,7 +5,8 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+          }
         },
         "price": {
           "type": "price",
@@ -16,7 +17,8 @@
         },
         "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+          }
         },
         "divider": {
           "type": "divider",
@@ -115,6 +117,7 @@
         },
         "54a2cd51-2a3d-4f29-b229-0f7dc8cd8ffa": {
           "type": "related_products_m",
+          "disabled": true,
           "settings": {
             "metafield_key": "custom.related_products_title",
             "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}"
@@ -150,269 +153,8 @@
         "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
       }
     },
-    "1655782236ac272a32": {
-      "type": "video-with-text",
-      "disabled": true,
-      "settings": {
-        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "autoplay": false,
-        "subheading": "",
-        "title": "Video with text",
-        "use_h1": false,
-        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.<\/p>",
-        "button_label": "Read more",
-        "button_link": "",
-        "button_style": "primary",
-        "video_position": "left",
-        "text_alignment": "left",
-        "use_alt_bg": false
-      }
-    },
-    "16557729912b77a1b6": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image_width": 700,
-        "subheading": "",
-        "title": "Easy Carry, Easy Stow",
-        "use_h1": false,
-        "text": "<p>Lift it up, Fold it flat, and place it out of the way, ready for tomorrow.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "right",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "16557738973d9ad62e": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image_width": 700,
-        "subheading": "",
-        "title": "Need Something Bigger?",
-        "use_h1": false,
-        "text": "<p>Have you seen the Large Sidewalk Sign?<\/p>",
-        "button_label": "EXPLORE LARGE SIDEWALK SIGN",
-        "button_link": "shopify:\/\/products\/large-sidewalk-sign",
-        "button_style": "link",
-        "image_position": "left",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "1655433198f962eeff": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "165543319826c41f8e-0": {
-          "type": "heading",
-          "settings": {
-            "title": "See How They Are Used",
-            "use_h1": false
-          }
-        }
-      },
-      "block_order": [
-        "165543319826c41f8e-0"
-      ],
-      "settings": {
-        "height": "small",
-        "text_alignment": "center",
-        "full_width": true,
-        "use_alt_bg": false
-      }
-    },
-    "1655433236359d8bea": {
-      "type": "gallery",
-      "disabled": true,
-      "blocks": {
-        "1655433236f8245331-0": {
-          "type": "image",
-          "settings": {
-            "alignment": "center center",
-            "enlarge_image": true,
-            "subheading": "@fixandfogg",
-            "title": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "1655433236f8245331-1": {
-          "type": "image",
-          "settings": {
-            "alignment": "center center",
-            "enlarge_image": true,
-            "subheading": "@rocknrosie*",
-            "title": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "1655433236f8245331-2": {
-          "type": "image",
-          "settings": {
-            "alignment": "center center",
-            "enlarge_image": true,
-            "subheading": "@jlqjfbw",
-            "title": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        },
-        "1655433236f8245331-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/A-Frame-Sign.1.jpg",
-            "alignment": "center center",
-            "enlarge_image": true,
-            "subheading": "@parlourprojects",
-            "title": "",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "bottom left"
-          }
-        }
-      },
-      "block_order": [
-        "1655433236f8245331-0",
-        "1655433236f8245331-1",
-        "1655433236f8245331-2",
-        "1655433236f8245331-3"
-      ],
-      "settings": {
-        "gallery_title": "",
-        "grid": 2,
-        "desktop_image_height": 400,
-        "mobile_image_height": 400,
-        "title_size": 36,
-        "title_size_mobile": 40,
-        "enable_margin": true,
-        "enable_row_spacing": false,
-        "full_width": true,
-        "use_alt_bg": false,
-        "enable_carousel": false,
-        "overlay_style": "no_background",
-        "button_style": "secondary"
-      }
-    },
-    "1655433090c7499e59": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image_width": 700,
-        "subheading": "",
-        "title": "Bit Windy?",
-        "use_h1": false,
-        "text": "<p>Add a Sandbag to keep your sign stable <\/p><p>(only required in very windy locations)<\/p>",
-        "button_label": "Shop Now",
-        "button_link": "shopify:\/\/products\/sandbag-for-a-frame-signs",
-        "button_style": "link",
-        "image_position": "right",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "1655772436403e149e": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image_width": 700,
-        "subheading": "",
-        "title": "A Little Bit Fancy",
-        "use_h1": false,
-        "text": "<p>Bronze details give the A-Frame Sign something extra.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "left",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "16526710842008a0ba": {
-      "type": "video-with-text",
-      "disabled": true,
-      "settings": {
-        "video": "https:\/\/vimeo.com\/707646730",
-        "autoplay": true,
-        "subheading": "",
-        "title": "Applying a vinyl sticker",
-        "use_h1": false,
-        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local signwriter. It's much easier than it sounds, so we thought we'd show you how. <\/p>",
-        "button_label": "Read more",
-        "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
-        "button_style": "link",
-        "video_position": "left",
-        "text_alignment": "center",
-        "use_alt_bg": false
-      }
-    },
-    "1655774410962ffd05": {
-      "type": "multi-column",
-      "disabled": true,
-      "blocks": {
-        "16557744107194dac7-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "All Weather",
-            "text": "<p>100% Rust Free<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "16557744107194dac7-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Plastic Free Packaging",
-            "text": "<p>Designed with care<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "16557744107194dac7-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 700,
-            "title": "Lifetime Warranty",
-            "text": "<p>Made to last<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16557744107194dac7-0",
-        "16557744107194dac7-1",
-        "16557744107194dac7-2"
-      ],
-      "settings": {
-        "title": "Details You Will Love",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "use_alt_bg": false
-      }
-    },
     "1655433418cebadf50": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "image_position": "center center",
         "mobile_image_position": "center center",
@@ -437,12 +179,10 @@
         "overlay_style": "shadow"
       }
     },
-    "16534294759f628925": {
-      "type": "featured-collection",
-      "disabled": true,
+    "bd072459-1cf0-4a65-bb5b-a67899153079": {
+      "type": "metafields_featured-collection",
       "settings": {
-        "title": "Similar items",
-        "collection": "sidewalk-signs",
+        "metafield_key": "custom.featured_collection",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
@@ -457,7 +197,8 @@
       "blocks": {
         "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -479,17 +220,8 @@
   },
   "order": [
     "main",
-    "1655782236ac272a32",
-    "16557729912b77a1b6",
-    "16557738973d9ad62e",
-    "1655433198f962eeff",
-    "1655433236359d8bea",
-    "1655433090c7499e59",
-    "1655772436403e149e",
-    "16526710842008a0ba",
-    "1655774410962ffd05",
     "1655433418cebadf50",
-    "16534294759f628925",
+    "bd072459-1cf0-4a65-bb5b-a67899153079",
     "1655859379d08f0f7b",
     "recommendations"
   ]
