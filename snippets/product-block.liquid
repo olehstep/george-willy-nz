@@ -86,12 +86,12 @@
             <a class="image-page-button image-page-button--next" href="#" aria-label="{{ 'general.accessibility_labels.previous' | t | escape }}" tabindex="-1">{%- render 'svg-chevron-right', stroke_width: 1.3 -%}</a>
           {%- endif -%}
         
-          {% if request.page_type == 'collection' %}
-          {% if settings.cf04_imp %}
-          <div class="cf_04 overlay-cta">
-            <a href="{{ product_url }}">{{ settings.btn_text }}</a>
-          </div>
-          {% endif %}
+          {% if enable_button %}
+            {% if settings.cf04_imp %}
+            <div class="cf_04 overlay-cta">
+              <a href="{{ product_url }}">{{ settings.btn_text }}</a>
+            </div>
+            {% endif %}
           {% endif %}
         
           {% if settings.quickbuy_style == 'button' %}
