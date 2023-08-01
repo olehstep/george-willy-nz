@@ -57,7 +57,7 @@
               endif
             -%}
             {% for product in collection.products limit: product_limit %}
-              {% render 'product-block', product: product, manual_image_load: section.settings.enable_carousel, custom_aspect_ratio: chosen_aspect_ratio, no_swiping: section.settings.enable_carousel, no_quick_buy_markup: section.settings.enable_carousel %}
+              {% render 'product-block', product: product, manual_image_load: section.settings.enable_carousel, custom_aspect_ratio: chosen_aspect_ratio, no_swiping: section.settings.enable_carousel, no_quick_buy_markup: section.settings.enable_carousel, enable_button: section.settings.enable_button %}
             {% endfor %}
           {% endif %}
         </div>
@@ -137,6 +137,12 @@
         "id": "full_width",
         "type": "checkbox",
         "label": "Full page width",
+        "default": true
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_button",
+        "label": "Enable 'Shop now' button",
         "default": true
       }
     ],
