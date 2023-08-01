@@ -298,7 +298,7 @@
               endif
             -%}
             {% for product in collection.products %}
-              {% render 'product-block', product: product, custom_aspect_ratio: chosen_aspect_ratio, animate: true %}
+              {% render 'product-block', product: product, custom_aspect_ratio: chosen_aspect_ratio, animate: true, enable_button: section.settings.enable_button %}
             {% endfor %}
           </div>
         {% endif %}
@@ -648,6 +648,12 @@
         "type": "checkbox",
         "label": "Full page width",
         "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_button",
+        "label": "Enable 'Shop now' button",
+        "default": true
       },
       {
         "id": "subcoll_gall_overlay_style",
