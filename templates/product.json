@@ -146,7 +146,7 @@
         "inventory_transfers_enable": true,
         "enable_sticky_columns": true,
         "gallery_size": "large",
-        "gallery_layout": "columns-2",
+        "gallery_layout": "carousel-under",
         "enable_zoom": true,
         "enable_video_looping": false,
         "enable_var_img_grouping": false,
