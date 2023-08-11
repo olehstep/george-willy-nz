@@ -1029,7 +1029,7 @@
     "swatch_enabled": true,
     "swatch_option_name": "Color,Colour,Couleur,Farbe,Rail Colour,Letter Colour,Board Colour,Strap Colour,Tile Colour",
     "swatch_method": "standard",
-    "swatch_value_list": "White:#ffffff\nBlack:#000000\nBlue:#7897A1\nYellow:#FAD816\nPink:#EDD5DB\nSage:#97A685\nLight Grey:#CFCFCF\nDark Grey:#3A3B3B\nPurple:#C8B6FF\nMidnight Navy:#130734\nOat:#F1E8E4\nBronze:bronze.png\nGreen:green.png\nWooden:wooden.png\nAluminium:aluminium.png\nRaw:raw.png\nBrass:brass.png",
+    "swatch_value_list": "White:#ffffff\nBlack:#000000\nBlue:#7897A1\nYellow:#FAD816\nPink:#EDD5DB\nSage:#97A685\nStone:#CFCFCF\nDark Grey:#3A3B3B\nPurple:#C8B6FF\nNavy:#130734\nOat:#F1E8E4\nBronze:bronze.png\nGreen:green.png\nWooden:wooden.png\nAluminium:aluminium.png\nRaw:raw.png\nBrass:brass.png",
     "swatch_style": "icon_circle",
     "swatch_picker_image_size": 40,
     "enable_filter_swatches": true,
