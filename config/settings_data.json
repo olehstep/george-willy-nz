@@ -1144,13 +1144,13 @@
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/george-and-willy.png",
-          "logo_img_width_int": 180,
+          "logo_img_width_int": 160,
           "mobile_logo_img_width_int": 150,
           "enable_sticky": true,
           "enable_transparent": false,
           "transparent_color": "#fefbf4",
           "menu_linklist": "header-menu",
-          "menu_layout": "underneath",
+          "menu_layout": "inline-menu-center",
           "nav_featured_link": "Sale",
           "enable_mobile_promo_carousel": true,
           "enable_nav_mob_products": true,
@@ -1159,7 +1159,7 @@
           "enable_search": true,
           "search_suggestions_title": "What are you looking for?",
           "search_suggestions_menu": "collection-sidebar",
-          "icon_strategy": "icons_cart_search",
+          "icon_strategy": "icons_only",
           "cart_icon": "bag"
         }
       },
