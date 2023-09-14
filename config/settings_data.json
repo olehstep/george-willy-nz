@@ -1079,7 +1079,7 @@
 
         ],
         "settings": {
-          "announcement_bar_col": "#f4c165",
+          "announcement_bar_col": "#2e4737",
           "announcement_text_col": "#fefbf4",
           "message_font_size": 15,
           "show_social_icons": true,
