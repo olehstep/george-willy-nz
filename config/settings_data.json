@@ -1143,10 +1143,7 @@
           "1b4dee60-d0ca-4db8-9ccc-82d7d2d6f337"
         ],
         "custom_css": [
-          ".logo-area {height: 55px; display: flex; align-items: center; justify-content: space-between;}",
-          ".navigation__tier-1 {display: flex; align-items: center; justify-content: center; height: 100%; }",
-          ".navigation__item {text-align: center; margin: 0 10px; }",
-          ".logo-area__left,.logo-area__middle,.logo-area__right {padding: 0px; }"
+
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/george-and-willy.png",
