@@ -1042,7 +1042,7 @@
     "search_type": "product,article,page",
     "enable_live_search": true,
     "live_search_show_vendor": false,
-    "live_search_show_price": false,
+    "live_search_show_price": true,
     "live_search_search_meta": true,
     "favicon": "shopify:\/\/shop_images\/G_W-FAVICON_e4b49149-4431-4385-b5cd-52dde538215c.png",
     "cart_type": "page",
@@ -1091,24 +1091,6 @@
       "header": {
         "type": "header",
         "blocks": {
-          "69b6636e-6119-41fe-89b1-f1082f1e8eb9": {
-            "type": "menu-promotion-small",
-            "settings": {
-              "dropdown_link_title": "SHOP SIGNAGE",
-              "image": "shopify:\/\/shop_images\/Hanging_Menu_Board_-5778.jpg",
-              "title": "Menu Displays",
-              "link_url": "shopify:\/\/collections\/letter-menu-boards"
-            }
-          },
-          "33b0495e-6d61-492d-9044-83f901ee541a": {
-            "type": "menu-promotion-small",
-            "settings": {
-              "dropdown_link_title": "SHOP SIGNAGE",
-              "image": "shopify:\/\/shop_images\/jpg_d69a1286-0f7c-403d-b1db-fba621281ee1.jpg",
-              "title": "Signage",
-              "link_url": "shopify:\/\/collections\/signage"
-            }
-          },
           "674b9dfb-393a-4ff4-ae00-ef8391945a4d": {
             "type": "image-for-mobile-menu",
             "settings": {
@@ -1150,20 +1132,42 @@
               "top_level_link_title": "Shipping",
               "image": "shopify:\/\/shop_images\/SHIPPING.jpg"
             }
+          },
+          "33b0495e-6d61-492d-9044-83f901ee541a": {
+            "type": "menu-promotion-small",
+            "settings": {
+              "dropdown_link_title": "SHOP SIGNAGE",
+              "image": "shopify:\/\/shop_images\/jpg_d69a1286-0f7c-403d-b1db-fba621281ee1.jpg",
+              "title": "Signage",
+              "link_url": "shopify:\/\/collections\/signage"
+            }
+          },
+          "69b6636e-6119-41fe-89b1-f1082f1e8eb9": {
+            "type": "menu-promotion-small",
+            "settings": {
+              "dropdown_link_title": "SHOP SIGNAGE",
+              "image": "shopify:\/\/shop_images\/Hanging_Menu_Board_-5778.jpg",
+              "title": "Menu Displays",
+              "link_url": "shopify:\/\/collections\/letter-menu-boards"
+            }
           }
         },
         "block_order": [
-          "69b6636e-6119-41fe-89b1-f1082f1e8eb9",
-          "33b0495e-6d61-492d-9044-83f901ee541a",
           "674b9dfb-393a-4ff4-ae00-ef8391945a4d",
           "9967c8ca-ff18-4f5c-82b8-b82caa420b0d",
           "30045e11-e87d-452e-84b3-f10ef0771e52",
           "c023dfc6-95d3-498a-9170-78f347301be7",
           "c99200b8-1ec0-4716-a3c9-008dcf1581f9",
-          "1b4dee60-d0ca-4db8-9ccc-82d7d2d6f337"
+          "1b4dee60-d0ca-4db8-9ccc-82d7d2d6f337",
+          "33b0495e-6d61-492d-9044-83f901ee541a",
+          "69b6636e-6119-41fe-89b1-f1082f1e8eb9"
         ],
         "custom_css": [
-          "a:hover {color: #b0272a;}"
+          "a:hover {color: #b0272a;}",
+          ".logo-area {height: 50px; display: flex; align-items: center; justify-content: space-between;}",
+          ".navigation__tier-1 {display: flex; align-items: center; justify-content: center; height: 100%;}",
+          ".navigation__item {text-align: center; margin: 0 10px;}",
+          ".logo-area__left,.logo-area__middle,.logo-area__right {padding: 0px;}"
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/george-and-willy.png",
