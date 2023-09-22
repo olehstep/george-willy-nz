@@ -1152,7 +1152,7 @@
           "enable_sticky": false,
           "enable_transparent": false,
           "transparent_color": "#fefbf4",
-          "menu_linklist": "header-menu",
+          "menu_linklist": "header-mega-nav",
           "menu_layout": "inline-menu-center",
           "nav_featured_link": "Sale",
           "enable_mobile_promo_carousel": true,
