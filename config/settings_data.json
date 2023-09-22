@@ -1163,7 +1163,7 @@
           "69b6636e-6119-41fe-89b1-f1082f1e8eb9"
         ],
         "custom_css": [
-
+          "a:hover {color: #b0272a;}"
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/george-and-willy.png",
