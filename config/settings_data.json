@@ -1141,6 +1141,15 @@
               "title": "Signage",
               "link_url": "shopify:\/\/collections\/signage"
             }
+          },
+          "69b6636e-6119-41fe-89b1-f1082f1e8eb9": {
+            "type": "menu-promotion-small",
+            "settings": {
+              "dropdown_link_title": "SHOP SIGNAGE",
+              "image": "shopify:\/\/shop_images\/Hanging_Menu_Board_-5778.jpg",
+              "title": "Menu Displays",
+              "link_url": "shopify:\/\/collections\/letter-menu-boards"
+            }
           }
         },
         "block_order": [
@@ -1150,7 +1159,8 @@
           "c023dfc6-95d3-498a-9170-78f347301be7",
           "c99200b8-1ec0-4716-a3c9-008dcf1581f9",
           "1b4dee60-d0ca-4db8-9ccc-82d7d2d6f337",
-          "33b0495e-6d61-492d-9044-83f901ee541a"
+          "33b0495e-6d61-492d-9044-83f901ee541a",
+          "69b6636e-6119-41fe-89b1-f1082f1e8eb9"
         ],
         "custom_css": [
 
