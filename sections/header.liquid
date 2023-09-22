@@ -393,7 +393,6 @@
                   {% endif %}
                 {% endif %}
               {%- endfor -%}
-              
               <a href="{{ link.url }}" class="navigation__link" {% if has_dropdown %}aria-haspopup="true" aria-expanded="false" aria-controls="NavigationTier2-{{ forloop.index }}"{% endif %}>
                 {{- link.title | escape -}}
               </a>
@@ -600,12 +599,6 @@
 {%- endif -%}
 
 {%- endif -%}
-
-
-
-
-
-
 
 
 {% schema %}
