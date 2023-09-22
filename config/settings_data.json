@@ -1101,7 +1101,7 @@
           "9967c8ca-ff18-4f5c-82b8-b82caa420b0d": {
             "type": "image-for-mobile-menu",
             "settings": {
-              "top_level_link_title": "Signage",
+              "top_level_link_title": "SHOP SIGNAGE",
               "image": "shopify:\/\/shop_images\/SIGNAGE.jpg"
             }
           },
@@ -1163,11 +1163,7 @@
           "69b6636e-6119-41fe-89b1-f1082f1e8eb9"
         ],
         "custom_css": [
-          "a:hover {color: #b0272a;}",
-          ".logo-area {height: 50px; display: flex; align-items: center; justify-content: space-between;}",
-          ".navigation__tier-1 {display: flex; align-items: center; justify-content: center; height: 100%;}",
-          ".navigation__item {text-align: center; margin: 0 10px;}",
-          ".logo-area__left,.logo-area__middle,.logo-area__right {padding: 0px;}"
+          "a:hover {color: #b0272a;}"
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/george-and-willy.png",
