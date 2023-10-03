@@ -15,11 +15,11 @@
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "Looking for Creative Signage <br> Products To Enhance Your Brand?",
+        "title": "\"This is the only company that <br>makes attractive signage products\" <br>",
         "title_size": 40,
         "title_size_mobile": 22,
         "use_h1": true,
-        "text": "",
+        "text": "<p>Phoebe Paterson @mondayjournal<\/p>",
         "enlarge_text": false,
         "button_label_1": "Shop Now",
         "button_url_1": "shopify:\/\/collections\/all",
@@ -552,7 +552,7 @@
       "type": "apps",
       "blocks": {
         "0139cd3e-3209-4d78-80f1-a7ac94ca6786": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
