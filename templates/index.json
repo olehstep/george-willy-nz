@@ -20,7 +20,7 @@
         "title_size_mobile": 22,
         "use_h1": true,
         "text": "<p>Phoebe Paterson @mondayjournal<\/p>",
-        "enlarge_text": false,
+        "enlarge_text": true,
         "button_label_1": "Shop Now",
         "button_url_1": "shopify:\/\/collections\/all",
         "button_label_2": "",
