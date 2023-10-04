@@ -4439,7 +4439,7 @@
     if ($slideshow.length) {
       var slickConfig = {
         autoplay: false,
-        fade: false,
+        fade: true,
         infinite: true,
         useTransform: true,
         dots: false,
