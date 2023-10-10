@@ -1050,6 +1050,8 @@
     "image_09_desktop": "shopify:\/\/shop_images\/trust_seals.png",
     "cf08_imp": false,
     "cf23_imp": false,
+    "cf25_imp": false,
+    "cf251_imp": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/George_and_Willy_Logo.jpg",
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
