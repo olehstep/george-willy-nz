@@ -587,6 +587,20 @@
         "image_size": 150,
         "use_alt_bg": false
       }
+    },
+    "1fc5f49d-5f7f-442d-a069-706d871813fb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop the Sale",
+        "collection": "sale",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 3,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -605,6 +619,7 @@
     "165577959876ffd4fb",
     "16578285197d2e1681",
     "165889340412ae2566",
-    "165578347791355877"
+    "165578347791355877",
+    "1fc5f49d-5f7f-442d-a069-706d871813fb"
   ]
 }
