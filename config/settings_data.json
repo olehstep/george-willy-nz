@@ -1070,10 +1070,17 @@
             "settings": {
               "text": "<p>Free Shipping Over $400 - <a href=\"\/collections\/all\" title=\"All Products\">Shop Now!<\/a><\/p>"
             }
+          },
+          "a5466b8b-534c-4423-b1b7-f6a55d74f853": {
+            "type": "announcement",
+            "settings": {
+              "text": "<p>Sale On Now! Up to 40% Off - <a href=\"\/collections\/sale\" title=\"Sale\">Shop Now<\/a><\/p>"
+            }
           }
         },
         "block_order": [
-          "409c1031-117b-41a7-a136-b95973f25cb0"
+          "409c1031-117b-41a7-a136-b95973f25cb0",
+          "a5466b8b-534c-4423-b1b7-f6a55d74f853"
         ],
         "custom_css": [
 
