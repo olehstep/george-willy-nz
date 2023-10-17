@@ -1136,6 +1136,13 @@
               "image": "shopify:\/\/shop_images\/FOR_YOUR_HOME.jpg"
             }
           },
+          "e9c8a5b7-e4fb-4845-a81d-ba7c53353ca6": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "Sale",
+              "image": "shopify:\/\/shop_images\/counter-signs_fdfdf657-869b-48a1-9b41-6da7a013fd7d.jpg"
+            }
+          },
           "1b4dee60-d0ca-4db8-9ccc-82d7d2d6f337": {
             "type": "image-for-mobile-menu",
             "settings": {
@@ -1160,13 +1167,6 @@
               "title": "Menu Displays",
               "link_url": "shopify:\/\/collections\/letter-menu-boards"
             }
-          },
-          "e9c8a5b7-e4fb-4845-a81d-ba7c53353ca6": {
-            "type": "image-for-mobile-menu",
-            "settings": {
-              "top_level_link_title": "Sale",
-              "image": "shopify:\/\/shop_images\/counter-signs_fdfdf657-869b-48a1-9b41-6da7a013fd7d.jpg"
-            }
           }
         },
         "block_order": [
@@ -1175,10 +1175,10 @@
           "30045e11-e87d-452e-84b3-f10ef0771e52",
           "c023dfc6-95d3-498a-9170-78f347301be7",
           "c99200b8-1ec0-4716-a3c9-008dcf1581f9",
+          "e9c8a5b7-e4fb-4845-a81d-ba7c53353ca6",
           "1b4dee60-d0ca-4db8-9ccc-82d7d2d6f337",
           "33b0495e-6d61-492d-9044-83f901ee541a",
-          "69b6636e-6119-41fe-89b1-f1082f1e8eb9",
-          "e9c8a5b7-e4fb-4845-a81d-ba7c53353ca6"
+          "69b6636e-6119-41fe-89b1-f1082f1e8eb9"
         ],
         "custom_css": [
           "a:hover {color: #b0272a;}"
