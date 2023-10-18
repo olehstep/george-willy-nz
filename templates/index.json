@@ -132,20 +132,6 @@
         "head_not_mob_url": ""
       }
     },
-    "1fc5f49d-5f7f-442d-a069-706d871813fb": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Shop the Sale",
-        "collection": "sale",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "use_alt_bg": false,
-        "show_view_all": true,
-        "full_width": true
-      }
-    },
     "1651721243512d65d5": {
       "type": "featured-collection",
       "settings": {
@@ -608,7 +594,6 @@
     "05c72be6-ebf5-43d7-a131-2ad85a44809c",
     "1b2b2783-7d13-481d-8750-4750195154d9",
     "5ede45b4-511d-40ec-b001-2c0125aa9314",
-    "1fc5f49d-5f7f-442d-a069-706d871813fb",
     "1651721243512d65d5",
     "22579607-74ad-4e48-bde3-8d2371cd1b89",
     "16553343122727c31e",
