@@ -17,22 +17,29 @@
         "cf23_upsell_product_desc": ""
       }
     },
-    "16782175927fe3d9b2": {
-      "type": "apps",
+    "26d66b87-9715-4c69-b354-409a9cd58da4": {
+      "type": "rich-text",
       "blocks": {
-        "1e5c1958-90f4-41b9-a74a-79ccfcd7c220": {
-          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+        "template--15828224671939__26d66b87-9715-4c69-b354-409a9cd58da4-text-1": {
+          "type": "text",
           "settings": {
-            "enabled": true,
-            "id": "77198",
-            "product_id_enabled": true,
-            "collection_id_enabled": true
+            "text": "<p>Shipping to Australia? Orders over $1000AUD are liable for duties and GST on import, of which the GST portion can be claimed back by businesses.<\/p>",
+            "enlarge_text": false
           }
         }
       },
       "block_order": [
-        "1e5c1958-90f4-41b9-a74a-79ccfcd7c220"
+        "template--15828224671939__26d66b87-9715-4c69-b354-409a9cd58da4-text-1"
       ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16782175927fe3d9b2": {
+      "type": "apps",
       "settings": {
         "full_width": true
       }
@@ -263,6 +270,7 @@
   },
   "order": [
     "main",
+    "26d66b87-9715-4c69-b354-409a9cd58da4",
     "16782175927fe3d9b2",
     "16558549196a7c76a6",
     "16532632762b3fde00",
