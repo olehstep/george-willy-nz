@@ -20,15 +20,23 @@
     "26d66b87-9715-4c69-b354-409a9cd58da4": {
       "type": "rich-text",
       "blocks": {
+        "c50957cd-a405-4f5d-ac2a-58fca81bd98b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SHIPPING TO AUSTRALIA?<\/p>",
+            "enlarge_text": true
+          }
+        },
         "template--15828224671939__26d66b87-9715-4c69-b354-409a9cd58da4-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Shipping to Australia? Orders over $1000AUD are liable for duties and GST on import, of which the GST portion can be claimed back by businesses.<\/p>",
+            "text": "<p>Orders over $1000AUD are liable for duties and GST on import, of which the GST portion can be claimed back by businesses.<\/p>",
             "enlarge_text": false
           }
         }
       },
       "block_order": [
+        "c50957cd-a405-4f5d-ac2a-58fca81bd98b",
         "template--15828224671939__26d66b87-9715-4c69-b354-409a9cd58da4-text-1"
       ],
       "settings": {
