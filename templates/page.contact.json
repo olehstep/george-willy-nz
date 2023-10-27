@@ -60,32 +60,10 @@
         "contact_title": "",
         "contact_text": "<p>Let us know if you have any questions, we'll get back to you as soon as possible, usually within a day!<\/p>"
       }
-    },
-    "16562902268b0a24dd": {
-      "type": "rich-text",
-      "blocks": {
-        "1656290226c413d1d8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Prefer to chat? Message us on <a href=\"https:\/\/wa.me\/message\/TK7EAP7UXN6ZH1\" target=\"_blank\" title=\"https:\/\/wa.me\/message\/TK7EAP7UXN6ZH1\">Whatsapp<\/a>. <\/p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "1656290226c413d1d8-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": false
-      }
     }
   },
   "order": [
     "1656289918b27e3978",
-    "main",
-    "16562902268b0a24dd"
+    "main"
   ]
 }
