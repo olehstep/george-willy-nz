@@ -84,6 +84,7 @@
         },
         "475c9d63-3c3e-40e3-808f-38380617c94d": {
           "type": "accordion_m",
+          "disabled": true,
           "settings": {
             "title": "Delivery & Returns",
             "icon": "box",
