@@ -277,6 +277,7 @@
     },
     "165543266112ffbf5b": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
         "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
