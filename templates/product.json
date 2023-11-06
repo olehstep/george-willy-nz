@@ -47,13 +47,6 @@
             "show_pickup_availability": true
           }
         },
-        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<p>\nOrder now for delivery between: <span id=\"fromDate\"><\/span> - <span id=\"toDate\"><\/span><\/p>\n{{ '\/\/cdnjs.cloudflare.com\/ajax\/libs\/datejs\/1.0\/date.min.js' | script_tag }}\n<script>\nvar fromDate = Date.today().addDays(2);\nif (fromDate.is().saturday() || fromDate.is().sunday()) {\nfromDate = fromDate.next().monday();\n}\nvar toDate = Date.today().addDays(6);\nif (toDate.is().saturday() || toDate.is().sunday()) {\ntoDate = toDate.next().monday();\n}\ndocument.getElementById('fromDate').innerHTML = fromDate.toString('MMMM dS');\ndocument.getElementById('toDate').innerHTML = toDate.toString('MMMM dS');\n<\/script>",
-            "show_in_quickbuy": false
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -132,7 +125,6 @@
         "divider",
         "variant_picker",
         "buy_buttons",
-        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482",
         "description",
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "4f072d32-a18e-461d-b627-760b788caf10",
