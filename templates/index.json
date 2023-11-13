@@ -205,7 +205,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/GW-Solo2-AFrame_ff98dec2-6a68-440d-8143-e1297f6c7574.jpg",
             "alignment": "center center",
-            "enlarge_image": true,
+            "enlarge_image": false,
             "subheading": "",
             "title": "",
             "button_label": "Shop Signage",
@@ -216,13 +216,13 @@
         "165472824908897e33-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/George-and-Willy-Round-Sign-white.jpg",
+            "image": "shopify:\/\/shop_images\/Magnetic-Letter-Menu-George-and-Willy.jpg",
             "alignment": "center center",
-            "enlarge_image": true,
+            "enlarge_image": false,
             "subheading": "",
             "title": "",
-            "button_label": "Wall Signs",
-            "link": "shopify:\/\/collections\/wall-signage",
+            "button_label": "Shop Menu Displays",
+            "link": "shopify:\/\/collections\/letter-menu-boards",
             "text_alignment": "bottom left"
           }
         }
