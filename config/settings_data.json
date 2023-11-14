@@ -1049,6 +1049,7 @@
     "cart_currency_code_enabled": true,
     "image_09_desktop": "shopify:\/\/shop_images\/trust_seals.png",
     "cf08_imp": false,
+    "cf10_imp": false,
     "cf10_estDeliveryDate": 4,
     "cf23_imp": false,
     "cf25_imp": true,
