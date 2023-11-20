@@ -55,36 +55,6 @@
         "use_alt_bg": false
       }
     },
-    "e87ee700-6f82-4637-ae1f-0bc4548a638d": {
-      "type": "rich-text",
-      "blocks": {
-        "5e20542a-1824-46ab-a4aa-55ae99067d5e": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Want to be added to our Sign Writer Directory?<\/p>",
-            "enlarge_text": true
-          }
-        },
-        "b2406ba4-0752-4511-a332-c231a408d925": {
-          "type": "button",
-          "settings": {
-            "button_label": "Apply Now",
-            "button_link": "mailto:hello@georgeandwilly.com",
-            "button_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "5e20542a-1824-46ab-a4aa-55ae99067d5e",
-        "b2406ba4-0752-4511-a332-c231a408d925"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": false
-      }
-    },
     "bb139400-715a-439d-8007-da2d940a056e": {
       "type": "video-with-text",
       "settings": {
@@ -93,7 +63,7 @@
         "subheading": "G&W Tips",
         "title": "Applying a vinyl sticker",
         "use_h1": false,
-        "text": "<p>All of our Signs arrive blank, ready for you to apply your own branding from your local sign writer. It's much easier than it sounds, so we thought we'd show you how.<\/p>",
+        "text": "<p>All of our signs arrive blank, ready for you to apply your own branding from your local sign writer. It's much easier than it sounds, so we thought we'd show you how.<\/p>",
         "button_label": "Read More",
         "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
         "button_style": "link",
@@ -128,7 +98,6 @@
     "main",
     "0d524aea-1a37-4b08-b109-dd091675cd89",
     "df30c25a-031e-4aa0-ba40-d224dca9b424",
-    "e87ee700-6f82-4637-ae1f-0bc4548a638d",
     "bb139400-715a-439d-8007-da2d940a056e",
     "44ca8626-0cfc-4ac0-9b91-5f73c29bd9dd"
   ]
