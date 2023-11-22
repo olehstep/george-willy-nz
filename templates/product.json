@@ -100,6 +100,7 @@
         },
         "c8b7b251-e8b6-43f1-95e0-c7b1b925dd43": {
           "type": "accordion_m",
+          "disabled": true,
           "settings": {
             "title": "Assembly Instructions",
             "icon": "check_mark",
