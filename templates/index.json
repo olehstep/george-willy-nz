@@ -6,8 +6,8 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BF-Banner.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/BF-banner-SQ.jpg",
+        "image": "shopify:\/\/shop_images\/Cyber_monday_banner.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Cyber_monday_banner_Square.jpg",
         "image_position": "center center",
         "mobile_image_position": "center center",
         "height": "adapt",
