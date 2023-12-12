@@ -98,7 +98,7 @@
                   {% if item.line_level_discount_allocations.size > 0 %}
                     <ul class="cart-discount-list">
                     {% for discount_allocation in item.line_level_discount_allocations %}
-                      {% if discount_allocation.discount_application.title != 'Intelligems' %}
+                      {% if discount_allocation.discount_application.title != 'Discount' %}
                       <li class="cart-discount">
                         <div class="cart-discount__label">
                             <span class="cart-discount__icon">{% render 'icon-label' %}</span>
