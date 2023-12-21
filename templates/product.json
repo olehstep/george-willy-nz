@@ -29,8 +29,8 @@
         "0dd253fe-1b3a-4af1-8907-6ed7549aed47": {
           "type": "richtext",
           "settings": {
-            "richtext": "<p>{{ product.metafields.custom.usp_block.value }}<\/p>",
-            "icon": "",
+            "richtext": "<p><strong>{{ product.metafields.custom.usp_block.value }}<\/strong><\/p>",
+            "icon": "award",
             "icon_size": "small",
             "enable_box": false,
             "box_color": "#e0f4d5",
