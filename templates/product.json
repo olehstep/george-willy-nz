@@ -20,20 +20,20 @@
           "settings": {
           }
         },
-        "divider": {
-          "type": "divider",
-          "settings": {
-            "show_in_quickbuy": false
-          }
-        },
         "0dd253fe-1b3a-4af1-8907-6ed7549aed47": {
           "type": "richtext",
           "settings": {
             "richtext": "<p><strong>{{ product.metafields.custom.usp_block.value }}<\/strong><\/p>",
-            "icon": "star",
+            "icon": "",
             "icon_size": "large",
             "enable_box": false,
             "box_color": "#3e5843",
+            "show_in_quickbuy": false
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
             "show_in_quickbuy": false
           }
         },
@@ -134,8 +134,8 @@
         "title",
         "price",
         "0fda3a8c-030e-4888-bc7b-dfee296a290e",
-        "divider",
         "0dd253fe-1b3a-4af1-8907-6ed7549aed47",
+        "divider",
         "variant_picker",
         "buy_buttons",
         "description",
