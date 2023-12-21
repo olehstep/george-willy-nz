@@ -31,9 +31,9 @@
           "settings": {
             "richtext": "<p><strong>{{ product.metafields.custom.usp_block.value }}<\/strong><\/p>",
             "icon": "award",
-            "icon_size": "small",
+            "icon_size": "large",
             "enable_box": false,
-            "box_color": "#e0f4d5",
+            "box_color": "#3e5843",
             "show_in_quickbuy": false
           }
         },
