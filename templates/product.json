@@ -20,6 +20,17 @@
           "settings": {
           }
         },
+        "0dd253fe-1b3a-4af1-8907-6ed7549aed47": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p><strong>{{ product.metafields.custom.usp_block.value }}<\/strong><\/p>",
+            "icon": "",
+            "icon_size": "large",
+            "enable_box": false,
+            "box_color": "#3e5843",
+            "show_in_quickbuy": false
+          }
+        },
         "divider": {
           "type": "divider",
           "settings": {
@@ -45,17 +56,6 @@
             "enable_payment_button": true,
             "show_backorder_text": true,
             "show_pickup_availability": true
-          }
-        },
-        "0dd253fe-1b3a-4af1-8907-6ed7549aed47": {
-          "type": "richtext",
-          "settings": {
-            "richtext": "<p><strong>{{ product.metafields.custom.usp_block.value }}<\/strong><\/p>",
-            "icon": "",
-            "icon_size": "large",
-            "enable_box": false,
-            "box_color": "#3e5843",
-            "show_in_quickbuy": false
           }
         },
         "description": {
@@ -134,10 +134,10 @@
         "title",
         "price",
         "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "0dd253fe-1b3a-4af1-8907-6ed7549aed47",
         "divider",
         "variant_picker",
         "buy_buttons",
-        "0dd253fe-1b3a-4af1-8907-6ed7549aed47",
         "description",
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "4f072d32-a18e-461d-b627-760b788caf10",
