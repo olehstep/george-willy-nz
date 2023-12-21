@@ -30,7 +30,7 @@
           "type": "richtext",
           "settings": {
             "richtext": "<p><strong>{{ product.metafields.custom.usp_block.value }}<\/strong><\/p>",
-            "icon": "award",
+            "icon": "star",
             "icon_size": "large",
             "enable_box": false,
             "box_color": "#3e5843",
