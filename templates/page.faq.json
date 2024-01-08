@@ -259,7 +259,7 @@
           "type": "question",
           "settings": {
             "title": "Do you offer bulk or Trade discounts?",
-            "answer": "<p>If you are looking to place an order for 20 or more units, please email our trade team at <a href=\"mailto:trade@georgeandwilly.com\" target=\"_blank\">trade@georgeandwilly.com<\/a>. <\/p><p>Otherwise, please order directly from our website and click the quantity dropdown to receive a discount on multiple units.<\/p>"
+            "answer": "<p>If you are looking to place a bulk order for 10+ units, please email our team at <a href=\"mailto:sales@georgeandwilly.com\" target=\"_blank\">sales@georgeandwilly.com<\/a>.<\/p>"
           }
         }
       },
