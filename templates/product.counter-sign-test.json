@@ -133,8 +133,8 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/G_W211210_10069-new.jpg",
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "title": "By the Dozen",
+            "text": "",
             "button_label": "",
             "link": ""
           }
@@ -155,6 +155,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Counter_Sign_Test_Listing.jpg",
             "image_width": 700,
             "title": "Add a title or tagline",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
