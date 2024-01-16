@@ -86,18 +86,6 @@
             "show_in_quickbuy": false
           }
         },
-        "475c9d63-3c3e-40e3-808f-38380617c94d": {
-          "type": "accordion_m",
-          "disabled": true,
-          "settings": {
-            "title": "Delivery & Returns",
-            "icon": "box",
-            "metafield_key": "custom.accordion_delivery_returns",
-            "page": "",
-            "open": false,
-            "show_in_quickbuy": false
-          }
-        },
         "3ae5490c-86e8-469d-a4d9-cdf50c07e974": {
           "type": "accordion_m",
           "settings": {
@@ -107,26 +95,6 @@
             "page": "",
             "open": false,
             "show_in_quickbuy": false
-          }
-        },
-        "c8b7b251-e8b6-43f1-95e0-c7b1b925dd43": {
-          "type": "accordion_m",
-          "disabled": true,
-          "settings": {
-            "title": "Assembly Instructions",
-            "icon": "check_mark",
-            "metafield_key": "custom.accordion_assembly_instructions",
-            "page": "",
-            "open": false,
-            "show_in_quickbuy": false
-          }
-        },
-        "54a2cd51-2a3d-4f29-b229-0f7dc8cd8ffa": {
-          "type": "related_products_m",
-          "disabled": true,
-          "settings": {
-            "metafield_key": "custom.related_products_title",
-            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}"
           }
         }
       },
@@ -141,10 +109,7 @@
         "description",
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "4f072d32-a18e-461d-b627-760b788caf10",
-        "475c9d63-3c3e-40e3-808f-38380617c94d",
-        "3ae5490c-86e8-469d-a4d9-cdf50c07e974",
-        "c8b7b251-e8b6-43f1-95e0-c7b1b925dd43",
-        "54a2cd51-2a3d-4f29-b229-0f7dc8cd8ffa"
+        "3ae5490c-86e8-469d-a4d9-cdf50c07e974"
       ],
       "settings": {
         "show_breadcrumbs": true,
@@ -157,6 +122,56 @@
         "enable_video_looping": false,
         "enable_var_img_grouping": false,
         "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "multi_column_e79Cf4": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_PFQHjc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/G_W211210_10069-new.jpg",
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_AUCBz9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_YNhLba": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_PFQHjc",
+        "text_block_AUCBz9",
+        "text_block_YNhLba"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
       }
     },
     "1655433418cebadf50": {
@@ -230,6 +245,7 @@
   },
   "order": [
     "main",
+    "multi_column_e79Cf4",
     "1655433418cebadf50",
     "bd072459-1cf0-4a65-bb5b-a67899153079",
     "1655859379d08f0f7b",
