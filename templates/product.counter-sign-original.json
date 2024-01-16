@@ -1,0 +1,238 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "0dd253fe-1b3a-4af1-8907-6ed7549aed47": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p><strong>{{ product.metafields.custom.usp_block.value }}<\/strong><\/p>",
+            "icon": "",
+            "icon_size": "large",
+            "enable_box": false,
+            "box_color": "#3e5843",
+            "show_in_quickbuy": false
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": true,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "4f072d32-a18e-461d-b627-760b788caf10": {
+          "type": "accordion_m",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "metafield_key": "custom.accordion_specification",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "475c9d63-3c3e-40e3-808f-38380617c94d": {
+          "type": "accordion_m",
+          "disabled": true,
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "metafield_key": "custom.accordion_delivery_returns",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "3ae5490c-86e8-469d-a4d9-cdf50c07e974": {
+          "type": "accordion_m",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "metafield_key": "custom.accordion_faqs",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "c8b7b251-e8b6-43f1-95e0-c7b1b925dd43": {
+          "type": "accordion_m",
+          "disabled": true,
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "metafield_key": "custom.accordion_assembly_instructions",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "54a2cd51-2a3d-4f29-b229-0f7dc8cd8ffa": {
+          "type": "related_products_m",
+          "disabled": true,
+          "settings": {
+            "metafield_key": "custom.related_products_title",
+            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "0dd253fe-1b3a-4af1-8907-6ed7549aed47",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "4f072d32-a18e-461d-b627-760b788caf10",
+        "475c9d63-3c3e-40e3-808f-38380617c94d",
+        "3ae5490c-86e8-469d-a4d9-cdf50c07e974",
+        "c8b7b251-e8b6-43f1-95e0-c7b1b925dd43",
+        "54a2cd51-2a3d-4f29-b229-0f7dc8cd8ffa"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": false,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px_60860835-0bff-4c42-bb60-cfb4ec616175.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px_60860835-0bff-4c42-bb60-cfb4ec616175.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "bd072459-1cf0-4a65-bb5b-a67899153079": {
+      "type": "metafields_featured-collection",
+      "disabled": true,
+      "settings": {
+        "metafield_key": "custom.featured_collection",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655433418cebadf50",
+    "bd072459-1cf0-4a65-bb5b-a67899153079",
+    "1655859379d08f0f7b",
+    "recommendations"
+  ]
+}
