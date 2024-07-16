@@ -1,8 +1,16 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1656282874193e6b8a": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "828ee978-0cc4-47bd-8898-1add463d3b8e": {
           "type": "button",
@@ -40,7 +48,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Home Products",
-            "button_link": "shopify:\/\/collections\/for-home",
+            "button_link": "shopify:\/\/collections\/home",
             "button_style": "primary"
           }
         }
@@ -52,6 +60,7 @@
         "093f35df-d7db-4db8-9b98-d32d7c380c23",
         "f571e0c4-f5c9-4667-bfab-71293ad0329e"
       ],
+      "disabled": true,
       "settings": {
         "height": "medium",
         "text_alignment": "center",
@@ -91,7 +100,7 @@
         "c5aaa502-3959-4188-ae46-c1b6310041b0": {
           "type": "collection",
           "settings": {
-            "collection": "for-home"
+            "collection": "home"
           }
         },
         "7b6ca5d1-8624-4dd4-a5f5-f95ea0656c94": {

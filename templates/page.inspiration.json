@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "16566320477e0d5023": {
@@ -548,7 +557,7 @@
             "subheading": "",
             "title": "",
             "button_label": "view products",
-            "link": "shopify:\/\/collections\/for-home",
+            "link": "shopify:\/\/collections\/home",
             "text_alignment": "bottom left"
           }
         },
@@ -725,7 +734,6 @@
     },
     "19046c24-34a2-436c-9838-395369c2b343": {
       "type": "gallery",
-      "disabled": true,
       "blocks": {
         "template--15796583989443__19046c24-34a2-436c-9838-395369c2b343-16832580044e92382e-3": {
           "type": "image",
@@ -772,6 +780,7 @@
         "82435b37-e14c-4deb-9da5-61212edb59cf",
         "397690fb-3427-4f96-9f7a-2c062402e747"
       ],
+      "disabled": true,
       "settings": {
         "gallery_title": "",
         "grid": 2,

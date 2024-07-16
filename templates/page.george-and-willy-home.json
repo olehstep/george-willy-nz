@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -25,7 +34,7 @@
         "text": "",
         "enlarge_text": true,
         "button_label_1": "EXPLORE HOME",
-        "button_url_1": "shopify:\/\/collections\/for-home",
+        "button_url_1": "shopify:\/\/collections\/home",
         "button_label_2": "",
         "button_url_2": "",
         "text_alignment": "center left",
