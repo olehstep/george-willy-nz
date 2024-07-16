@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -20,7 +29,7 @@
         "f6e90493-d228-4c5b-aed0-c247a36f7976": {
           "type": "collection",
           "settings": {
-            "collection": "for-home"
+            "collection": "home"
           }
         },
         "d9e7ad32-deca-4006-966b-49f77165eedb": {
